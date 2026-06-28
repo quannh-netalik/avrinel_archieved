@@ -29,7 +29,7 @@
                   "courses/bytebytego/how-to-write-a-good-resume/introduction",
                   {
                     "group": "Part 1: Resumes and Hiring",
-                    "root": "courses/bytebytego/how-to-write-a-good-resume/part1-resumes-and-hiring/index",
+                    "root": "courses/bytebytego/how-to-write-a-good-resume/part1-resumes-and-hiring/_index",
                     "pages": [
                       "courses/bytebytego/how-to-write-a-good-resume/part1-resumes-and-hiring/chapter1-why-resumes-matter",
                       "courses/bytebytego/how-to-write-a-good-resume/part1-resumes-and-hiring/chapter2-the-hiring-pipeline"
