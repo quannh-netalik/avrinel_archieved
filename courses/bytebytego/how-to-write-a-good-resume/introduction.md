@@ -36,7 +36,7 @@ The book is split into three different parts. I recommend skimming the book once
 
 [Part 1: Resumes and the Hiring Process](./part1-resumes-and-hiring/_index) shares context on why resumes are important, and how the hiring process works at most companies. If you have not been a hiring manager yourself, I recommend starting with this section. In order to deliberately write a good resume that recruiters and hiring managers will notice, knowing how the process works and who you are writing the resume for is important.
 
-[[_Part 2 - Overview|Part 2: Writing the Resume]] presents actionable advice on how to write a good resume. Each of the chapters in this part focus on a specific area within your resume. This part is heavy on examples.
+[Part 2: Writing the Resume](./part2-writing-the-resume/_index) presents actionable advice on how to write a good resume. Each of the chapters in this part focus on a specific area within your resume. This part is heavy on examples.
 
 **Before and after examples** showcase real-world, but anonymized resume snippets as their author originally wrote them. Improvement areas are visualized <mark class="highlight-magenta">with highlights</mark>, and the <mark class="highlight-green">improvements afterwards</mark> are also made clear.
 

@@ -38,7 +38,9 @@
                   {
                     "group": "Part 2: Writing the Resume",
                     "root": "courses/bytebytego/how-to-write-a-good-resume/part2-writing-the-resume/_index",
-                    "pages": []
+                    "pages": [
+                      "courses/bytebytego/how-to-write-a-good-resume/part2-writing-the-resume/chapter3-tech-resume-basics"
+                    ]
                   }
                 ]
               },

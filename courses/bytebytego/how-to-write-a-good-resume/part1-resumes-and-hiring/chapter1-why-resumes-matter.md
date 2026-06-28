@@ -36,7 +36,7 @@ The goal of the resume is to sell you for that specific position—and do this i
 
   *2. **Maybe** pile: not a perfect fit, but close. If I don't get enough “Yes” ones, I'll go through the maybe pile. No more than 5 in this pile. Everything else goes into the:*
 
-  *3. **No** pile: I'm really looking for a reason to put the resume in the NO pile. Poor spelling, grammar (see [[Chapter 3 - Tech Resume Basics#Ground Rules|Chapter 3 - Tech Resume Basics (Ground Rules)]] for resume ground rules), no relevant experience in the last two years, different tech stack? If the "Yes" pile is big enough, those will get the resume onto the "No" pile.”*
+  *3. **No** pile: I'm really looking for a reason to put the resume in the NO pile. Poor spelling, grammar (see [Chapter 3 - Tech Resume Basics (Ground Rules)](../part2-writing-the-resume/chapter3-tech-resume-basics#ground-rules) for resume ground rules), no relevant experience in the last two years, different tech stack? If the "Yes" pile is big enough, those will get the resume onto the "No" pile.”*
 
   **The goal of your resume should be to “jump out” as a Yes pile candidate.** The Yes/Maybe/No approach is typical of how hiring managers and recruiters screen resumes. Assuming you are a fit for what the job is looking for, you’ll want to tailor your resume to maximize the chances of this match being clear on the first scan. With many applicants and a poorly written resume, there’s a good chance yours will end up in the “Maybe” or the “No” pile. And if there are enough “Yes” candidates who pass the phone screen, you might not get that next call, even if you are on the top of the “Maybe” pile.
 </Card>

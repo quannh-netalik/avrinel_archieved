@@ -8,7 +8,7 @@ How do you write a good developer resume? There are a few areas you want to get 
 
 How do you write a good developer resume? There are a few areas you want to get right, and the chapters cover these one by one.
 
-In [[Chapter 3 - Tech Resume Basics]], we go through what recruiters and hiring managers look for in their first resume scan. We also go through several unwritten rules of resume writing.
+In [Chapter 3 - Tech Resume Basics](../part2-writing-the-resume/chapter3-tech-resume-basics), we go through what recruiters and hiring managers look for in their first resume scan. We also go through several unwritten rules of resume writing.
 
 [[Chapter 4 - Resume Structure]] gives suggestions on how to structure your resume based on your work experience. Depending on whether you are out of school, have work experience, or when you are at a senior or above level, different resume structures can help you write a more relevant resume.
 
