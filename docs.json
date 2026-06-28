@@ -25,7 +25,15 @@
                 "group": "How to write a Good Resume?",
                 "icon": "file-lines",
                 "pages": [
-                  "courses/bytebytego/how-to-write-a-good-resume/acknowledgements"
+                  "courses/bytebytego/how-to-write-a-good-resume/acknowledgements",
+                  "courses/bytebytego/how-to-write-a-good-resume/introduction",
+                  {
+                    "group": "Part 1: Resumes and Hiring",
+                    "root": "courses/bytebytego/how-to-write-a-good-resume/part1-resumes-and-hiring/index",
+                    "pages": [
+                      "index"
+                    ]
+                  }
                 ]
               },
               {
