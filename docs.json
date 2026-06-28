@@ -16,13 +16,18 @@
         "tabs": [
           {
             "tab": "Home",
-            "pages": [
-              "index"
-            ]
+            "pages": ["index"]
           },
           {
             "tab": "Bytebytego",
             "groups": [
+              {
+                "group": "How to write a Good Resume?",
+                "icon": "file-lines",
+                "pages": [
+                  "courses/bytebytego/how-to-write-a-good-resume/acknowledgements"
+                ]
+              },
               {
                 "group": "System Design",
                 "icon": "cubes",
@@ -45,19 +50,13 @@
             "groups": [
               {
                 "group": "Getting Started",
-                "pages": [
-                  "analytics/quickstart",
-                  "analytics/setup"
-                ]
+                "pages": ["analytics/quickstart", "analytics/setup"]
               }
             ]
           },
           {
             "tab": "API",
-            "pages": [
-              "analytics/api/events",
-              "analytics/api/reports"
-            ]
+            "pages": ["analytics/api/events", "analytics/api/reports"]
           }
         ]
       }
