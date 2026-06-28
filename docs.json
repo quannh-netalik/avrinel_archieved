@@ -1,0 +1,96 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "sequoia",
+  "name": "avrinel",
+  "colors": {
+    "primary": "#16A34A",
+    "light": "#07C983",
+    "dark": "#15803D"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "products": [
+      {
+        "product": "Courses",
+        "icon": "graduation-cap",
+        "tabs": [
+          {
+            "tab": "Home",
+            "pages": [
+              "index"
+            ]
+          },
+          {
+            "tab": "Bytebytego",
+            "groups": [
+              {
+                "group": "System Design",
+                "icon": "cubes",
+                "pages": [
+                  "courses/bytebytego/system-design/foreword",
+                  "courses/bytebytego/system-design/join-the-community",
+                  "courses/bytebytego/system-design/scale-from-zero-to-millions-of-users"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "product": "Books",
+        "icon": "book",
+        "tabs": [
+          {
+            "tab": "Documentation",
+            "groups": [
+              {
+                "group": "Getting Started",
+                "pages": [
+                  "analytics/quickstart",
+                  "analytics/setup"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "API",
+            "pages": [
+              "analytics/api/events",
+              "analytics/api/reports"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://app.mintlify.com"
+    }
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/mintlify",
+      "github": "https://github.com/mintlify",
+      "linkedin": "https://linkedin.com/company/mintlify"
+    }
+  }
+}
