@@ -24,7 +24,7 @@ Everything presented in this guide is opinions that might or might not apply to 
 
 This book is not a definite guide on what works, and what doesn’t, when applying for any specific company. Though the author and contributing authors have worked at a variety of tech companies, this does not make it an official guide for any of the companies mentioned in the book.
 
-This goes back to how hiring works. As we’ll cover in [[Chapter 2 - The Hiring Pipeline]], hiring is a process that can differ not only per company, but also per hiring manager. Also, the likelihood of you receiving a follow-up call after applying for a position is dependent on many other factors that are impossible to predict. These include how many other qualified applications there are, what the timeline to fill the position is, how many open positions there are, and many others.
+This goes back to how hiring works. As we’ll cover in [Chapter 2 - The Hiring Pipeline](./part1-resumes-and-hiring/chapter2-the-hiring-pipeline), hiring is a process that can differ not only per company, but also per hiring manager. Also, the likelihood of you receiving a follow-up call after applying for a position is dependent on many other factors that are impossible to predict. These include how many other qualified applications there are, what the timeline to fill the position is, how many open positions there are, and many others.
 
 Software engineers realize that there are no one-size-fits-all solutions on what language to use to build a website, or what architecture to follow when designing a complex application. In a similar way, there is no one-size-fits-all resume template that will yield the best results, or resume contents that will always result in a recruiter call.
 

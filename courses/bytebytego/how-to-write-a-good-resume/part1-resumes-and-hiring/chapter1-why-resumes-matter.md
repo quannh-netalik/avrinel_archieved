@@ -101,7 +101,7 @@ If you want to get a job via a direct application, build that resume and customi
 I have gotten several messages, where people think that the format of their resume is the only thing that is getting in the way of getting that recruiter call. Messages such as this one:
 
 <Card icon="quote-right" type="info" horizontal className="italic">
-  "I have been applying to Facebook in London, Stripe in New York, and Snap in LA. I haven’t heard back from any of them. Can you help me fix my resume so I get an interview?"
+  I have been applying to Facebook in London, Stripe in New York, and Snap in LA. I haven’t heard back from any of them. Can you help me fix my resume so I get an interview?
 </Card>
 
 **A well-written resume is required, but it is not sufficient** to get a recruiter call. There are several other factors that are outside your control. These include:
@@ -111,7 +111,7 @@ I have gotten several messages, where people think that the format of their resu
 - **Being local vs needing relocation.** If a position sees hundreds of applications, the local candidates might get preference. They won’t need relocation, which means they could start faster. Also, the lack of relocation makes this cheaper for the company.
 - **Your visa status.** When a company has to apply for a visa for you to work in the country, this takes time and money. Companies usually only sponsor visas for senior positions, where they cannot find candidates without needing visas. Even many of the big tech companies only sponsor visas for senior or above positions.
 - **Your seniority.** Certain positions only look for people with certain seniority—even if they do not advertise this externally. You might be considered not having enough experience for a position. This is frequently the case when you are a new grad, or have less than two years of experience, applying for positions that do not consider people without a few years of industry work behind them. In more rare cases, the recruiter might decide you seem to be overqualified for the position, with all your experience.
-- **Luck.** Blind chance also plays a role, especially when your resume competes with hundreds of others. There are ways to make luck less of a factor—see [[Chapter 2 - The Hiring Pipeline#Referrals|the section on referrals]], which can make the biggest difference in eliminating this factor and getting to a recruiter screen.
+- **Luck.** Blind chance also plays a role, especially when your resume competes with hundreds of others. There are ways to make luck less of a factor—see [the section on referrals](./chapter2-the-hiring-pipeline#referrals), which can make the biggest difference in eliminating this factor and getting to a recruiter screen.
 
 This book will help you craft a resume that represents you fairly. While following the advice will hopefully help you see higher response rates, there is no “magic formula” for getting that next call. At the same time, the more you know about what is happening behind the scenes, the more you can write your resume for the people who will be reading them. To understand who the key people are, let’s dive into how the hiring process typically works at tech companies, and who might be reading your resume.
 
