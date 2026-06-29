@@ -38,14 +38,14 @@ The book is split into three different parts. I recommend skimming the book once
 
 [Part 2: Writing the Resume](./part2-writing-the-resume/_index) presents actionable advice on how to write a good resume. Each of the chapters in this part focus on a specific area within your resume. This part is heavy on examples.
 
-**Before and after examples** showcase real-world, but anonymized resume snippets as their author originally wrote them. Improvement areas are visualized <mark class="highlight-magenta">with highlights</mark>, and the <mark class="highlight-green">improvements afterwards</mark> are also made clear.
+- **Before and after examples** showcase real-world, but anonymized resume snippets as their author originally wrote them. Improvement areas are visualized <mark class="highlight-magenta">with highlights</mark>, and the <mark class="highlight-green">improvements afterwards</mark> are also made clear.
 
-**Recap: actions to improve your resume** sections close each of the chapters in Part 2. These are practical checks and exercises you can do to make improvements to your resume.
+- **Recap: actions to improve your resume** sections close each of the chapters in Part 2. These are practical checks and exercises you can do to make improvements to your resume.
 
-[[_Part 3 - Overview|Part 3: examples and inspiration]] provides templates to get started with writing your resume, as well as anonymized developer resume examples to kick start you with writing your own resume.
+[Part 3: examples and inspiration](./part3-examples-and-inspiration/_index) provides templates to get started with writing your resume, as well as anonymized developer resume examples to kick start you with writing your own resume.
 
 <Card
-  title="From the inside out: insights from people running the hiring process"
+  title="From the inside out: Insights from people running the hiring process"
   icon="align-left"
   type="info"
 >
