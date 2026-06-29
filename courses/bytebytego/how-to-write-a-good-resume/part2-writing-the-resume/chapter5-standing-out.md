@@ -20,7 +20,7 @@ You want to convey that you are self-sufficient, that your work made a differenc
 - **Use active language** that shows what you have *done* and how you have been proactive. Use active verbs like “led”, “managed”, “drove”, “improved”, “rolled out” over passive ones like “improving” or “rolling out”.
 - **Mention specific languages and technologies** that you used towards the end of your description. Impact and your contribution are more important to convey than the technologies. However, it’s worth calling out what tools you’ve used. Mentioning technologies in this context is more powerful for hiring managers and interviewers who are reading your resume in detail. Make sure that these technologies overlap with the ones you listed in your standalone Languages & Technologies section in your resume.
 
-**You stand out from the crowd by talking about the impact of your work and how you contributed to it, not just what you did or were responsible for**. The more senior you are, the more of an expectation this is, but doing so will make you stand out in all cases. Your resume should showcase how you have consciously and proactively added value through your actions. People who do this are the ones sought after—developers who follow directions are a dime a dozen.
+**You stand out from the crowd by talking about the impact of your work and how you contributed to it, not just what you did or were responsible for**. The more senior you are, the more of an expectation this is, but doing so will make you stand out in all cases. Your resume should showcase how you have consciously and proactively added value through your actions. People who do this are the ones sought after-developers who follow directions are a dime a dozen.
 
 <Card
   title="From the inside out: How do I come up with bullet points for my resume?"
@@ -57,7 +57,7 @@ Talking about impact and your accomplishments is one of the most underrated appr
   <img
     src="../assets/chap5-standing-out/before_after_02_v1.webp"
     alt="Image represents a text-based description of a software engineer's experience at a company called Gibbery. The top line states the job title, 'Software Engineer at Gibbery'. Below this, a bulleted list details four key accomplishments. The first bullet point describes working on the Billing team and developing microservices. The second bullet point highlights the automation of error handling in RESTful API services, resulting in a reduction of client support tickets. The third bullet point focuses on improving the customer experience of the MyTrinn platform by integrating third-party APIs like Zoom Rooms and Square. Finally, the fourth bullet point details reverse engineering and analysis of undocumented legacy code to understand its business logic, clean and refactor it, ultimately creating a new billing-focused service. There are no diagrams, URLs, or parameters present; the information is purely textual and presented as a concise summary of professional experience."
-    width={500}
+    width={700}
   />
 </Frame>
 
@@ -69,7 +69,7 @@ While this description is not that bad, it does not talk about specifics that so
   <img
     src="../assets/chap5-standing-out/before_after_02_v2.webp"
     alt="Image represents a text-based description of a software engineer's experience at Gibbery. The main component is a bulleted list detailing four projects. The first bullet point describes working on the Billing team, developing microservices, but lacks specific details ('missing specifics'). The second bullet point details automating the error handling process for RESTful APIs, resulting in a reduced client support ticket rate, again lacking specific quantifiable results ('missing specifics, and could describe better what you did'). The third bullet point focuses on enhancing the MySap platform's customer experience through third-party API integrations (Zoom for meetings, Square for payments), again missing specific details ('missing specifics'). The final bullet point describes reverse engineering and analyzing undocumented legacy code to understand business logic, clean the code, isolate domains, and refactor it for a new billing service; however, feedback suggests the impact of this work needs clearer articulation and less passive phrasing ('impact of work could be more clear, passive statements, description makes it seem this person was told what to do'). The entire structure is a simple vertical list, with each bullet point describing a separate project and highlighting areas where more detail and active voice are needed."
-    width={500}
+    width={700}
   />
 </Frame>
 
@@ -79,7 +79,7 @@ While this description is not that bad, it does not talk about specifics that so
   <img
     src="../assets/chap5-standing-out/before_after_02_v3.webp"
     alt="Image represents a bulleted list detailing the accomplishments of a Software Engineer at Gibbery, specifically within the Billing team. The list comprises five bullet points, each describing a distinct project or improvement. The first bullet point mentions the development, deployment, and operation of multiple microservices handling up to 200 queries per second (QPS). The second bullet point details improving the availability of a 'receipts Go microservice' from 99.8% to 99.9% by implementing a read-through cache layer using Redis. The third bullet point describes a reduction in support tickets by 80% for a major client through improved error handling in a Node.JS API, ensuring 100% of error codes are mapped to appropriate HTTP codes. The fourth bullet point highlights a 30% increase in customer conversion on a co-working platform (MySap) by integrating recurring payments and Zoom rooms using PHP and Go. Finally, the fifth bullet point focuses on enhancing the maintainability of the core billing engine by reverse engineering legacy code, isolating it into separate domains, and migrating it to independent services. No visual connections or flows are present; the information is purely textual and hierarchical, organized as a list of accomplishments."
-    width={500}
+    width={700}
   />
 </Frame>
 
@@ -89,8 +89,8 @@ The “after” version adds specifics and describes what this person has done. 
 
 Your resume should sell the professional “you” for the position you are applying for. Don’t claim untrue things, but do aim to paint a great picture of yourself for the audience: the recruiter and the hiring manager.
 
-- **Talk about yourself, not your team. Avoid using “we”** and use the first person instead (in most cases, you can drop the “I”). The resume is about you, and what you have brought to the table in the past. And what the company would get by moving forward with you. Note for non-native English speakers that talking about the “we” is the norm when talking about achievements in some languages. Drop this—in an English resume you should always go with the first-person approach.
-- **Be concise but *not* humble.** Don’t hide your achievements—and when in doubt, inflating them on the borderline will hurt less than hiding them. Your CV needs to make you stand out from an already competitive crowd.
+- **Talk about yourself, not your team. Avoid using “we”** and use the first person instead (in most cases, you can drop the “I”). The resume is about you, and what you have brought to the table in the past. And what the company would get by moving forward with you. Note for non-native English speakers that talking about the “we” is the norm when talking about achievements in some languages. Drop this-in an English resume you should always go with the first-person approach.
+- **Be concise but *not* humble.** Don’t hide your achievements-and when in doubt, inflating them on the borderline will hurt less than hiding them. Your CV needs to make you stand out from an already competitive crowd.
 - **Make your side projects & open-source contributions shine**. If you built impressive projects or have great open source contributions, bring attention to these in those sections of your resume. Follow the results-impact-contribution model in calling this out, where you can, as opposed to just linking to your Github profile with no explanation or an app you’ve built. If you don’t sell it, the person reading the CV might not look at it in detail.
 - **Do talk about extracurricular activities adjacent to tech**, at the end of your resume. Talk about what their impact was, how they were difficult, and link to high-quality resources that you have created. For example, if you’ve organized a meetup with 100 participants, mention this. If you have a technical blog, link a specific, high-quality article the reader can read. Many resumes are dry, and showing off high-quality or standout activities can make a good resume even better. Be mindful of listing neutral extracurricular activities: ones that won’t trigger bias. For example, when applying for a position in Manchester, UK, listing that you enjoy supporting Chelsea on their away games could trigger unconscious bias, as silly as it might sound.
 - **Mention your learnings**. It is relevant to read about why and how you picked up a skill, how it impacted a current role or what you would like to achieve with this in the future. This is information that hands-on recruiters and hiring managers value hearing about, and it also makes the resume more valuable. For example, do mention if you picked up a technology to speed up a project, to stretch yourself, or other reasons. Learning new and useful skills proactively is a positive trait that hiring managers will appreciate. As a hiring manager, I wish I would see more of these learnings mentioned on resumes.
@@ -104,7 +104,7 @@ Your resume should sell the professional “you” for the position you are appl
   <img
     src="../assets/chap5-standing-out/before_after_03_v1.webp"
     alt="Image represents a text-based resume section detailing work experience and projects. The resume is structured into two main sections: 'Work experience' and 'Projects'. The 'Work experience' section lists four bullet points describing past roles, including developing and maintaining an internal data serialization service adopted by other teams, building a web application for internal DevOps use, participating in sprint planning and strategy definition (sometimes leading meetings), and occasionally serving as a 'build master' for automated build processes. The 'Projects' section contains three bullet points. The first details volunteer work with Facebook Developer Circles Cairo, encompassing managing an online user group, organizing meetups/workshops/hackathons in Ghana, and building partnerships with local tech companies to foster developer ecosystem growth. The second describes a project, 'bareGo', focused on learning software architecture and design using Go, emphasizing the applicability of concepts like SOLID and design patterns to other languages. The third project involves implementing API design principles and concepts using Node.js, labeled as 'RESTAPI with Node'. No visual connections or information flow is present beyond the hierarchical bullet point structure organizing the listed experiences and projects."
-    width={500}
+    width={700}
   />
 </Frame>
 
@@ -121,7 +121,7 @@ These are the main issues with this version:
   <img
     src="../assets/chap5-standing-out/before_after_03_v2.webp"
     alt="Image represents a text-based resume outlining work experience and projects. The resume is structured into two main sections: 'Work experience' and 'Projects'. The 'Work experience' section lists four bullet points, each describing a role. These descriptions often lack specific quantifiable achievements, indicated by parenthetical comments like '(missing specifics)' or '(achievements are underplayed)'. The 'Projects' section similarly uses bullet points, detailing volunteer work with Facebook Developer Circles Cairo and individual projects like 'bareGo' and a RESTAPI project. These project descriptions are also criticized with parenthetical comments highlighting issues such as overly verbose descriptions, passive language, missing specifics, and a lack of explanation regarding the project's complexity or interesting aspects. The comments act as annotations, pointing out areas for improvement in the resume's content and clarity. No URLs or parameters are present; the information flow is purely textual, with each bullet point expanding on a specific experience or project."
-    width={500}
+    width={700}
   />
 </Frame>
 
@@ -131,7 +131,7 @@ These are the main issues with this version:
   <img
     src="../assets/chap5-standing-out/before_after_03_v3.webp"
     alt="Image represents a tech resume structured into two main sections: 'Work experience' and 'Projects'. The 'Work experience' section lists four bullet points detailing past roles. The first describes building and promoting a Java service for data serialization, resulting in adoption by six other teams. The second details creating a Python-based monitoring tool (using Grafana for visualization) that prevented three major outages. The third bullet point highlights leading sprint planning sessions and taking on a 'build master' role, involving Jenkins and Groovy. The fourth bullet point focuses on self-learning Scala and Groovy to broaden programming language expertise, specifically mentioning the JVM and contrasting dynamic and static language characteristics. The 'Projects' section lists three bullet points. The first describes leading a Facebook Developer Circles community, organizing over 30 events. The second details creating a 'bareGo' Go framework for building efficient and scalable server-side applications, emphasizing its adherence to SOLID principles and providing a GitHub link. The third project showcases building a REST API using Node.js, highlighting the implementation of HATEOAS, caching, and content negotiation, also with a GitHub link. Each bullet point within both sections provides concise descriptions of responsibilities, technologies used, and quantifiable results where applicable, often including URLs to GitHub repositories for project code."
-    width={500}
+    width={700}
   />
 </Frame>
 
@@ -139,7 +139,7 @@ The “after” version addresses several issues:
 
 - The projects mention more specifics, such as the impact, numbers, and technologies used.
 - Learnings are mentioned about why this person picked up a new technology like Groovy and Scala, what they achieved and hope to achieve with it.
-- The volunteer section is far more focused on what the candidate did, and what the results were. “I built up a local group of 500 developers, organized 30+ events and hackathons”. It also left out partnerships—that did not add much to the resume—and instead, pointed to press coverage that gives further credibility to this activity.
+- The volunteer section is far more focused on what the candidate did, and what the results were. “I built up a local group of 500 developers, organized 30+ events and hackathons”. It also left out partnerships-that did not add much to the resume-and instead, pointed to press coverage that gives further credibility to this activity.
 - The bareGo project now talks about the goal of the project, and the complex problems it solves, calling out the approach. As a hiring manager, I’m ready to click on it to check it out.
 - RESTAPI with Node also described the project well. It adds more details on the complexity behind the project
 - by listing the not-so-trivial elements like HATEOAS (Hypermedia as the Engine of Application State) and Content Negotiation. Again, this description definitely grabs any technical hiring manager’s interest.
@@ -150,9 +150,9 @@ If you have no problem getting recruiter calls with your resume, that’s great 
 
 However, for most advertised positions, there are far more qualified job seekers for every tech position than there is headcount. This is great news for recruiters who are seeing lots of inbounds. However, it means you need to put in more work for your resume to grab their attention. To make your resume stand out, you need to write it for *that specific* job description.
 
-Create a “master” version of your resume that lists out lots of details in your work experience and projects sections. Use the results, impact and contribution language. Don't worry if this version goes beyond two pages—as long as you’ll be able to trim it down for each job description.
+Create a “master” version of your resume that lists out lots of details in your work experience and projects sections. Use the results, impact and contribution language. Don't worry if this version goes beyond two pages-as long as you’ll be able to trim it down for each job description.
 
-**Then, create a version of your resume for the specific job description**, re-editing it so it uses similar language to what is in the job details. Remove examples that don’t help you with this position, or move them out of the way. If a job description is for an Android role with a focus on Kotlin and you have Android, Kotlin, and web experience, make sure your resume shows your Android and Kotlin contributions—and perhaps move the web experience further down.
+**Then, create a version of your resume for the specific job description**, re-editing it so it uses similar language to what is in the job details. Remove examples that don’t help you with this position, or move them out of the way. If a job description is for an Android role with a focus on Kotlin and you have Android, Kotlin, and web experience, make sure your resume shows your Android and Kotlin contributions-and perhaps move the web experience further down.
 
 <Card
   title="From the inside out: The headhunter’s advice on tailoring your resume"
@@ -174,13 +174,13 @@ Create a “master” version of your resume that lists out lots of details in y
 
 **Before and after: writing a resume for that job**
 
-Take this excerpt from a job description at Amazon. I added the highlights to point out keywords and key areas that are opportunities to mirror in your resume—assuming you do have experience in these areas. These highlighted phrases are ones that you might consider reflecting on, in your resume.
+Take this excerpt from a job description at Amazon. I added the highlights to point out keywords and key areas that are opportunities to mirror in your resume-assuming you do have experience in these areas. These highlighted phrases are ones that you might consider reflecting on, in your resume.
 
 <Frame>
   <img
     src="../assets/chap5-standing-out/20-before-writing-a-resume.webp"
     alt="Image represents a job description for a Software Development Engineer at Amazon. The top section poses a series of questions designed to gauge the applicant's interest in the role, highlighting aspects like working on critical payment systems, high availability, cutting-edge technology, and a collaborative environment. The next section outlines the responsibilities of the position, including defining, designing, and implementing multi-tier distributed payment services, leading the team in developing new features for Amazon's payment platform, and estimating engineering effort and planning implementation rollouts, emphasizing the importance of functionality, performance, scalability, and reliability. Following this, 'Basic Qualifications' lists required skills and experience, such as 4+ years of software development experience, computer science fundamentals in object-oriented design and data structures, algorithm design, and proficiency in at least one modern programming language (C, C++, Java, or Perl). Finally, 'Preferred Qualifications' details desirable skills, including knowledge of software engineering best practices (coding standards, code reviews, etc.), project management experience from scoping to launch, and strong communication skills with various stakeholders. The entire document is structured as a bulleted list, clearly separating responsibilities, basic requirements, and preferred qualifications."
-    width={500}
+    width={700}
   />
 </Frame>
 
@@ -190,11 +190,11 @@ Take this excerpt from a job description at Amazon. I added the highlights to po
   <img
     src="../assets/chap5-standing-out/before_after_04_v1.webp"
     alt="Image represents a text-based resume snippet focusing on skills and experience. The top section, titled 'Skills summary', lists the candidate's proficiencies categorized into four bullet points: 'Languages' (Python, PHP, Java, Go), 'Databases' (Postgres, MongoDB, Redis), 'Tools' (AWS/Azure/GCP, Docker, Git, Kafka), and 'Other' (data structures, algorithms, full stack software design). Below this, the section 'Software engineer at ThisCompany' details the candidate's experience at a company named 'ThisCompany', outlining four bullet points describing their work: designing and developing back-end systems using Java, Python, and Go; creating a Grafana dashboard generator from microservice code; developing a reverse proxy for testing and caching; and introducing a beta environment for controlled feature rollouts. The entire structure is a simple, linear presentation of text, with no visual connections or information flow beyond the hierarchical organization of skills and experience."
-    width={500}
+    width={700}
   />
 </Frame>
 
-This is not bad—but it is clear how this description is a generic one. It does not reflect on the job description at all. Let’s make it specific for the Amazon listing. Highlights mark the updated phrasing that now mirrors the job description language better. Note that the content of the resume is exactly the same. After the changes, however, it reflects the language that this specific company or job listing uses.
+This is not bad-but it is clear how this description is a generic one. It does not reflect on the job description at all. Let’s make it specific for the Amazon listing. Highlights mark the updated phrasing that now mirrors the job description language better. Note that the content of the resume is exactly the same. After the changes, however, it reflects the language that this specific company or job listing uses.
 
 **After:**
 
@@ -202,7 +202,7 @@ This is not bad—but it is clear how this description is a generic one. It does
   <img
     src="../assets/chap5-standing-out/before_after_04_v2.webp"
     alt="Image represents a tech resume snippet focusing on a software engineer's experience at 'ThisCompany'. The top section, titled 'Skills summary', lists the candidate's proficiencies categorized into 'Languages' (Java, Go, Python, PHP), 'Databases' (Postgres, MongoDB, Redis), 'Tools' (AWS, Azure, GCP, Docker, Kafka, Git), and 'Other' (data structures, algorithms, distributed systems, engineering best practices). Below, the main body details three key accomplishments. The first describes defining, designing, implementing, and rolling out a multi-tier customer profile service using Java, leading a four-engineer team, and its adoption by five other teams. The second highlights the introduction of best practices in reliability, monitoring, and alerting, including building a Grafana dashboard generator adopted by over ten teams, and improving testing practices via a reverse proxy. The third accomplishment details improving rollout processes by introducing a company-wide beta environment for testing new features with selected customers. The keywords 'defined', 'designed', 'implemented', 'rolled out', 'best practices', 'testing', and 'rollouts' are emphasized, likely to highlight the candidate's contributions and impact."
-    width={500}
+    width={700}
   />
 </Frame>
 
@@ -216,7 +216,7 @@ Depending on what type of company and what type of developer role you are applyi
 
 ### Tech companies hiring generalist software engineers
 
-The “big” tech companies, and fast-growing venture-funded companies, almost always look for developers who are generalists. This is because their tech stack can be varied and change quickly. These companies look for good understanding of at least one programming language, and good knowledge of algorithms, data structures and—for senior candidates—designing systems.
+The “big” tech companies, and fast-growing venture-funded companies, almost always look for developers who are generalists. This is because their tech stack can be varied and change quickly. These companies look for good understanding of at least one programming language, and good knowledge of algorithms, data structures and-for senior candidates-designing systems.
 
 A typical job description for this kind of a position could read something like this:
 
@@ -224,7 +224,7 @@ A typical job description for this kind of a position could read something like 
   <img
     src="../assets/chap5-standing-out/21-diff-company-diff-focus.webp"
     alt="Image represents a text-based job description for a Software Engineer position. The top section lists 'Minimum qualifications', including a Bachelor's degree in Computer Science or a similar field, experience coding in Java, C++, or Python, experience with HTML, JavaScript, and CSS, and experience building full-stack features from UI (mobile and web) to backend systems. Below this, 'Preferred qualifications' are listed, specifying experience in front-end development, familiarity with browser compatibility, and knowledge of advanced JavaScript features. A subsequent paragraph describes the company's work in developing innovative next-generation technologies and the need for engineers with diverse skills in areas like information retrieval, distributed computing, large-scale system design, security, and artificial intelligence. The next paragraph details the role's responsibilities, emphasizing working on critical projects, versatility, leadership, and problem-solving across the full stack. Finally, the last paragraph highlights the management of project priorities, deadlines, and deliverables, along with the design, development, testing, deployment, maintenance, and enhancement of software solutions. The entire text is formatted as a bulleted list for qualifications and paragraph form for the job description."
-    width={500}
+    width={700}
   />
 </Frame>
 
@@ -233,7 +233,7 @@ To grab the attention for recruiters at these companies, aim to follow these pri
 - **Do mention programming languages** you are proficient with, *especially* ones that the job description mentions. Knowing a few languages gives a good indication that you’ll be able to pick new ones up on the job, something that is common at these places.
 - **Do tailor your resume to the job description**, mentioning areas the job description asks for, assuming you are proficient with it. Data structures and algorithms, computer science fundamentals, object-oriented design, distributed systems, and anything with scale and numbers to prove it are usually the type of experience that catch recruiters’ eyes at these places.
 - **Do focus on impact, and engineering metrics** of your work. Strong resumes at these places tend to mention things like RPS for systems people have built, test coverage % increases, cost savings on infrastructure, number of users, number of customer teams, latency reductions and others.
-- **Do mention open source frameworks by the company** that you are familiar with, use, or contribute to. Many of these companies contribute heavily to open source, and you can stand out by being proficient users of some of these—especially when they are lesser-known frameworks.
+- **Do mention open source frameworks by the company** that you are familiar with, use, or contribute to. Many of these companies contribute heavily to open source, and you can stand out by being proficient users of some of these-especially when they are lesser-known frameworks.
 - **Don’t list too many technologies**, frameworks, tools, databases and others. At these places, hiring managers assume that you can pick up any of these quickly. Also, recruiters are far more sensitive to keyword stuffing: it reduces the value of your resume.
 - **Don’t list trivial tools** that require little to no engineering knowledge, or that are tied to a given technology. You’ll get a frown from hiring managers when they see Trello or JIRA mentioned. You don’t need to be a software engineer to know these.
 
@@ -248,7 +248,7 @@ To grab the attention for recruiters at these companies, aim to follow these pri
 
   ***Whatever role you apply for, make sure that you clearly highlight the technologies you have worked with that are relevant for the role you are applying for.** I also always find it a good sign when someone has worked with multiple programming languages and frameworks. It indicated that they are curious professionally, like to learn new things, and are open to new ideas.*
 
-  *Keep in mind that different cultures teach CV writing in different ways—and a lot of these approaches might not work for international companies. Some cultures tend to arrange their experiences in a table format. However, recruiters at tech companies can find this hard to read. Keeping it short and concise is key.*
+  *Keep in mind that different cultures teach CV writing in different ways-and a lot of these approaches might not work for international companies. Some cultures tend to arrange their experiences in a table format. However, recruiters at tech companies can find this hard to read. Keeping it short and concise is key.*
 
   *As for resumes that really catch my attention: I prefer clean, easy to read resumes above anything else. Highlight your most relevant projects, the technologies you’ve worked with, and be ready to talk about them when you get to that recruiter call.*
 
@@ -257,19 +257,19 @@ To grab the attention for recruiters at these companies, aim to follow these pri
 
 ### Companies hiring for *that* specific technology
 
-Non-tech-first companies and smaller companies often hire for a specific technology. The tech stack at these places is already set, and very unlikely to change over the next few years. You’ll be able to tell that you are looking at a *specific technologies company* from the job description that lists technologies required extensively. These technologies will be the exact stack the company works with—and the stack they are looking to hire for. Here is a typical job description for such a company:
+Non-tech-first companies and smaller companies often hire for a specific technology. The tech stack at these places is already set, and very unlikely to change over the next few years. You’ll be able to tell that you are looking at a *specific technologies company* from the job description that lists technologies required extensively. These technologies will be the exact stack the company works with-and the stack they are looking to hire for. Here is a typical job description for such a company:
 
 <Frame>
   <img
     src="../assets/chap5-standing-out/22-company-hiring-for-specific-tech.webp"
     alt="Image represents a job description for a Java Developer position. The top section provides context, stating the company's rapid growth driven by global demand and its need to hire exceptional Java Developers to expand its existing team. Below this, the 'Main Duties and Responsibilities' section lists three bullet points outlining the role's key tasks: implementing technology strategy and developing new products/services, actively developing high-quality production code for front-ends and real-time analytics, and delivering well-designed, clean code to support business growth. Following this, 'Required technical expertise' details essential skills, including 3+ years of high-performance Java 1.8+ development experience (including concurrency and distributed systems), strong knowledge of unit and integration testing within a CI/CD environment using distributed version control, object-oriented and reactive programming skills, and familiarity with Linux, Docker, Maven, Spring, JMS, and relational databases; Gradle and Kafka are listed as highly desirable. Finally, 'Desirable technical skills' lists additional beneficial skills, such as experience with the ELK stack, Prometheus, Grafana, Opentracing, C++, Python, Groovy, Kotlin, actor frameworks (like Akka), Javascript/HTML5, Atlassian workflow tools, and Ansible. The information is presented in a hierarchical, bulleted list format, with no visual connections or information flow between the different sections beyond their sequential arrangement."
-    width={500}
+    width={700}
   />
 </Frame>
 
 The job descriptions for these places are also more traditional, mentioning things like “duties and responsibilities” or “technical expertise” and “delivering code”. To grab the attention for recruiters for these companies, follow these principles with your resume:
 
-- **Do mention all relevant technologies in the job description** that you are comfortable with—even if you might not be fully proficient with all of them. Many of these companies work with recruiters who are not as technical, and screen for specific technologies or phrases mentioned, as per instructions from the hiring manager.
+- **Do mention all relevant technologies in the job description** that you are comfortable with-even if you might not be fully proficient with all of them. Many of these companies work with recruiters who are not as technical, and screen for specific technologies or phrases mentioned, as per instructions from the hiring manager.
 - **Do spell out how many years’ experience you have** with the main language the company is looking for. It is worth having a short summary section, listing out this information for the recruiter to see.
 - **Repeat the technologies** you’ve used, listing them in the work experience section as well. This will confirm both to the recruiter and the hiring manager that you are hands-on with what they are looking for.
 - **Do not list unrelated or trivial technologies**. While keyword stuffing is more relevant when applying for these types of companies, don’t go overboard. And do remove technologies that are not relevant.
@@ -292,14 +292,14 @@ The job descriptions for these places are also more traditional, mentioning thin
 
   *Cite examples of your skills in action. Your CV must have examples of each of your skills, as well as how, and when, and in what context you used them, and to what effect.*
 
-  *Concise job role summaries only. Three to four bullet points per role is perfect. Go for either a few bullets or a single paragraph of text covering each job summary. This normally includes your major tasks and responsibilities, and also key results. Put all the extra information on the last page. Keep sentences brief (seriously—avoid long sentences) and don’t list every single tool you have worked with (or every single project you’ve done). Start sentences with action verbs to get points across quickly.”*
+  *Concise job role summaries only. Three to four bullet points per role is perfect. Go for either a few bullets or a single paragraph of text covering each job summary. This normally includes your major tasks and responsibilities, and also key results. Put all the extra information on the last page. Keep sentences brief (seriously-avoid long sentences) and don’t list every single tool you have worked with (or every single project you’ve done). Start sentences with action verbs to get points across quickly.”*
 </Card>
 
 ## Keyword Stuffing
 
 Keyword stuffing is a controversial but important topic. At companies where recruiters are not very technical, resume filtering is done by discarding resumes that do not have certain keywords. Recruiters and HR folks will often pattern match either based on expectations from the hiring manager or based on keywords that they have seen lead to offers in the past.
 
-Let's take a backend job description that explicitly says that the team uses Java for development. In most cases, resumes without a mention of "*Java*" or "*backend*" would be disregarded. For a team working on distributed systems, less hands-on tech recruiters might discard resumes that don't mention anything distributed—even if they might describe working on such systems using phrases like “microservices”, “messaging queues” or “globally fault-tolerant systems”. The recruiter is not a software engineer: they just look for the term "distributed". Note that this practice is less common at large companies with technical recruiters—but it is a thing when screening is done by someone more junior.
+Let's take a backend job description that explicitly says that the team uses Java for development. In most cases, resumes without a mention of "*Java*" or "*backend*" would be disregarded. For a team working on distributed systems, less hands-on tech recruiters might discard resumes that don't mention anything distributed-even if they might describe working on such systems using phrases like “microservices”, “messaging queues” or “globally fault-tolerant systems”. The recruiter is not a software engineer: they just look for the term "distributed". Note that this practice is less common at large companies with technical recruiters-but it is a thing when screening is done by someone more junior.
 
 A workaround is to throw all possibly relevant keywords into the resume. This is called keyword stuffing. You can see it happening with this resume, for example:
 
@@ -307,13 +307,13 @@ A workaround is to throw all possibly relevant keywords into the resume. This is
   <img
     src="../assets/chap5-standing-out/before_after_05_v1.webp"
     alt="Image represents a categorized list of technical skills, arranged in a hierarchical structure. The top-level category is 'TECHNICAL SKILLS', followed by sub-categories such as 'Programming', 'Databases', 'Back-end Technologies', 'Front-end Technologies', 'Testing', 'Tools/IDEs', 'API Paradigms', 'Message Queues', and 'Other Tools'. Each sub-category lists specific technologies, tools, or methodologies. For example, 'Programming' lists PHP, Java, JavaScript, Python, and SQL; 'Databases' lists MySQL, Oracle 11g, PostgreSQL, SQLite, and MongoDB; 'Back-end Technologies' includes Servlets, JSP, Spring MVC, Spring Boot, and more; and 'Front-end Technologies' lists HTML5, CSS3, jQuery, React.js, and others. The items within each category are separated by commas, and categories are separated by double vertical bars ('||'). There's also a 'Learning' sub-category under 'Front-end Technologies' indicating ongoing learning in React Native, Redux, and Angular 7. The arrangement visually groups related skills, allowing for a quick overview of the candidate's expertise across various aspects of software development."
-    width={500}
+    width={700}
   />
 </Frame>
 
 While the person doing this kind of keyword stuffing would think they’ve “covered” all possible technologies, it can make the resume look unprofessional. For places where recruiters are less hands-on, this approach could work, as they might “see” the keywords the job needs. For places where requirements are more clear and recruiters are technical, this strategy will work less well. Even if a recruiter would decide to proceed, as a hiring manager, I would consider putting this resume in the “maybe” pile.
 
-So how do you include keywords relevant for the position, while also keeping your resume professional? You do this by including the most relevant keywords—technologies and frameworks—in your resume, but do this in a human-readable way.
+So how do you include keywords relevant for the position, while also keeping your resume professional? You do this by including the most relevant keywords-technologies and frameworks-in your resume, but do this in a human-readable way.
 
 A good way to have keywords present in your resume, while also keeping it professional is to have a short "Technologies", “Skills” or “Languages and Technologies” section where you list the technologies you are familiar with and are relevant for the job. In your Experience section, sprinkle specifics on the relevant technologies you've used in projects. It's fine to mention the same technology both in the technologies section, as well as under the specific part of the experience. But do ensure the resume stays easy to read.
 
@@ -327,13 +327,13 @@ Let’s go back to how to improve that part in the previous resume. We’ll cut 
   />
 </Frame>
 
-The result is a cleaner resume that still has key technologies listed—in fact, it reinforces the ones that the candidate has more hands-on experience with those technologies.
+The result is a cleaner resume that still has key technologies listed-in fact, it reinforces the ones that the candidate has more hands-on experience with those technologies.
 
 Recruiters will scan for different keywords for different job positions. This is another reason you'll want to create a custom resume for *that* job description. You can tailor your wording and technologies you are proficient with, so recruiters keep reading after they've seen key technologies mentioned.
 
-Don't forget: your goal is to get through the initial resume screening where most inbound applications without referrals fail—many of whom are actually qualified for the job, but their resume does not tell the story.
+Don't forget: your goal is to get through the initial resume screening where most inbound applications without referrals fail-many of whom are actually qualified for the job, but their resume does not tell the story.
 
-## Recap: Actions to Improve Your Resume
+## Recap: Actions to Improve
 
 In this chapter, we’ve gone through ways to have your resume stand out from the crowd. Being specific about your results and impact, and using numbers to convey the value you created is a massive differentiator.
 
@@ -345,7 +345,7 @@ To make your resume stands out, carry out the following checks.
 2. **Are you using active language?** Use active verbs that convey what *you* did, as opposed to things that happened, in a passive setting.
 3. **Are you mentioning technologies in your examples?** On top of numbers, are you being specific on the tools that you used to achieve some of the results? You don’t need to do this for every part, but repeating technologies that you also list on your languages and technologies section reinforces that you are hands-on with these.
 4. **Have you customized your resume for that specific job, creating a specific version?** You’ll want to have your resume reflect on the job you are applying for. Are you using similar language to the job description to describe your activities? Are you explicitly calling out technologies and languages in the job description that you are proficient with? Are you using similar active verbs to those the job description contains? Tailoring your resume, together with expressing the impact of your work, are the two most impactful changes you can make.
-5. **Are you talking about yourself, not talking about “we” or “the team”?** Make sure your resume is about your achievements. Don’t be humble—err on the side of taking credit for the work that you were involved in.
+5. **Are you talking about yourself, not talking about “we” or “the team”?** Make sure your resume is about your achievements. Don’t be humble-err on the side of taking credit for the work that you were involved in.
 6. **Do you mention impactful, complex or interesting side projects?** Are you describing these projects in such a way that it’s easy to understand why they are relevant? Don’t leave off some of your additional achievements that add value to your resume.
 7. **Are you applying for a generalist engineering role, or one focused on one specific technology?** Differentiate what type of position you are writing your resume for. The two types of companies should have different resumes. Tailor your resume accordingly.
 8. **Have you “stuffed” keywords in a sensible way?** When comparing the job description and your resume, does your resume contain what could be the main “keywords” that recruiters will look for? Does your resume contain the key languages and technologies listed, the name of the position and the tech stack? If the position asks for a minimum number of years’ experience, does your resume convey this information, directly or indirectly?

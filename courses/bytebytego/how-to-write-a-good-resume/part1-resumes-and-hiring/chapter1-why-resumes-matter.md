@@ -5,7 +5,7 @@ description: Why Resumes and CVs are Important?
 
 import { FootnoteRef, Footnotes, Footnote } from "/snippets/Footnote.jsx";
 
-I have reviewed over a thousand resumes the past few years—or, as they call them in Europe, Asia and several other places, CVs<FootnoteRef id="1" />. As a hiring manager, I glanced through most of these, taking 10-20 seconds to decide on whether to read more in-depth. In a minute or two, I always decided whether to proceed with a call with the applicant. For contrast, the average recruiter spends around 7 seconds<FootnoteRef id="2" /> to scan a resume and decide if it’s a reject, or if they'll read further.
+I have reviewed over a thousand resumes the past few years-or, as they call them in Europe, Asia and several other places, CVs<FootnoteRef id="1" />. As a hiring manager, I glanced through most of these, taking 10-20 seconds to decide on whether to read more in-depth. In a minute or two, I always decided whether to proceed with a call with the applicant. For contrast, the average recruiter spends around 7 seconds<FootnoteRef id="2" /> to scan a resume and decide if it’s a reject, or if they'll read further.
 
 For a week in May 2020, I carefully reviewed more than 300 resumes, spending far more time on each than a recruiter or hiring manager would. These resumes ranged from senior engineers to new grads. The people writing these put time and effort into building what they thought was a good resume. Still, I had plenty of feedback on each.
 
@@ -17,12 +17,12 @@ You write a resume when you are *proactively* applying for a company: when you
 
 Why do we spend so much time crafting a resume? What is the goal of this exercise? Many people create a resume because it is required to apply for the job. You need to upload an attachment in the application form. So several people google “resume template”, fill it out with their experience, and submit. They do the work but don’t think about the goal.
 
-**The goal of a resume is to get you to an interview for that position** with a recruiter or hiring manager from a specific company. That’s it—nothing more, nothing less. It’s to get your foot in the door. It's not a goal to share your complete work history or represent everything you did as accurately as possible.
+**The goal of a resume is to get you to an interview for that position** with a recruiter or hiring manager from a specific company. That’s it-nothing more, nothing less. It’s to get your foot in the door. It's not a goal to share your complete work history or represent everything you did as accurately as possible.
 
-The goal of the resume is to sell you for that specific position—and do this in the less than 10 seconds that the recruiter or hiring manager will be reading it. Keep this purpose in mind, as all the content in this book will revolve around this goal.
+The goal of the resume is to sell you for that specific position-and do this in the less than 10 seconds that the recruiter or hiring manager will be reading it. Keep this purpose in mind, as all the content in this book will revolve around this goal.
 
 <Card
-  title="From the inside out: how hiring managers typically go through resumes"
+  title="From the inside out: How hiring managers typically go through resumes?"
   icon="align-left"
   type="info"
 >
@@ -58,7 +58,7 @@ Great resumes can also be ones that show solid career progression towards the cu
 If you have a resume that reads like a journeyman resume, think about why this is. Are you not telling your story right? Or have you actually not been growing in any meaningful way for the past few years? It’s unlikely that you have not grown at all, so visualize the increase in responsibility, any vertical moves you have made, and the times when you have been promoted.
 
 <Card
-  title="From the inside out: does having worked at Google make my resume great?"
+  title="From the inside out: Does having worked at Google make my resume great?"
   icon="align-left"
   type="info"
 >
@@ -66,7 +66,7 @@ If you have a resume that reads like a journeyman resume, think about why this i
 
   True, the resume caught my eye, just like every recruiter’s eye, so I read it in detail. But with every paragraph, my initial excitement faded. The resume painted the picture of someone who did mediocre work at the current small company. They described how they were working on a hard problem and built a solution end-to-end. They then linked to a barely-working web prototype, which looked and felt amateur when I tried it out. Reading further, there was very little mention of the specifics of the work at Google or Apple. And even what was written was making it seem like they only played a side role on internal projects at Google and Apple.
 
-  This person might have still gotten interviews, had they not been interviewing in the Valley. Here, Google and Apple are well-regarded, but the name itself won’t always get you through the door. The resume also needs to sell you. This resume did no selling—it only did underselling.
+  This person might have still gotten interviews, had they not been interviewing in the Valley. Here, Google and Apple are well-regarded, but the name itself won’t always get you through the door. The resume also needs to sell you. This resume did no selling-it only did underselling.
 
   When I talked with this person, they explained that they were a backend engineer, and frontend development was something they rarely did - and did not enjoy. They explained all the complex challenges they had solved with the small company on the backend. They implemented better text recognition algorithms, text clustering and natural language processing solutions. They did remarkable research, built a solid text analysis system - but mentioned nothing about this in their resume. Instead, the reader saw the result of their frontend work - which was, indeed, the work of a few weeks, but reflected very little of their real strength in backend development.
 
@@ -106,12 +106,12 @@ I have gotten several messages, where people think that the format of their resu
 
 **A well-written resume is required, but it is not sufficient** to get a recruiter call. There are several other factors that are outside your control. These include:
 
-- **If the position is still open.** The position you submit your application to might have already been filled—without you knowing about it.
+- **If the position is still open.** The position you submit your application to might have already been filled-without you knowing about it.
 - **Your competition.** You might think you have a strong profile, but what if there are dozens of people with more experience, with stronger skills applying for the same position? You won’t get an interview. Also, for remote-friendly and remote-only jobs, the competition will be far more intense.
 - **Being local vs needing relocation.** If a position sees hundreds of applications, the local candidates might get preference. They won’t need relocation, which means they could start faster. Also, the lack of relocation makes this cheaper for the company.
 - **Your visa status.** When a company has to apply for a visa for you to work in the country, this takes time and money. Companies usually only sponsor visas for senior positions, where they cannot find candidates without needing visas. Even many of the big tech companies only sponsor visas for senior or above positions.
-- **Your seniority.** Certain positions only look for people with certain seniority—even if they do not advertise this externally. You might be considered not having enough experience for a position. This is frequently the case when you are a new grad, or have less than two years of experience, applying for positions that do not consider people without a few years of industry work behind them. In more rare cases, the recruiter might decide you seem to be overqualified for the position, with all your experience.
-- **Luck.** Blind chance also plays a role, especially when your resume competes with hundreds of others. There are ways to make luck less of a factor—see [the section on referrals](./chapter2-the-hiring-pipeline#referrals), which can make the biggest difference in eliminating this factor and getting to a recruiter screen.
+- **Your seniority.** Certain positions only look for people with certain seniority-even if they do not advertise this externally. You might be considered not having enough experience for a position. This is frequently the case when you are a new grad, or have less than two years of experience, applying for positions that do not consider people without a few years of industry work behind them. In more rare cases, the recruiter might decide you seem to be overqualified for the position, with all your experience.
+- **Luck.** Blind chance also plays a role, especially when your resume competes with hundreds of others. There are ways to make luck less of a factor-see [the section on referrals](./chapter2-the-hiring-pipeline#referrals), which can make the biggest difference in eliminating this factor and getting to a recruiter screen.
 
 This book will help you craft a resume that represents you fairly. While following the advice will hopefully help you see higher response rates, there is no “magic formula” for getting that next call. At the same time, the more you know about what is happening behind the scenes, the more you can write your resume for the people who will be reading them. To understand who the key people are, let’s dive into how the hiring process typically works at tech companies, and who might be reading your resume.
 

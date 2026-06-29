@@ -10,14 +10,14 @@ Based on which group you are in, you’ll want to structure your resume differen
 
 ## Structure for Interns, New Grads and Bootcamp Grads
 
-When you are a student or new grad, you often feel like you have little to no experience to show. Make the most of what you have, though—and if you are truly low on experience, address this parallel to the application process. Here are the experiences that catch the eyes of people reviewing your CV the most, in priority order:
+When you are a student or new grad, you often feel like you have little to no experience to show. Make the most of what you have, though-and if you are truly low on experience, address this parallel to the application process. Here are the experiences that catch the eyes of people reviewing your CV the most, in priority order:
 
 1. **Real-world work software development experience**. If you have been working part-time or full-time as a software developer, list this, together with your accomplishments. Don’t be shy. Show off what you have delivered and how you have already gone above and beyond.
 2. **Internships**. Be specific on results, impact, and your contribution. People with internships can stand out from the crowd or applicants. Be aware though, that for large tech companies, it is common to see applicants with multiple successful and impactful internships behind them.
 3. **Sizeable contribution to real-world (open source) projects**. If you are a core or frequent contributor to a project, list this. If you have created a project that now has multiple contributors or many users, show this off. If you are not yet in these categories, perhaps you can join in with an open source project and get some experience that will help you stand out?
 4. **Your school details**. Especially if the school is well-known and you have high grades, this can be impressive. If you attend a nationally well-known school, add this information to the details section. For example: *“Budapest Technology University is the #1 ranked university for Computer Science in Hungary”.*
 5. **Projects that stand out** due to their impact, such as their complexity, number of users or other impressive metrics.
-6. **Tutoring and leadership positions in student groups**. If you have already been teaching your peers—as a teaching or lab assistant—that is a great sign of you being able to mentor others. Similarly, if you have led a student group or a project, list this. In both cases, list results, impact, and your contribution.
+6. **Tutoring and leadership positions in student groups**. If you have already been teaching your peers-as a teaching or lab assistant-that is a great sign of you being able to mentor others. Similarly, if you have led a student group or a project, list this. In both cases, list results, impact, and your contribution.
 
 **A Possible New Grad Resume Structure:**
 
@@ -35,11 +35,11 @@ Follow these guidelines for a resume that is easy to scan, with the most relevan
 
 - **Fit on one page.** As a new grad, you should fit on one page. You’ll be up against hundreds of other applicants, and no one reads the second page. As you have more working experience, then a second page will start to make sense.
 - **Work Experience and Internships**. If you have some work experience or internships, start with these. Having some work experience is already a great sign, and it can help you stand out.
-- **Projects**: you probably don’t have as much work experience, but you likely have projects to mention. Use the results, impact, and your contribution approach to describe why they are important and link to them. Where possible, link to the source code on GitHub—assuming it’s nicely organized, with a good README.
+- **Projects**: you probably don’t have as much work experience, but you likely have projects to mention. Use the results, impact, and your contribution approach to describe why they are important and link to them. Where possible, link to the source code on GitHub-assuming it’s nicely organized, with a good README.
 - **Education**. Add details on your (expected) graduation date, details on your major, and list out any relevant or standout activities, grades, awards, and anything else that made you stand out from your peers.
 - **Languages and Technologies section:** make sure to add the things you are hands-on with. This should be on the front page.
 - **Interests**: it’s nice to add a thing or two that you enjoy doing in your free time. These can be conversation starters on interviews later.
-- **Use an order for sections that highlights your strengths**. Recruiters and hiring managers will look for the most relevant things to be towards the top of your resume—ones that indicate that you could be a good fit for the position. For most new grads, this order would often match the above order. However, you might decide to change it, when certain sections carry more weight, or are more relevant to the job you are applying for.
+- **Use an order for sections that highlights your strengths**. Recruiters and hiring managers will look for the most relevant things to be towards the top of your resume-ones that indicate that you could be a good fit for the position. For most new grads, this order would often match the above order. However, you might decide to change it, when certain sections carry more weight, or are more relevant to the job you are applying for.
 
 <Card
   title="From the inside out: How can new grads and interns grab the attention of recruiters?"
@@ -56,7 +56,7 @@ Follow these guidelines for a resume that is easy to scan, with the most relevan
 
   *For intern recruiting, we do closely look at the timing of your studies. For example, if the internship would start in June, we will only consider candidates who are ready to start at this time. Or if the job description is for people in a certain year, we look at this. Make it crystal clear on your resume that you fit the requirements: clarify when you can start, or how much time you have left on your studies.*
 
-  *Do spend plenty of time preparing for the interviews themselves. Read about the company, watch the videos, learn about the culture, read stories about employees, and understand the job description. Look up your interviewers on LinkedIn before your interview and read things that they might have published. You’ll not only show that you’ve gone the extra mile—but you’ll also learn a lot in this process.”*  
+  *Do spend plenty of time preparing for the interviews themselves. Read about the company, watch the videos, learn about the culture, read stories about employees, and understand the job description. Look up your interviewers on LinkedIn before your interview and read things that they might have published. You’ll not only show that you’ve gone the extra mile-but you’ll also learn a lot in this process.”*  
 </Card>
 
 **Advice when applying to Big Tech**: we’ll close with an opinionated set of advice [from a thread](https://twitter.com/slizagna/status/1356652219932626944) shared by a grad recruiter at Fortune 100 on Twitter. These apply to all places that see hundreds applications per position, so to most of large tech company internships and new grad positions:
@@ -78,9 +78,9 @@ When you are no longer freshly out of school (see [Chapter 7 - Different Experie
 - **Have a Languages and Technologies section on the first page** that lists the relevant technologies. List things which you are an expert or, at the very least, proficient at. They could be domains, languages, or frameworks that the job description mentions. Don’t bother listing non-relevant technologies, or listing your skill level.
 - **If you have spent a long time at one workplace**, list out the key projects you shipped and the titles you’ve held there. Have you been promoted? Treat it as a new “sub-work” section, listing the projects you did at that point.
 - **Education details become less important with seniority**. For education, slowly reduce the length of this section, as you have more work experience. With 1-3 years’ experience, it's fine to have details on it, but with 5+ years, you'll likely just want to have your degree, date of graduation, and no more than one standout achievement, if it's still relevant. Summa cum laude can probably stay. GPA, courses, activities should all disappear.
-- **Spend less space on old positions.** For people with 10+ years of experience, your work experience beyond 10 years is less interesting. What you did then is not representative of what you do now, and there's little point in listing obsolete technologies. Shorten these sections, and consider removing or skipping ones that are not relevant—especially if you were job-hopping a decade back. The resume should sell you, not show every place you ever worked at.
+- **Spend less space on old positions.** For people with 10+ years of experience, your work experience beyond 10 years is less interesting. What you did then is not representative of what you do now, and there's little point in listing obsolete technologies. Shorten these sections, and consider removing or skipping ones that are not relevant-especially if you were job-hopping a decade back. The resume should sell you, not show every place you ever worked at.
 - **Extracurricular**. Add patents, publications, talks, standout open source projects, published projects, and other areas that could grab attention. In the case of open source and published projects, aim to be specific on why they are important. Close with hobbies and interests to make it personal. Keep the list of hobbies and interests short.
-- **Certifications**. If you have certifications relevant to the job or the industry, list them below your work experience. Companies that work with governments that require certain professional certifications might place more focus on these areas. Also, be wary of the potential negative perception from listing a trivial-to-get certification—such as a LinkedIn programming language certification, which is a series of a dozen questions that can be repeated at any time.
+- **Certifications**. If you have certifications relevant to the job or the industry, list them below your work experience. Companies that work with governments that require certain professional certifications might place more focus on these areas. Also, be wary of the potential negative perception from listing a trivial-to-get certification-such as a LinkedIn programming language certification, which is a series of a dozen questions that can be repeated at any time.
 - **Projects**: the more work experience you have, the less relevant outside-work projects tend to become. If you have something that really stands out, consider listing it under extracurricular, linking so that people reading the resume can inspect it. Use the results, impact, and your contribution format to explain why the project was relevant and impactful.
 - **Interests**: depending on the length of your CV, you can add a few fun things to make your CV more “human”. If you stick with a one-page format and you’re short on space, you can skip this.
 
@@ -102,7 +102,7 @@ When you are no longer freshly out of school (see [Chapter 7 - Different Experie
 
 ## Languages and Technologies
 
-*“What languages and technologies is this person hands-on with?”* This is one of the first questions recruiters and hiring managers have when they look at your resume. The easier it is to answer this question, looking at your resume, the better. There are a few common approaches in making this information clear— we’ll look at three different ones.
+*“What languages and technologies is this person hands-on with?”* This is one of the first questions recruiters and hiring managers have when they look at your resume. The easier it is to answer this question, looking at your resume, the better. There are a few common approaches in making this information clear- we’ll look at three different ones.
 
 ### Approach #1: Separate Languages and Technologies Section
 
@@ -122,11 +122,11 @@ This resume is sent for a job advert for a full stack position. The job advert l
   <img
     src="../assets/chap4-resume-structure/before_after_01_v1.webp"
     alt="Image represents a section of a tech resume titled 'Relevant Skills', which is organized into three bulleted lists. The first list details programming languages, including Perl, C++, Java (specified as 'expert'), HTML5, CSS3, Bootstrap, JavaScript (ES6, noted as 'proficient'), React.js ('expert'), and PHP. The second list focuses on databases, listing MySQL ('expert'), Oracle SQL, and MSSQL ('proficient'). The third list encompasses various technologies: AWS, Bitbucket, GitHub, Visual Studio, MATLAB, Eclipse, Android Studio, phpMyAdmin, Adobe Photoshop, Oracle Fusion, Rational Rose, Sublime, Trello, and Word. No connections or information flow are explicitly depicted; the items within each list are simply presented as a comma-separated enumeration of skills. The proficiency level (expert or proficient) is indicated parenthetically for some skills."
-    width={500}
+    width={700}
   />
 </Frame>
 
-This section is a dump of all the technologies this person has touched in the past. Some of the listed ones include ones that are implicitly assumed—if you’ve used Java, you likely know how to use an IDE like Eclipse. And some technologies have no relevance: Rational Rose is a tool rarely used outside academia, and phpMyAdmin as a skill raises the question if you can manage PHP without a GUI interface. For Trello and Word: is there anyone who doesn’t know how to use these?
+This section is a dump of all the technologies this person has touched in the past. Some of the listed ones include ones that are implicitly assumed-if you’ve used Java, you likely know how to use an IDE like Eclipse. And some technologies have no relevance: Rational Rose is a tool rarely used outside academia, and phpMyAdmin as a skill raises the question if you can manage PHP without a GUI interface. For Trello and Word: is there anyone who doesn’t know how to use these?
 
 The person is also using terms like “expert” and “proficient”. This is a double-edged sword, as it implies that the person is not an expert in other languages. Also, talking with recruiters, the self-evaluation of people means little: several technical recruiters mentioned that people who rated themselves as an expert in a specific language would often get rejected based on not having enough depth, after being grilled in the depths of that language.
 
@@ -137,8 +137,8 @@ The person is also using terms like “expert” and “proficient”. This is a
 <Frame>
   <img
     src="../assets/chap4-resume-structure/before_after_01_v2.webp"
-    alt="Image represents a section of a tech resume titled 'Relevant Skills', which is organized into three bulleted lists. The first list details 'Programming languages', including Perl, C++, Java (specified as 'expert'), HTML5, CSS3, Bootstrap, JavaScript (ES6—specified as 'proficient'), React.js (specified as 'expert'), and PHP. The second list describes 'Databases', listing MySQL (specified as 'expert'), Oracle SQL, and MSSQL (specified as 'proficient'). The third list covers 'Technologies', encompassing Trello, Word, AWS, Bitbucket, GitHub, Visual Studio, MATLAB, Eclipse, Android Studio, phpMyAdmin, Adobe Photoshop, Oracle Fusion, Rational Rose, Sublime, Trello, and Word. A parenthetical note at the end of the third list clarifies that some of the listed technologies might be considered 'either trivial or overly specific'. The proficiency level (expert or proficient) is indicated for some programming languages and databases. There is no explicit flow of information between the listed items; they are simply presented as a collection of skills."
-    width={500}
+    alt="Image represents a section of a tech resume titled 'Relevant Skills', which is organized into three bulleted lists. The first list details 'Programming languages', including Perl, C++, Java (specified as 'expert'), HTML5, CSS3, Bootstrap, JavaScript (ES6-specified as 'proficient'), React.js (specified as 'expert'), and PHP. The second list describes 'Databases', listing MySQL (specified as 'expert'), Oracle SQL, and MSSQL (specified as 'proficient'). The third list covers 'Technologies', encompassing Trello, Word, AWS, Bitbucket, GitHub, Visual Studio, MATLAB, Eclipse, Android Studio, phpMyAdmin, Adobe Photoshop, Oracle Fusion, Rational Rose, Sublime, Trello, and Word. A parenthetical note at the end of the third list clarifies that some of the listed technologies might be considered 'either trivial or overly specific'. The proficiency level (expert or proficient) is indicated for some programming languages and databases. There is no explicit flow of information between the listed items; they are simply presented as a collection of skills."
+    width={700}
   />
 </Frame>
 
@@ -148,7 +148,7 @@ The person is also using terms like “expert” and “proficient”. This is a
   <img
     src="../assets/chap4-resume-structure/before_after_01_v3.webp"
     alt="Image represents a section of a tech resume titled 'Languages and Technologies', structured as a bulleted list. The list is divided into three sections: 'Languages', listing JavaScript, Java, HTML/CSS, PHP, and SQL; 'Technologies', listing React.js, Bootstrap, and AWS; and 'Other', which contains a highlighted phrase, 'API design, relational databases, unit, integration & E2E testing', followed by the parenthetical note '(adding skills relevant for the job listing)'. The 'Other' section suggests the addition of skills tailored to a specific job application, implying a dynamic and adaptable approach to resume building. There is no visual connection between the items in the list beyond their hierarchical arrangement under the main heading and subheadings. No URLs or parameters are present."
-    width={500}
+    width={700}
   />
 </Frame>
 
@@ -158,7 +158,7 @@ After talking with the person, it turned out that they have not used C++ or Perl
 
 ### Approach #2: Work experience conveying languages and technologies
 
-Another approach is to explicitly call out languages and technologies used at each of your positions, and not have a separate section for this. This approach helps convey the recency of the technologies you used, as opposed to having a big list of technologies—some of which you might not have used in a while.
+Another approach is to explicitly call out languages and technologies used at each of your positions, and not have a separate section for this. This approach helps convey the recency of the technologies you used, as opposed to having a big list of technologies-some of which you might not have used in a while.
 
 **This approach helps convey the recency of knowledge in a particular technology**. Hiring managers and technical recruiters will have a better understanding of how up-to-date you likely are with certain stacks. This approach can work better when applying for tech companies hiring generalist software engineers, where it can be an advantage to show that you have moved between languages and stacks in the past.
 
@@ -168,7 +168,7 @@ Let’s look at a snippet from a resume using this approach:
   <img
     src="../assets/chap4-resume-structure/14-work-exp-conveying-tech_v1.webp"
     alt="Image represents a text-based resume excerpt showcasing two distinct roles held by a Software Engineer. The top section, titled 'Software Engineer – Tax Returns', details two accomplishments: leading the development of two third-party interface projects for Microsoft and EPAM, resulting in a 45% cost reduction and on-time completion; and automating the error handling of restful APIs, decreasing client support tickets by 80%. A final bullet point lists the technologies used: Java, Swing, AWS, and MSSQL. Below this, the 'Software Engineer – Customer Happiness' section describes creating troubleshooting tools that boosted support team efficiency by over 30% and designing a data receiving module for a mass transaction uploader, pre-processing and cleaning data before file generation. This section concludes with a list of technologies employed: JavaScript, React, AWS, and MongoDB. The entire structure is a simple, vertically-oriented list of bullet points under each role heading, with no visual connections or information flow between the different sections beyond their hierarchical arrangement under the role titles."
-    width={500}
+    width={700}
   />
 </Frame>
 
@@ -178,13 +178,13 @@ Let’s look at a snippet from a resume using this approach:
   <img
     src="../assets/chap4-resume-structure/14-work-exp-conveying-tech_v2.webp"
     alt="Image represents a text-based resume section detailing the accomplishments of a Software Engineer under two categories: 'Software Engineer – Tax Returns' and 'Software Engineer – Customer Happiness'. The 'Tax Returns' section lists two bullet points. The first describes leading the development of two third-party interface projects for major clients (Microsoft and EPAM), completed on time and under budget (45% cost reduction), using Java and Swing. The second bullet point details automating error handling for restful APIs, resulting in an 80% reduction in support tickets, using Java, MSSQL, and deploying on an AWS stack. The 'Customer Happiness' section also contains two bullet points. The first describes creating troubleshooting tools that increased support team efficiency by over 30%, built using React and MongoDB. The second bullet point outlines designing and developing a data receiving module for a mass transaction uploader platform, using JavaScript/Node.js and deploying on AWS. The entire section is formatted as a bulleted list, with each bullet point describing a specific project, its outcome, and the technologies used. No URLs or parameters are visible."
-    width={500}
+    width={700}
   />
 </Frame>
 
 ### Approach #3: Splitting out not-so-hands-on languages and technologies
 
-The downside of having a list of languages and technologies is that it does not differentiate between ones that you are hands-on with, and ones where you would need a refresher. In this case, adding technologies that you are a bit more rusty with—but differentiating these—can be an option.
+The downside of having a list of languages and technologies is that it does not differentiate between ones that you are hands-on with, and ones where you would need a refresher. In this case, adding technologies that you are a bit more rusty with-but differentiating these-can be an option.
 
 Here’s an example of this, where a person is applying for a position for a company that is heavy on Ruby. They’ve done this in the past and wouldn’t mind picking it up again, but their Ruby knowledge is not on the same level as JavaScript and Java, which they both use day-to-day.
 
@@ -192,7 +192,7 @@ Here’s an example of this, where a person is applying for a position for a com
   <img
     src="../assets/chap4-resume-structure/15-splitting-tech_v1.webp"
     alt="Image represents a section of a tech resume detailing the candidate's skills in programming languages and technologies. The section is titled 'Languages and Technologies' and is organized into three bulleted lists. The first list, labeled 'Languages:', lists JavaScript, Java, HTML/CSS, and SQL. The second list, labeled 'Technologies:', lists React.js, Bootstrap, and AWS. The third list, labeled 'Working knowledge of:', lists Ruby, Rails, and PHP. There is no visual connection between the items in the lists beyond their hierarchical arrangement under the main section title and their respective subheadings. The information flows linearly, presenting a categorized list of the candidate's proficiency in various programming languages and technologies, with a distinction made between those the candidate is proficient in and those they have working knowledge of."
-    width={500}
+    width={700}
   />
 </Frame>
 
@@ -202,14 +202,14 @@ Here’s an example of this, where a person is applying for a position for a com
   <img
     src="../assets/chap4-resume-structure/16-splitting-tech_v2.webp"
     alt="Image represents a bulleted list detailing a person's work experience and education. The list is structured in three columns. The left column describes the job title or educational achievement, using bullet points for each entry. These include 'Senior software engineer', 'Software engineer II', 'Software developer', 'Software developer intern', and 'BSc, Mathematics'. The middle column specifies the company or institution associated with each entry, listing 'Uber', 'Skyscanner', 'Scott Logic', 'LogMeIn', 'Sensenet', and 'Budapest University of Technology'. The rightmost column indicates the time period for each role or education, providing specific years or ranges like '2019-present', '2018-2019', '2014-2016', and '2010-2014', with summer internships noted as such. The arrangement shows a chronological progression, starting with education and moving to progressively more senior roles in the software engineering field. There is no explicit information flow between the columns; rather, each row represents a discrete data point about a specific job or educational experience."
-    width={500}
+    width={700}
   />
 </Frame>
 
 It shows progression and clarity. This is the type of clarity you ideally want to convey. Here are a few things you can do to have a clear story:
 
-- **Make promotions clearly visible**. In the above example, it’s easy to see that this person was promoted while working at Skyscanner. Recruiters and hiring managers should see it as well. Getting promoted within a company is an important signal—it shows that you can succeed in creating impact and being recognized by your company. Good hiring managers pick up on this signal, especially because, as a developer, it’s often easier to job hop than get promoted within the organization.
-- **Don’t always stick to your “formal” titles when they describe your role poorly**. Some companies have developer titles that sound strange. Like in finance, the Associate title (for a software developer) or the Vice President title (for a senior software developer). If the position does not describe your role well, consider clarifying it and using a description that does. You can also add to it, to clarify the meaning. For example, if your title is Associate, you could write Software Developer (Associate). At a startup, I was “promoted” to take on the Community Manager role on top of being a developer. My title was officially changed to Community Manager. I still regret having my last job title on my resume saying Community Manager, instead of “Software Developer”, which was my actual job—and perhaps mentioning in the description that I extended my role to include community management.
+- **Make promotions clearly visible**. In the above example, it’s easy to see that this person was promoted while working at Skyscanner. Recruiters and hiring managers should see it as well. Getting promoted within a company is an important signal-it shows that you can succeed in creating impact and being recognized by your company. Good hiring managers pick up on this signal, especially because, as a developer, it’s often easier to job hop than get promoted within the organization.
+- **Don’t always stick to your “formal” titles when they describe your role poorly**. Some companies have developer titles that sound strange. Like in finance, the Associate title (for a software developer) or the Vice President title (for a senior software developer). If the position does not describe your role well, consider clarifying it and using a description that does. You can also add to it, to clarify the meaning. For example, if your title is Associate, you could write Software Developer (Associate). At a startup, I was “promoted” to take on the Community Manager role on top of being a developer. My title was officially changed to Community Manager. I still regret having my last job title on my resume saying Community Manager, instead of “Software Developer”, which was my actual job-and perhaps mentioning in the description that I extended my role to include community management.
 - **Dec 2013 vs 2013: drop the months** for dates that are more than a few years old. In the above example, the dates section was especially easy to scan, as there were no months added. Would have they added more information, if they were there? Hardly. When you have more than 2-3 years’ experience, the people reading your resume won’t care about month-level details. They are noise. So remove this.
 - **Omit work experience that doesn't support your story**. I have seen people add non-technical jobs, including pizza delivery, to their profiles. I’ve also seen people with 15 years’ experience listing all 4 internships they had well over a decade ago. Focus on your story and only leave the relevant parts. Talk about your *recent* experience much more in-depth than early ones.
 
@@ -245,8 +245,8 @@ An overly ambitious summary section can also backfire. Say you are applying for 
 
 - **Senior/standout profiles** can greatly benefit from a summary section or a few sentences giving context on your motivation, or what you are looking for. For these profiles, hiring managers will be eager to learn more, and *will* actually read this section. For example, suppose you have four years of experience at a well-known tech company and are applying at a smaller one. In that case, the hiring manager will read the summary, where you might mention that you are looking for your next challenge within a high-growth environment, but somewhere smaller than where you currently are.
 - **For fully remote positions**, a summary that also mentions that you are only looking for remote positions or that you are highly adept at remote work. This can be useful for the hiring manager.
-- **When changing roles compared to your last title**, for example going back from manager to IC, use the summary section to indicate this. Again, your resume will stand out due to your last title, and the recruiter/hiring manager will be curious to know why you are applying. They will read the top-level summary—assuming you make this easy to spot.
-- **With formatting that naturally lends itself to reading this section**, and when the section is clear and concise. This is usually the case with resume templates that have lots of whitespace—so the tradeoff is your resume has less information on two pages.
+- **When changing roles compared to your last title**, for example going back from manager to IC, use the summary section to indicate this. Again, your resume will stand out due to your last title, and the recruiter/hiring manager will be curious to know why you are applying. They will read the top-level summary-assuming you make this easy to spot.
+- **With formatting that naturally lends itself to reading this section**, and when the section is clear and concise. This is usually the case with resume templates that have lots of whitespace-so the tradeoff is your resume has less information on two pages.
 
 <Card
   title="From the inside out: Crafting a powerful summary section"
@@ -272,33 +272,33 @@ When you have more than 10 years of experience and have worked at multiple compa
 
 Here are a few ways you could consider “breaking” the previously suggested principles, to play to your strengths.
 
-**Do list your major deliverables and accomplishments—and while the two-page limit is not a hard one, try not to go over this length.** Keep your resume focused. The one-page resume is for grads, and the two-page resume for everyone else. This is the rule-of-thumb guidance for today’s tech resumes. But when you have more relevant experience to speak to, don’t necessarily be hung up on the two-page limit many guides recommend. List all your experiences that the hiring manager would find relevant—while balancing to stay concise.
+**Do list your major deliverables and accomplishments-and while the two-page limit is not a hard one, try not to go over this length.** Keep your resume focused. The one-page resume is for grads, and the two-page resume for everyone else. This is the rule-of-thumb guidance for today’s tech resumes. But when you have more relevant experience to speak to, don’t necessarily be hung up on the two-page limit many guides recommend. List all your experiences that the hiring manager would find relevant-while balancing to stay concise.
 
-**Consider having a summary section**, where you briefly describe the standout part of your experience and what the company would get with you. Tailor this one for the job. While you could consider adding details about your motivation in applying for the position, I advise against this—talking about your motivation will be part of the hiring manager interview. Note that for senior developer positions, having a summary section will rarely be a tiebreaker. The rest of your resume will be.
+**Consider having a summary section**, where you briefly describe the standout part of your experience and what the company would get with you. Tailor this one for the job. While you could consider adding details about your motivation in applying for the position, I advise against this-talking about your motivation will be part of the hiring manager interview. Note that for senior developer positions, having a summary section will rarely be a tiebreaker. The rest of your resume will be.
 
 **Do have separate resumes for management and IC positions**. Experienced engineers can often move between tech lead, engineering manager, and senior engineering roles. And this [manager-engineer pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) is a great thing. Some of the best staff engineers I’ve worked with have been managers beforehand. However, when crafting a resume, instead of a generic engineer/manager resume, create two separate ones. One should tell the story on why you want to go back to being an engineer in your next role, the other about why you’re a great fit as a manager.
 
-Companies rarely hire for hybrid roles. And if a hiring manager receives a resume that is a mix of a senior engineer and manager experience, with no clear story on where to go next, they will likely put it in the “unsure what to do with this one” pile. Tailor your resume and the story towards each type of position—and you’ll get callbacks far more often.
+Companies rarely hire for hybrid roles. And if a hiring manager receives a resume that is a mix of a senior engineer and manager experience, with no clear story on where to go next, they will likely put it in the “unsure what to do with this one” pile. Tailor your resume and the story towards each type of position-and you’ll get callbacks far more often.
 
 Take this example on two resumes for the same person. One is targeted at going back to an independent contributor (IC), and the other on carrying on as a manager. This person is applying for different roles and is genuinely open to both options. They do miss coding day-to-day, but they would not mind staying on the leadership track given the right opportunity.
 
-**Resume 1—going back to an individual contributor role:**
+**Resume 1-going back to an individual contributor role:**
 
 <Frame>
   <img
     src="../assets/chap4-resume-structure/17-senior-and-above-resume1.webp"
     alt="Image represents a tech resume for Ashley Sliden, with her email address (my_email@example.com) prominently displayed at the top. Below the contact information, a 'Summary' section provides a concise overview of her career goals, highlighting her desire to return to individual contribution as a senior software engineer after several years of leading engineering teams at a startup. This section emphasizes her renewed coding skills and strong mentorship abilities. The main body of the resume details her work experience. The first entry, spanning from 2018 to the present, lists her role as 'Head of Engineering' at TwoDrive in Berlin, Germany, with bullet points describing her accomplishments, including team growth from one to eight engineers, MVP development and subsequent releases, development environment setup with CI/CD and testing practices, and the establishment of a loosely-coupled, event-driven architecture using AWS, Kubernetes, Kafka, and Java services. The second entry, from 2016 to 2018, shows her previous position as 'Senior Engineer' at OneDrive in Amsterdam, Netherlands. The entire resume uses a clean, structured layout with clear section headings and bullet points to present her qualifications effectively."
-    width={500}
+    width={700}
   />
 </Frame>
 
-**Resume 2—staying on the manager track:**
+**Resume 2-staying on the manager track:**
 
 <Frame>
   <img
     src="../assets/chap4-resume-structure/18-senior-and-above-resume2.webp"
     alt="Image represents a tech resume for Ashley Sliden (my_email@example.com). The resume is structured chronologically, starting with a summary section highlighting Ashley's 4+ years of experience as an engineering manager, her passion for team building and business results, and her goal to scale an engineering group. Below the summary, the resume details two roles: 'Head of Engineering, TwoDrive' (2018-present) in Berlin, Germany, which includes bullet points describing achievements such as hiring a multidisciplinary team, implementing a career ladder, collaborating with the C-suite on budgeting and impact measurement, shipping an MVP and subsequent versions, and establishing best engineering practices. The second role, 'Team Lead, Senior Engineer, OneDrive' (2016-2018) in Amsterdam, Netherlands, is presented with a similar time frame and location, though specific accomplishments for this role are not shown in the provided image. The information flows chronologically from the summary to the detailed descriptions of each role, providing a clear progression of Ashley's career and accomplishments."
-    width={500}
+    width={700}
   />
 </Frame>
 
@@ -319,12 +319,12 @@ Note how the two resumes tell a very different story, even though all of the fac
 
   Ken Liu, who has recruited for close to 10 years at Microsoft, puts it like this:
 
-  *“Keep it concise. One to two pages is ideal. However, if you are management/director level you can go up to 3—4 pages at maximum. Though I’d add that going this long isn’t desirable. Think about the fact most recruiters and hiring managers of larger companies will be reading through many CVs for this role and spend 10-15 seconds doing a first scan of the CV and making an initial judgment. This is the case even for more experienced candidates.”*
+  *“Keep it concise. One to two pages is ideal. However, if you are management/director level you can go up to 3-4 pages at maximum. Though I’d add that going this long isn’t desirable. Think about the fact most recruiters and hiring managers of larger companies will be reading through many CVs for this role and spend 10-15 seconds doing a first scan of the CV and making an initial judgment. This is the case even for more experienced candidates.”*
 
   Long-time CTO Steve Ball notes how listing relevant details is important, even at the expense of length: *“I've been at the tech C-level for 20 years; I've reviewed thousands of CVs that time and hired hundreds of software engineers. It's a bit of a modern thing to have a one- or two-page CV. As a CV reviewer, I am often left without enough details to make a decision on whether to proceed. In the cases where I had a glimmer of interest, I have asked recruiters to give me a fuller fleshed-out CV from the candidate. For candidates, I recommend you mention your major deliverables and accomplishments for each role. If you've had 5–10 roles then this will easily take you over 2-3 pages. If you've had a lot of major accomplishments in a role, then list them.”*
 </Card>
 
-## Recap: Actions to Improve Your Resume
+## Recap: Actions to Improve
 
 In this chapter, we’ve covered the recommended structure of your resume, based on your experience. You want to convey the most relevant details that recruiters and hiring managers care about on the first page. Telling a story, tailoring a summary section, and listing the relevant languages and technologies are all traits of well-structured resumes.
 

@@ -2,9 +2,9 @@
 title: "Chapter 11: Resume Templates"
 ---
 
-A template is great help in getting started with a resume. It’s good practice to start with a tried and proven template, then customize it to your own style and preferences. In this section, we’ll review popular templates among developers—and analyze them with pros, cons and ways to improve the template, should you choose to use it.
+A template is great help in getting started with a resume. It’s good practice to start with a tried and proven template, then customize it to your own style and preferences. In this section, we’ll review popular templates among developers-and analyze them with pros, cons and ways to improve the template, should you choose to use it.
 
-There is no such thing as a perfect template. And a template is not worth much without great content—content that you will need to write.
+There is no such thing as a perfect template. And a template is not worth much without great content-content that you will need to write.
 
 ## Resume Generators vs Templates
 
@@ -42,13 +42,13 @@ Tech resume templates on resume.io. They look nice from afar, but aren’t great
   />
 </Frame>
 
-This resume template—supposedly created by professionals—has nothing to do with a software developer resume. It doesn’t have a single programming language listed. Yet it has spoken languages on the template. The skills section doesn’t even pass the buzzword bingo. And the template, with its two-column layout, is a poor choice for the resume.
+This resume template-supposedly created by professionals-has nothing to do with a software developer resume. It doesn’t have a single programming language listed. Yet it has spoken languages on the template. The skills section doesn’t even pass the buzzword bingo. And the template, with its two-column layout, is a poor choice for the resume.
 
 **The criteria of a decent resume generator site** should be this:
 
 1. **Resume templates optimized for hiring managers**. Are the templates created with the actual audience and easy readability in mind?
 2. **Testimonials from real hiring managers**. While many resume generators and resume services claim that they’ll help you score more callbacks, I would expect any paid solution to back this up with real hiring managers or recruiters in their industry.
-3. **Real, successful resume examples**. Similar to testimonials from hiring managers, you should be vary of paying up, if a site doesn’t showcase real—even if anonymized—resume examples that got people hired.
+3. **Real, successful resume examples**. Similar to testimonials from hiring managers, you should be vary of paying up, if a site doesn’t showcase real-even if anonymized-resume examples that got people hired.
 4. **For paid services: clear pricing and value proposition.** Several resume sites have “bait pricing” where they advertise as free, then follow dark patterns to charge. Some have unclear pricing tiers. If and when you pay, the value proposition should be clear. What do you get for your money, beyond a PDF resume?
 5. **Not quoting ATS myths and other false facts**. You can identify resume sites that try to sell resume templates and services without industry expertise. These sites typically quote things like "75% of resumes are never seen by humans" and other [ATS Myths](https://bytebytego.com/courses/tech-resume/p1-c2-the-hiring-pipeline#ats-myths-busted) in order to upsell their service.
 
@@ -71,7 +71,7 @@ I recommend using either [Standard Resume](http://pragmaticurl.com/standardresu
 3. **Web resume view tracking**, so you get a sense if someone has actually viewed the resume you shared over a link.
 4. **Real resume examples of real developers and engineering managers** who actually got jobs at tech companies with that resume. Almost all other resume sites fail to show real developer resume examples of people working at well-known tech companies. With Standard Resume, you can [browse real resumes](https://standardresume.co/examples) for software engineers, iOS, frontend developers, data scientists, engineering managers and other professions who have successfully used the service.
 
-It should be of little surprise that almost all Standard Resume templates are single-column and all templates have a heavy focus on spacing and typography—another thing that sets it apart from other sites. As a hiring manager, all of these layouts are easy—even pleasant—to read.
+It should be of little surprise that almost all Standard Resume templates are single-column and all templates have a heavy focus on spacing and typography-another thing that sets it apart from other sites. As a hiring manager, all of these layouts are easy-even pleasant-to read.
 
 <Frame caption="Resume templates from Standard Resume. Note that all but one follow the top-down template, with an easy-to-read structure and layout.">
   <img
@@ -90,9 +90,9 @@ It should be of little surprise that almost all Standard Resume templates are si
 
   ***“One of the most common mistakes is cramming a ton of content into a single page.** This is the number one issue I see with software engineering resumes. Removing the whitespace between paragraphs and sections makes your resume harder to scan and read. So do tiny font sizes.*
 
-  ***The most important part of a resume is that it's easy to read.** If the recruiter skips your resume because it's hard to read, nothing else—including the contents of your resume—matters. Either focus on the critical parts or make it two pages.*
+  ***The most important part of a resume is that it's easy to read.** If the recruiter skips your resume because it's hard to read, nothing else-including the contents of your resume-matters. Either focus on the critical parts or make it two pages.*
 
-  ***Resume typography is particularly important** when applying for jobs in tech, especially for design-heavy companies. Since resumes are mostly text, typography is responsible for a large part of your resume's first impression. Take the time to get the correct line length, font sizes, line heights, etc. — or let professionals handle it.”*
+  ***Resume typography is particularly important** when applying for jobs in tech, especially for design-heavy companies. Since resumes are mostly text, typography is responsible for a large part of your resume's first impression. Take the time to get the correct line length, font sizes, line heights, etc. - or let professionals handle it.”*
 </Card>
 
 I came across Standard Resume while researching resume generator sites. I was about to close with the recommendation of *not* recommending any resume generators for tech resumes. However, the clean approach Standard Resume takes, and the easy to read templates made me change my mind. I reached out to the team, offering feedback on the resume templates, and listed things I missed from the existing ones. We collaborated and helped them create the Parker and Venables themes based on my existing resume templates. These two themes are ones that I would recommend for software engineers - and we’ll review them in this chapter.
@@ -111,7 +111,7 @@ Keep in mind that as most of these templates are popular, people likely had succ
 
 ## Recommended Templates
 
-The following resume templates are all solid—and proven—choices for software engineers and engineering managers:
+The following resume templates are all solid-and proven-choices for software engineers and engineering managers:
 
 - [The Pragmatic Engineer’s template](#the-pragmatic-engineers-template)
 - [Standard Resume: Parker template](#standard-resume-parker-template-paid)
@@ -178,7 +178,7 @@ Let’s take a closer look at each of them.
 **The bad:**
 
 - Unlike a template, it’s harder to “cram” everything on one page. But this is by design.
-- Locations cannot be recorded separately for each position—I added this information to the company name field.
+- Locations cannot be recorded separately for each position-I added this information to the company name field.
 
 **Ways to improve it:**
 
@@ -262,11 +262,11 @@ Let’s take a closer look at each of them.
 
 - Company name and title have stronger than usual attention.
 - Dates are easy to scan.
-- Links draw a lot of attention—and they do this deliberately. They are inviting the hiring manager or recruiter to click through and see strong content behind the links.
+- Links draw a lot of attention-and they do this deliberately. They are inviting the hiring manager or recruiter to click through and see strong content behind the links.
 
 **The bad:**
 
-- Leaves unused space on the left side—however, this is deliberate, to give more focus to the company names and titles.
+- Leaves unused space on the left side-however, this is deliberate, to give more focus to the company names and titles.
 - Technologies & languages will most likely be on the second page. This is deliberate: it is meant for standout profiles where recruiters will scan the second page as well, being impressed with either company names, title, or both.
 - This template doesn’t work well for people with less experience or people with few standout areas.
 
@@ -300,7 +300,7 @@ Let’s take a closer look at each of them.
 
 **The bad:**
 
-- Locations cannot be recorded separately for each position—I added this information to the company name field.
+- Locations cannot be recorded separately for each position-I added this information to the company name field.
 
 **Ways to improve it:**
 
@@ -325,7 +325,7 @@ The CareerCup resume template is common to see used both for Silicon Valley soft
 - Tech recruiters in the US are used to it.
 - Consistent formatting of dates and company/school names across sections.
 - Dates and titles are *really* easy to read. Figuring out how much experience you have is a breeze.
-- The format can be used for two pages as well—just make sure the most important details that recruiters need to see are listed on the first page.
+- The format can be used for two pages as well-just make sure the most important details that recruiters need to see are listed on the first page.
 
 **The bad:**
 
@@ -362,7 +362,7 @@ I am not a fan of two-column resumes, as they make it hard to scan from top to b
 <Frame>
   <img
     src="../assets/chap11-resume-templates/resume_template_serif.webp"
-    alt="Image represents a tech resume template. At the top, 'Your Name' is prominently displayed in a large font, followed by a contact address including street, city, state, zip code, phone number ('(123) 456-7890'), and email address ('no_reply@example.c'). Below this, the resume is sectioned into 'EXPERIENCE', listing three past job roles, each with 'Company, Location — Job Title', followed by employment dates (e.g., 'MONTH 20XX - PRESENT' or 'MONTH 20XX - MONTH 20XX') and a brief description using placeholder text ('Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.'). An 'EDUCATION' section follows a similar format, detailing two educational experiences with 'School Name, Location — Degree', dates, and descriptive text. A 'PROJECTS' section includes a single project with 'Project Name — Detail' and a description. On the right side, 'SKILLS', 'AWARDS', and 'LANGUAGES' sections list skills, awards received, and languages known, respectively, all using placeholder text with a similar structure and format. The entire layout is clean and organized, using consistent formatting and spacing throughout."
+    alt="Image represents a tech resume template. At the top, 'Your Name' is prominently displayed in a large font, followed by a contact address including street, city, state, zip code, phone number ('(123) 456-7890'), and email address ('no_reply@example.c'). Below this, the resume is sectioned into 'EXPERIENCE', listing three past job roles, each with 'Company, Location - Job Title', followed by employment dates (e.g., 'MONTH 20XX - PRESENT' or 'MONTH 20XX - MONTH 20XX') and a brief description using placeholder text ('Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.'). An 'EDUCATION' section follows a similar format, detailing two educational experiences with 'School Name, Location - Degree', dates, and descriptive text. A 'PROJECTS' section includes a single project with 'Project Name - Detail' and a description. On the right side, 'SKILLS', 'AWARDS', and 'LANGUAGES' sections list skills, awards received, and languages known, respectively, all using placeholder text with a similar structure and format. The entire layout is clean and organized, using consistent formatting and spacing throughout."
     width={700}
   />
 </Frame>
@@ -465,7 +465,7 @@ The [Software Developer Resume template](https://resume.io/resume-examples/soft
 **The bad:**
 
 - The two-column layout limits the details you can share for your work experience.
-- This resume breaks most guidelines in this guide. It does not have a Language and Technologies section—yet it has the unnecessary references section.
+- This resume breaks most guidelines in this guide. It does not have a Language and Technologies section-yet it has the unnecessary references section.
 - The “Skills” and the blue line under them add noise for no reason.
 - The “Skills” listed on this resume have nothing to with skills hiring managers and recruiters look for at tech companies.
 - The example resume copy is a poor example for a software engineer and seems to have been written by someone who has not worked in software.
@@ -476,7 +476,7 @@ The [Software Developer Resume template](https://resume.io/resume-examples/soft
 
 ### Skills Points and the Resume.io Web Developer Template (Paid)
 
-The [Web Developer Resume template](https://resume.io/resume-examples/web-developer) by resume.io is worth calling out for the pointed skills section—and why following skills scoring is not a great idea.
+The [Web Developer Resume template](https://resume.io/resume-examples/web-developer) by resume.io is worth calling out for the pointed skills section-and why following skills scoring is not a great idea.
 
 <Frame>
   <img
@@ -515,13 +515,13 @@ This resume template is an example of using the points system to “score” how
 
 - Anything you score yourself 3 points or lower out of 5 should likely not be on your resume. Why would you mention a technology in which you rate yourself at a low score?
 - Anything mentioned as 4 or 5 stars is a given, without the star system as well. Recruiters and hiring managers will assume you are proficient with anything you list on your resume. Why else would you mention it?
-- Your rating will likely be off anyway. I have seen people rate themselves as 5 stars on a language in which they seemed to not know things that I thought were basics. I’ve also had someone rate themselves 2 stars on a framework that they turned out to be solid at. People aren’t as good at rating themselves as they think they are—and experienced recruiters and hiring managers are very much aware of this
+- Your rating will likely be off anyway. I have seen people rate themselves as 5 stars on a language in which they seemed to not know things that I thought were basics. I’ve also had someone rate themselves 2 stars on a framework that they turned out to be solid at. People aren’t as good at rating themselves as they think they are-and experienced recruiters and hiring managers are very much aware of this
 
 Similar to how a profile photo won’t help your resume, star ratings can only work against you. Drop the ratings and keep all technologies relevant for the position that you are proficient with.
 
 ### VisualCV (Paid)
 
-The [VisualCV standard template](https://www.visualcv.com/cv-templates/standard/) shares a lot of the good with the CareerCup resume. It’s a solid alternative to that one—except for the fact that you have to pay to have the VisualCV branding removed.
+The [VisualCV standard template](https://www.visualcv.com/cv-templates/standard/) shares a lot of the good with the CareerCup resume. It’s a solid alternative to that one-except for the fact that you have to pay to have the VisualCV branding removed.
 
 <Frame>
   <img
@@ -568,12 +568,12 @@ I do not recommend the EnhanCV [Software Engineer resume](https://enhancv.com/r
 
 **The good:**
 
-- Looks stunning—as a candidate, when you are looking at your own resume.
+- Looks stunning-as a candidate, when you are looking at your own resume.
 
 **The bad:**
 
 - Technical hiring managers and recruiters won’t appreciate the format as it’s hard to scan.
-- Encourages adding a photo—which leads to bias.
+- Encourages adding a photo-which leads to bias.
 - Some sections make little sense. Life Philosophy adds little content.
 - A two-column structure that makes it hard to scan for recruiters, and discourages adding sufficient details for your experience.
 
@@ -586,7 +586,7 @@ I do not recommend the EnhanCV [Software Engineer resume](https://enhancv.com/r
 
 ### EuroPass CV
 
-Avoid this CV template in applying for tech jobs. The biggest sin of this format is encouraging adding all the details that lead to biases: photos, birth dates, gender, and so on. The Europass format is also *not* required to apply to jobs in Europe—contrary to what some people incorrectly assume.
+Avoid this CV template in applying for tech jobs. The biggest sin of this format is encouraging adding all the details that lead to biases: photos, birth dates, gender, and so on. The Europass format is also *not* required to apply to jobs in Europe-contrary to what some people incorrectly assume.
 
 **Every tech recruiter I’ve spoken with advised to not use this format** - and I advise the same. The Europass format was created by a working group within the European Commission. Though I could not confirm this officially, several recruiters mentioned hearing that there was no recruiter, HR specialist or job seeker in this committee.
 
@@ -614,4 +614,4 @@ Avoid this CV template in applying for tech jobs. The biggest sin of this format
 
 **Ways to improve it:**
 
-- Do not use this template for any positions—software engineering or not.
+- Do not use this template for any positions-software engineering or not.

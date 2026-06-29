@@ -24,7 +24,7 @@ Most of these differences come from how recruiters use LinkedIn most of the time
   <img
     src="../assets/chap9-beyond-the-resume/36-tech-resume-search-engine-result.webp"
     alt="Image represents a screenshot of a tech-resume search engine results page displaying 152,384 results. The left panel shows filter options for refining the search: 'Job titles' (with options like 'Sales', 'Account Manager', and 'Sales Director'), 'Locations' (e.g., 'Greater Chicago Area', 'Indianapolis, Indiana Area'), 'Skills' (including 'Sales', 'Sales Management', 'Account Management', 'Enterprise Software', and others), 'Companies' (allowing for adding company names or Boolean searches), and 'Schools'. These filters are visually connected via implied arrows to the right panel, suggesting their influence on the displayed results. The right panel shows search results, structured as follows: (1) a headline section displaying the candidate's name (e.g., 'Finley Watts'), current title, location, and industry; (2) the current title and date; (3) past position titles and dates; (4) education details, including school names (e.g., 'Lake Forest'); (5) a section implicitly showing the results filtered by a Boolean search for specific skills and technologies; and (6) other filters (titles, locations, companies) are implied to be used to further refine the search. The LinkedIn logo is visible next to one candidate's name, indicating a potential integration with LinkedIn data. The bottom of the page shows indicators like 'Company follower' and 'Being considered by 1 other team', providing additional context about the candidates."
-    width={500}
+    width={650}
   />
 </Frame>
 
@@ -44,8 +44,8 @@ To optimize your LinkedIn profile for recruiter searches, let’s take a look be
 
 - Software developer: **“software developer” OR “software engineer”**
 - Fullstack developer with React.js and Python experience:
-   - **”React.js” AND “Python”** for a simple search
-   - **(“developer” OR “engineer”) NOT “manager” AND React.js” AND “Python”** for a more sophisticated search
+    - **”React.js” AND “Python”** for a simple search
+    - **(“developer” OR “engineer”) NOT “manager” AND React.js” AND “Python”** for a more sophisticated search
 - Frontend developer with React or similar experience: **(“frontend developer” OR “front-end developer”) AND (“javascript” or “typescript”) AND (“react” OR “reactjs” OR “vue” OR “vuejs” OR “angular” OR “angularjs”)**
 
 Recruiters will often Boolean search for keywords that are in the job description that the hiring manager gives them. So taking this example from a job description, highlighting possible keywords:
@@ -58,7 +58,7 @@ A recruiter could create these Boolean searches:
 - *Focus on languages:* **“C” OR “C++” OR “Java” OR “Perl”**
 - *CS fundamentals and languages:* **(“data structures” OR “algorithm” OR “algorithms” OR “design”) AND (“C” OR “C++” OR “Java” OR “Perl” OR “object oriented”)**
 
-If your profile contains these phrases, you’ll appear in the results. The closer the match—for example, when matching in the headline—and the closer you are in your network with the recruiter, the higher you will rank on the search results.
+If your profile contains these phrases, you’ll appear in the results. The closer the match-for example, when matching in the headline-and the closer you are in your network with the recruiter, the higher you will rank on the search results.
 
 ### Optimizing LinkedIn when job searching
 
@@ -74,7 +74,7 @@ When you are either actively job searching or are getting ready to start, consid
   />
 </Frame>
 
-- **Always have a current position listed**, even if you don’t currently have a job. LinkedIn ranks your profile lower when you do not have a current position. [Kathy Bernard](https://www.linkedin.com/in/kathybernard/), who specializes in optimizing LinkedIn profiles, advises to always fill out something as content here—even if you don't have a job right now. As a developer, you can tailor this current position to showcase the technologies and languages you are an expert in. For a few more pointers, see her article: [Unemployed? Create a “current” role on LinkedIn](https://www.linkedin.com/pulse/unemployed-create-current-role-linkedin-kathy-bernard/).
+- **Always have a current position listed**, even if you don’t currently have a job. LinkedIn ranks your profile lower when you do not have a current position. [Kathy Bernard](https://www.linkedin.com/in/kathybernard/), who specializes in optimizing LinkedIn profiles, advises to always fill out something as content here-even if you don't have a job right now. As a developer, you can tailor this current position to showcase the technologies and languages you are an expert in. For a few more pointers, see her article: [Unemployed? Create a “current” role on LinkedIn](https://www.linkedin.com/pulse/unemployed-create-current-role-linkedin-kathy-bernard/).
 - **Add more headline details.** Consider using the “|” separator character to add more information to your headline, such as key skills or technologies you’d like to be found for. For example, a headline could be:
 
   > *Full-stack dev with 5 years experience | Go, Java, JavaScript, React, Swing | Distributed systems, developer tooling & fluid user interfaces.*  
@@ -83,7 +83,7 @@ When you are either actively job searching or are getting ready to start, consid
 - **Connect with more people on LinkedIn, including recruiters**. The closer you are connections-wise to the recruiter doing the search, the higher your profile will rank. As you start your job search, do consider adding current and former colleagues and recruiters who have previously reached out to you.
 - **Consider updating your location when you have a definite destination in mind to move to**. Location is often a filter that recruiters use. If you are ready to move to a city or a country, you can update your location, so you show up as a local candidate. Use good judgment, especially for cases when you’d need a visa to move. Updating a location will most likely result in more inbound messages from local companies. Once you have a reachout, you can confirm if the company sponsors visas before investing more time in the process.
 - **Use Boolean search when searching for jobs**. It’s not just recruiters who can do Boolean searches: on job sites like LinkedIn, you can do so as well. You can use AND, OR and NOT for phrases, and parenthetical search. For example, you could use the following search string to look for non-senior frontend jobs, for companies not building on top of the Laravel framework:
-    
+
   > **(frontend OR javascript OR react) AND NOT (senior or laravel)**  
   
   Narrow your search to fewer opportunities that are a better match for what you are looking for, or your skillset. This will help you apply in a more focused way.
@@ -115,21 +115,21 @@ As a hiring manager, here is what I look for when browsing through a GitHub prof
   <img
     src="../assets/chap9-beyond-the-resume/38-new-repo-github-interface.webp"
     alt="Image represents a GitHub interface for creating a new repository. At the top, a title 'Create a new repository' is displayed with a brief explanation of repositories and a link to 'Import a repository'. Below, a 'Repository template' section offers a dropdown menu currently selecting 'No template'. Next, an 'Owner' section shows a dropdown menu with 'gergelyorosz' selected, followed by a forward slash '/', and a 'Repository name' input field containing 'gergelyorosz', validated by a green checkmark. A light-green informational box displays a message indicating that the chosen repository name is a 'special' repository designed to add a README.md file to a GitHub profile, recommending making it public and initializing it with a README file. Further down, an optional 'Description' input field is provided. Finally, a 'Public' option is selected with a radio button, indicating that the repository will be publicly accessible, along with an explanatory text clarifying visibility and commit permissions. The overall flow is top-down, guiding the user through the steps of defining the repository's template, owner, name, description, and visibility settings."
-    width={500}
+    width={600}
   />
 </Frame>
 
 - Then take inspiration from other developer READMEs in creating yours from lists like:
-  - [Awesome Github Profile READMEs](https://github.com/abhisheknaiidu/awesome-github-profile-readme) by [Abhishek Naidu](https://github.com/abhisheknaiidu)
-  - [Awesome Profile README templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) by [Kautuk Kundan](https://github.com/kautukkundan)
-  - [Awesome Readme Templates](https://github.com/elangosundar/awesome-README-templates) by [Elango Sundar](https://github.com/elangosundar)
-- **Pin the “best” repositories on your profile**—up to six of them. You can control which repositories are shown on your profile. Hiring managers will most likely only click on a few of these, so make them count.
+    - [Awesome Github Profile READMEs](https://github.com/abhisheknaiidu/awesome-github-profile-readme) by [Abhishek Naidu](https://github.com/abhisheknaiidu)
+    - [Awesome Profile README templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) by [Kautuk Kundan](https://github.com/kautukkundan)
+    - [Awesome Readme Templates](https://github.com/elangosundar/awesome-README-templates) by [Elango Sundar](https://github.com/elangosundar)
+- **Pin the “best” repositories on your profile**-up to six of them. You can control which repositories are shown on your profile. Hiring managers will most likely only click on a few of these, so make them count.
 
 <Frame>
   <img
     src="../assets/chap9-beyond-the-resume/39-github-profile-page.webp"
     alt="Image represents a GitHub profile page for Gergely Orosz (gergelyorosz), showing an overview section with counts for repositories (23), projects (0), packages (0), stars (77), followers (168), and following (15). Below this, a section titled 'Popular repositories' displays four projects: 'swift-objective-c-mixed-project' (Objective-C, 46 stars, 9 forks), 'gae-export-as-csv' (Python, 19 stars, 3 forks), 'GhostSocialCasper' (CSS, 15 stars, 3 forks), and 'SwiftAlgorithmsAndDataStructures' (Swift, 4 stars, 0 forks). Each project displays its primary language, star count, and fork count. To the right, a separate box suggests 'Customize your pins and link your 'best' repositories', indicating a feature to highlight selected projects. A large arrow points from this box to the 'Popular repositories' section, suggesting a connection between the customization feature and the displayed projects. The left side shows Gergely Orosz's profile picture, his name, username, a button to 'Edit profile', and a brief professional summary mentioning his role as an engineering manager at Uber, Skyscanner, Skype, and JP Morgan. A 'Set status' option is also visible."
-    width={500}
+    width={600}
   />
 </Frame>
 
@@ -138,7 +138,7 @@ As a hiring manager, here is what I look for when browsing through a GitHub prof
 
 ## Technical Blogs
 
-Do you know what percentage of candidates write technical blogs? Only a fraction of all resumes I’ve seen. So if you happen to write one, you’ll already have something to stand out with—assuming you add it to your resume. However, don’t *just* add your technical blog to your resume. Similar to your GitHub, be deliberate about what the one or two articles you’d want a hiring manager to read.
+Do you know what percentage of candidates write technical blogs? Only a fraction of all resumes I’ve seen. So if you happen to write one, you’ll already have something to stand out with-assuming you add it to your resume. However, don’t *just* add your technical blog to your resume. Similar to your GitHub, be deliberate about what the one or two articles you’d want a hiring manager to read.
 
 **Before and after: technical blogs**
 
@@ -150,7 +150,7 @@ Take these two resume examples. The first example is from a resume where the per
   <img
     src="../assets/chap9-beyond-the-resume/before_after_07_v1.webp"
     alt="Image represents a section of a technical resume dedicated to projects. The section is headed by the italicized word 'Projects'. Below this heading, a bulleted list item describes a project: 'I write about technical concepts that I learn about or find useful for the developer ecosystem on the Dev.to blogging platform'. The text indicates a project involving writing about technical concepts for developers, published on the Dev.to platform. There is no visual representation of a flow of information; the description is purely textual, detailing a single project under the 'Projects' section of the resume. The URL 'Dev.to' is underlined, implying it's a clickable link if this were a digital document."
-    width={500}
+    width={700}
   />
 </Frame>
 
@@ -160,7 +160,7 @@ Take these two resume examples. The first example is from a resume where the per
   <img
     src="../assets/chap9-beyond-the-resume/before_after_07_v2.webp"
     alt="Image represents a section of a tech resume under the heading 'Projects'. A bullet point precedes a description stating, 'I write a technical blog'. This is followed by a phrase highlighted in light green, 'Popular articles include', which acts as a connector to the subsequent details. These details specify two popular articles: one on 'Angular Material' and another on 'The Angular roadmap: looking back, and looking ahead'. The underlined phrases, 'Angular Material' and 'The Angular roadmap: looking back, and looking ahead', emphasize the specific topics of these blog posts. The overall structure flows linearly, with the main project being the technical blog, and the highlighted phrase acting as a transition to showcase specific examples of its content."
-    width={500}
+    width={700}
   />
 </Frame>
 
@@ -178,7 +178,7 @@ For other social media like Twitter, Instagram, Quora and others: I discourage l
 
 ## Cover Letters
 
-Big tech companies rarely ask for cover letters—they will only look at your resume. Small and mid-sized companies allow attaching these, but very few explicitly ask for it. Most tech recruiters I’ve talked with don’t ask for it, and even if sent separately, rarely read them.
+Big tech companies rarely ask for cover letters-they will only look at your resume. Small and mid-sized companies allow attaching these, but very few explicitly ask for it. Most tech recruiters I’ve talked with don’t ask for it, and even if sent separately, rarely read them.
 
 Cover letters in tech matter at companies where the hiring manager does the resume screening. These are typically smaller companies, often startups, which see fewer applicants for roles. As such, I suggest prioritizing writing cover letters to smaller companies only, or in cases where you know you can reach the hiring manager directly.
 
@@ -221,7 +221,7 @@ When you decide to write a cover letter, an immediate strategy is to find a good
   <img
     src="../assets/chap9-beyond-the-resume/40-cover-letter-template.webp"
     alt="Image represents a template for a cover letter, structured as a text block with placeholders indicated by curly braces `{}`. The top section begins with a salutation 'Dear {X}', where `{X}` represents the recipient's name. The following paragraph expresses interest in a `{position}` advertised on a `{web site}`, highlighting the applicant's `{relevant skills}` and `{number of}` years of experience, and confidently stating their ability to solve a problem. Below, a section titled 'Highlights of my experience include:' lists three bullet points, each containing a `{Requirement for the position #}` followed by `{proof that you've done this}`. This structure allows for tailoring the letter to specific job requirements by filling in the placeholders with relevant information. The letter concludes with a closing statement 'I would appreciate the opportunity to discuss this position further', followed by a complimentary closing 'All the best', and the applicant's `{Name}`. No visual connections or information flow beyond the textual arrangement is present."
-    width={500}
+    width={700}
   />
 </Frame>
 
@@ -235,7 +235,7 @@ Consider this highly personalized cover letter, shared by software engineer [Sa
   <img
     src="../assets/chap9-beyond-the-resume/41-cover-letter-example.webp"
     alt="Image represents a text-based resume, formatted as a personalized letter addressed to 'Acme'. The document begins with a casual greeting and introduction of John Doe, highlighting his location (Ohio) and extensive software development experience. The core of the resume is a persuasive narrative, structured as a two-sided argument. It first describes the recipient ('you') as opinionated, bold, and outspoken, emphasizing their proactive nature and willingness to take risks. Then, it contrasts this with John's own strengths and weaknesses, showcasing his problem-solving abilities, communication skills, and love for challenges while acknowledging his aversion to repetitive tasks and unmotivated teams. This section uses bullet points to clearly delineate his positive and negative attributes. The letter continues by expressing John's strong interest in the opportunity, emphasizing the mutual benefit and shared passion for software development. It concludes with a call to action ('Let's talk!') and John's signature. The overall flow is conversational and engaging, aiming to connect with the recipient on a personal level beyond the typical resume format."
-    width={500}
+    width={700}
   />
 </Frame>
 
@@ -256,7 +256,7 @@ As a hiring manager working at an outspoken company that challenges the status q
 
 Use good judgment when writing a cover letter. But don’t forget that your goal is to get your foot in the door - assuming your skills are a good match. For the smaller companies that would read a cover letter, a tactful and personalized approach could make the difference.
 
-## Recap: Actions to Improve Your Application Beyond the Resume
+## Recap: Actions to Improve
 
 In this chapter, we went through why LinkedIn, GitHub, StackOverflow, technical blogs and cover letters can also play a part in your application process. Of all of these, LinkedIn, GitHub and technical blogs are usually the most relevant ones for software developers. To increase the chances of a recruiter call, do the following exercises:
 

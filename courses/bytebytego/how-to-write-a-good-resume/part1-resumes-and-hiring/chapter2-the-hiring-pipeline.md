@@ -32,7 +32,7 @@ Similarly, it’s good to know that when you get a LinkedIn reach-out, it’s fr
 When you interact with people, be mindful of these roles and their constraints. When a recruiter messages or calls you about a rejection, know that they are often a messenger. They are as invested in you getting the job as you are! As much as both the resume screening and the interview process can seem like a black box, it’s run by people who try and do their best.
 
 <Card
-  title="From the inside out: what can you typically expect from a recruiter?"
+  title="From the inside out: What can you typically expect from a recruiter?"
   icon="align-left"
   type="info"
 >
@@ -44,7 +44,7 @@ When you interact with people, be mindful of these roles and their constraints. 
 
   What you should expect, and what the baseline should be to hope for, is a level of transparency of what’s going on. To understand who this person’s stakeholders are. For example, at a large company, like Google or Facebook, I would have a level of relationship with hiring managers, but it was really abstract. I was more of an administrator of the existing recruitment process. Here, all I could do was communicate to candidates what the process was, and what I was going to do on their behalf, as they made their way through the process.
 
-  Whereas when I was at Uber, I was working with hiring managers directly on actually crafting what that recruitment process was, specifying the outputs of interviews. In this case, I was able to tell candidates what to expect at the level of focus areas—without giving away the exact questions themselves. Things like how there will be the coding, architecture, and hiring manager interview. How interviewers will want to know about your thought process, how outcome-oriented you are, how process- or thinking-oriented you are, and how they’ll dive into collaborative problem solving with you.
+  Whereas when I was at Uber, I was working with hiring managers directly on actually crafting what that recruitment process was, specifying the outputs of interviews. In this case, I was able to tell candidates what to expect at the level of focus areas-without giving away the exact questions themselves. Things like how there will be the coding, architecture, and hiring manager interview. How interviewers will want to know about your thought process, how outcome-oriented you are, how process- or thinking-oriented you are, and how they’ll dive into collaborative problem solving with you.
 
   **Generally speaking, the smaller the company is, the more details you should be able to get,** and the deeper the relationship should be with your recruiter. So when you work with recruiters at startups, you’ll get a much clearer view and a much deeper lens. You’ll get a better idea of the culture, what’s actually happening there, what teams are looking for, and what to expect.
 
@@ -59,13 +59,13 @@ When you submit your resume through a job advert, the typical hiring pipeline is
   <img
     src="../assets/chap2-the-hiring-pipeline/02-hiring-pipeline.webp"
     alt="Image represents a funnel visualizing the tech resume application process. At the top, a gray trapezoid shows '250 Resumes Submitted', feeding into a similarly shaped gray trapezoid labeled '250 Applicant Tracking System Queue', accompanied by text explaining that applications progress through stages until rejection or offer. Below, a series of progressively smaller, light-blue trapezoids depict decreasing applicant numbers at each stage: '200 Resume Screen', '30 Recruiter Screen', '20 Technical Screen', and '5 Onsite'. Finally, a light-green trapezoid at the bottom indicates '1 Offer'. To the right of the funnel, corresponding light-blue and light-green trapezoids provide descriptions of each stage: Recruiters spend 5-20 seconds on resumes; the recruiter screen involves a phone call confirming experience and motivation; the technical screen includes a phone screen and/or take-home coding challenge; the onsite stage involves several interviews; and the final stage is an offer."
-    width={500}
+    width={700}
   />
 </Frame>
 
 Let's look at each of the stages:
 
-1. **Applicant Tracking System Queue.** Almost all tech companies use an Applicant Tracking Systems (ATS)—see [Chapter 3 - Tech Resume Basics](../part2-writing-the-resume/chapter3-tech-resume-basics) for resume tips to pass screening. These systems track the lifecycle of your application. For example, after a recruiter reviews the resume, the status of the candidate might change to “Reviewed” or “Resume Reviewed.”
+1. **Applicant Tracking System Queue.** Almost all tech companies use an Applicant Tracking Systems (ATS)-see [Chapter 3 - Tech Resume Basics](../part2-writing-the-resume/chapter3-tech-resume-basics) for resume tips to pass screening. These systems track the lifecycle of your application. For example, after a recruiter reviews the resume, the status of the candidate might change to “Reviewed” or “Resume Reviewed.”
   
     Not all applications might progress to the resume review screen. The reason some applications might not be looked at that there are already enough qualified resumes in the previous batch. Another reason could be that the position has just been filled. In general, the later your resume comes in, the higher the chance that it won’t be looked at, due to having enough qualified candidates in further stages of the pipeline. With better companies, candidates would still get a standard rejection notification when their application is not processed further.
 2. **Resume / CV screen.** In most companies, recruiters do the resume screening. However, some larger companies, particularly Silicon Valley-based ones, tend to have a specialized role called inbound sourcer, who takes on this screening. The recruiter or inbound sourcer scans your resume, spending 5-20 seconds to determine if you might be a match for the position. If you're not a good match, you might get an automated rejection messag - assuming the company has a policy to send one. If the first scan is promising, they'll spend a bit more time reading your resume in depth. Afterwards, they might set up an initial call to check on a few details, and determine if they'll have you start the interview process.
@@ -84,9 +84,9 @@ Some of the most popular ATS systems used by tech companies are iCIMS, Taleo, Gr
 
 The purpose of an ATS is to help coordinate the application process, for recruiters within the company. It keeps track of the status of applications, and exposes this information to all recruiters. For example, this is how a sourcer will know not to reach out to a candidate who is currently interviewing with the company, or someone who has recently declined an offer.
 
-Here is how a popular ATS, iCIMS displays candidates in the hiring pipeline for a specific position —people who applied on the career page, who have been referred, or who have been sourced and added by a recruiter:
+Here is how a popular ATS, iCIMS displays candidates in the hiring pipeline for a specific position -people who applied on the career page, who have been referred, or who have been sourced and added by a recruiter:
 
-<Frame caption="The pipeline view in the iCIMS ATS—one of the popular ATS systems. Recruiters need to review the candidate to process. This usually means them scanning the resume.">
+<Frame caption="The pipeline view in the iCIMS ATS-one of the popular ATS systems. Recruiters need to review the candidate to process. This usually means them scanning the resume.">
   <img
     src="../assets/chap2-the-hiring-pipeline/03-review-candidate-process.webp"
     alt="Image represents a candidate pipeline interface, likely from an applicant tracking system (ATS), displaying a list of candidates filtered for 'Java' skills. The top section shows the pipeline title 'Pipeline: Java Cands', a search bar with 'Java' entered and a close button (X), and tabs for 'Unreviewed' and 'In Pipeline' candidates. Below, it displays 'Showing 6 out of about 6 Candidates'. The main body presents a table with checkboxes for candidate selection, columns for 'Name', 'Location', 'Current Role', 'Highest Education', and 'Job Apps'. Two candidates are shown: Anthony Townsend from Bethlehem, PA, US, a Software Support Engineer at Tri Star Engineering with a Bachelor of Science in Information Technology from Indiana State University and zero job applications; and Ellis McLane from Lakehurst, NJ, US, an Electrical Apprentice at Low Voltage Tech Solarium Energy, also with a Bachelor of Science in Information Technology from Indiana State University and zero job applications. A dropdown menu labeled 'Relevance' allows sorting, and a large magnifying glass icon suggests further search functionality. A toggle switch and an 'Actions' menu are present in the top right corner. Each candidate row includes a small icon resembling a document, possibly indicating additional information."
@@ -100,7 +100,7 @@ Here is how a popular ATS, iCIMS displays candidates in the hiring pipeline for 
   <img
     src="../assets/chap2-the-hiring-pipeline/04-ATS-workflow.webp"
     alt="Image represents a flowchart illustrating the tech resume application process. It begins with an 'Unviewed Applicant' box (grey) which flows to a diamond-shaped decision point labeled '1. Recruiter reviews the application'. A positive outcome leads to 'In Review' (blue box), while a negative outcome (labeled 'Not a fit based on resume and/or knockout/prescreen questions') leads to 'Rejected' (red box). 'In Review' flows to another diamond, '2. Hiring Manager reviews the application', with rejection leading back to 'Rejected' and acceptance to 'Interview' (light blue box). 'Interview' leads to '3. Technical screens & onsite interviews' (diamond), with failure resulting in a return to 'Rejected' and success to 'Offer' (light green box). Finally, 'Offer' leads to '4. Candidate extended an offer' (diamond), where acceptance leads to 'Accepted' (green box) and declination leads to 'Declined' (pink box). The entire flowchart visually depicts the sequential steps and decision points in a candidate's journey through the application process."
-    width={500}
+    width={600}
   />
 </Frame>
 
@@ -109,16 +109,17 @@ Boxes are statuses that represent the status of the application. It starts as �
 For a more detailed explanation on how an ATS system works, see the video [The Truth About the ATS (it’s not what you think)](https://www.youtube.com/watch?v=U5K2F--rNe4&feature=youtu.be) from Amy Miller. Amy is an experienced tech recruiter and the author of the [Recruiting in Yoga Pants blog](https://www.recruitinginyogapants.com/). She has recruited at Amazon, Google and Microsoft and shares the “behind the scenes” working of this process. In this video, she summarizes what an ATS is, and is not:
 
 > *"An ATS is a system to keep me organized, as a recruiter. We need to actually know, at a given point, in their journey, and what I need to do next. For example, if I’ve got someone at the interview stage, have I set it up? At the offer stage, has the offer been approved yet? Without an ATS, I don’t know what’s going on. I don’t know who is waiting on who, doing what thing. The ATS solves this problem.*
->
+> <br />
+> <br />
 > *The idea that the ATS is this mythical, genius, AI-infused tool is crazy. Anyone who has been in an ATS, and has used it for work is laughing at this idea. It’s so ridiculous."*
 
 ## ATS Myths Busted
 
-ATS systems is a term that many resume builder sites and self-proclaimed career gurus use as a root cause of your resume being rejected. Almost all claims I have read on ATSes - from "robots" rejecting up to 75% of resumes to PDF formats not being advised—are wrong.
+ATS systems is a term that many resume builder sites and self-proclaimed career gurus use as a root cause of your resume being rejected. Almost all claims I have read on ATSes - from "robots" rejecting up to 75% of resumes to PDF formats not being advised-are wrong.
 
-These misleading sites and people share two traits. First, they promote services you can purchase from them to "beat the ATS". Second, they refer to sources that are not backed by technical recruiters or hiring managers who actually use ATSes. This book does not claim that it will "help you beat the ATS", because—as we'll cover— there is no "ATS to beat" for tech resumes. And all claims in this section are backed by technical recruiters and hiring managers who configure the ATS systems and use them, day to day.
+These misleading sites and people share two traits. First, they promote services you can purchase from them to "beat the ATS". Second, they refer to sources that are not backed by technical recruiters or hiring managers who actually use ATSes. This book does not claim that it will "help you beat the ATS", because-as we'll cover- there is no "ATS to beat" for tech resumes. And all claims in this section are backed by technical recruiters and hiring managers who configure the ATS systems and use them, day to day.
 
-**Automated ATS rejections** are one of the main fallacies many sites claim. Jobscan [writes](https://www.jobscan.co/blog/8-things-you-need-to-know-about-applicant-tracking-systems/): *“Whether that human recruiter ever sees your resume could depend on how well your resume is optimized for ATS algorithms.”.* CNBC published the article [75% of resumes are never read by a human—here’s how to make sure your resume beats the bots](https://www.cnbc.com/2019/02/28/resume-how-yours-can-beat-the-applicant-tracking-system.html). This article only references sources from companies who make a living selling resume services and claim that they provide resumes to “beat” this system. There is no hiring manager or tech recruiter backing up the contents —good luck finding professionals giving their name to incorrect facts. Take this claim from the article:
+**Automated ATS rejections** are one of the main fallacies many sites claim. Jobscan [writes](https://www.jobscan.co/blog/8-things-you-need-to-know-about-applicant-tracking-systems/): *“Whether that human recruiter ever sees your resume could depend on how well your resume is optimized for ATS algorithms.”.* CNBC published the article [75% of resumes are never read by a human-here’s how to make sure your resume beats the bots](https://www.cnbc.com/2019/02/28/resume-how-yours-can-beat-the-applicant-tracking-system.html). This article only references sources from companies who make a living selling resume services and claim that they provide resumes to “beat” this system. There is no hiring manager or tech recruiter backing up the contents -good luck finding professionals giving their name to incorrect facts. Take this claim from the article:
 
 <Card icon="quote-right" type="info" horizontal className="italic">
   Most applications are removed from the equation because they are not formatted in a way these systems can read and interpret - a career expert with TopResume tells CNBC.
@@ -155,7 +156,7 @@ The only popular ATS that does some type of rating based on parsed resumes is Ta
 Some tech recruiters predict more automated parsing and AI-assisted decision making to come for hiring. However, this is not here just yet. Even when it will be, the outcome shouldn’t be different to a recruiter doing a quick resume scan, and marking the resume with a “Yes”, “Maybe” or “No” outcome.
 
 <Card
-  title="From the inside out: what recruiters say about ATS systems?"
+  title="From the inside out: What recruiters say about ATS systems?"
   icon="align-left"
   type="info"
 >
@@ -170,7 +171,7 @@ Some tech recruiters predict more automated parsing and AI-assisted decision mak
 
 ## Referrals
 
-If you are surprised at how difficult getting to a recruiter screen is, I have good news, and I have bad news. The good news is that referrals make this much easier—if you have one. The bad news is that without a referral, it's actually more difficult to even have a human look at your resume or to get a recruiter call.
+If you are surprised at how difficult getting to a recruiter screen is, I have good news, and I have bad news. The good news is that referrals make this much easier-if you have one. The bad news is that without a referral, it's actually more difficult to even have a human look at your resume or to get a recruiter call.
 
 <Card
   title="Referrals, references and background checks"
@@ -179,7 +180,7 @@ If you are surprised at how difficult getting to a recruiter screen is, I have g
 >
   Referrals and references might sound similar, but they could not be more different. And references and background checks are sometimes confused, though they are also different.
 
-  **Referrals** — short for employee referrals—are ways for employees to refer candidates internally. Pretty much all tech companies have a referral program that incentivizes employees to make referrals and rewards them for successful referrals. When their referral is hired, employees are paid a nice bonus, often in the thousands of dollars. Referrals are treated with priority because they work remarkably well. Referrals are far more likely to go through interviews successfully, to get an offer, and to accept an offer. They are also less likely to turn out to be a bad hire who doesn't make it through their trial period. Studies like [Understanding the value of hiring through referrals](http://ftp.iza.org/dp7382.pdf) and [The value of hiring through employee referrals in developed countries](https://wol.iza.org/uploads/articles/369/pdfs/the-value-of-hiring-through-employee-referrals-in-developed-countries.pdf) confirm this to be the case not just within tech, but for hiring in general.
+  **Referrals** - short for employee referrals-are ways for employees to refer candidates internally. Pretty much all tech companies have a referral program that incentivizes employees to make referrals and rewards them for successful referrals. When their referral is hired, employees are paid a nice bonus, often in the thousands of dollars. Referrals are treated with priority because they work remarkably well. Referrals are far more likely to go through interviews successfully, to get an offer, and to accept an offer. They are also less likely to turn out to be a bad hire who doesn't make it through their trial period. Studies like [Understanding the value of hiring through referrals](http://ftp.iza.org/dp7382.pdf) and [The value of hiring through employee referrals in developed countries](https://wol.iza.org/uploads/articles/369/pdfs/the-value-of-hiring-through-employee-referrals-in-developed-countries.pdf) confirm this to be the case not just within tech, but for hiring in general.
 
   **References** stand for reference checks and usually happen after the interviews but before an offer. If you have done well on the interview, many companies do reference checks to confirm that you would be a fit for the job. Companies often reach out to you, asking for you to provide these references. It’s good practice to let your references know that they can expect a call. Reference checks are almost always carried out by the hiring manager.
 
@@ -210,7 +211,7 @@ If you ask for a referral, do this before you apply to the position. Most tech c
 It can be a delicate balance on how long you wait to apply, versus getting a referral: you’ll need to make the call if you want your application to go in faster, or to wait and have it come with a referral, assuming you can get one.
 
 <Card
-  title="From the inside out: what people working at tech companies say about referrals"
+  title="From the inside out: What people working at tech companies say about referrals"
   icon="align-left"
   type="info"
 >
@@ -249,7 +250,7 @@ A hiring manager's goal is to hire people who are qualified for the job as quick
 2. **Local candidates.** Recruiters and hiring managers perk up when seeing local candidates. Local means no paperwork to start, and no relocation is needed. There’s also little risk of a candidate who accepted an offer backing out due to relocation concerns.
 3. **Candidates not needing visas.** In these cases, once an offer is made, there's little paperwork needed, and there won't be visa-related delays for the person starting. They might need to relocate, but relocation would not add any uncertainties to the starting date.
 4. **Candidates needing visas** and relocation are usually people from abroad. This type of hire is the most time- and cost-consuming for the company. A company needs to be ready to wait for a longer visa process to go through, and pay for the additional costs, like relocation, in these cases. These kinds of hires are usually reserved either for positions that are hard to fill, or for cases where the company needs to hire a large number of people. Someone needing a visa and relocation might mean an additional 2-3 months to start the job, with an additional $10-15K in relocation and visa costs.
-5. **Candidates from countries that are unusually difficult to get visas for**-this usually applies to US companies. In specific countries, and for certain companies, hiring developers from some countries becomes very difficult, if not impossible. One specific case is hiring for US companies—even when the office is not in the US - from countries that are on the comprehensively sanctioned countries or the targeted sanction countries list. Getting a visa can be a difficult process that few - if any-companies will want to go through.
+5. **Candidates from countries that are unusually difficult to get visas for**-this usually applies to US companies. In specific countries, and for certain companies, hiring developers from some countries becomes very difficult, if not impossible. One specific case is hiring for US companies-even when the office is not in the US - from countries that are on the comprehensively sanctioned countries or the targeted sanction countries list. Getting a visa can be a difficult process that few - if any-companies will want to go through.
 
 Most companies decide on a position-by-position basis if they will go ahead with relocation and visa sponsorships. For larger companies, policies on this are usually central. Companies will typically only sponsor visas and provide relocation at senior and above software engineering levels and at roles they find hard to hire for locally.
 
@@ -259,14 +260,14 @@ As a rule of thumb, the more qualified local applicants there are, the less like
 
 Better companies make it clear whether they sponsor visas on the job description itself. Look out of these.
 
-**For remote positions, the selection process is usually more straightforward.** Larger tech companies hire people as employees, and they will only hire engineers in countries where they have a legal company entity that can employ them. For example, a US-based company might have entities in the UK and Singapore, and they might sponsor hiring people to work remotely—but only in these countries. For companies like this, if you are not based in these countries or cannot move without a visa, you won’t be considered for the position.
+**For remote positions, the selection process is usually more straightforward.** Larger tech companies hire people as employees, and they will only hire engineers in countries where they have a legal company entity that can employ them. For example, a US-based company might have entities in the UK and Singapore, and they might sponsor hiring people to work remotely-but only in these countries. For companies like this, if you are not based in these countries or cannot move without a visa, you won’t be considered for the position.
 
 Some smaller and mid-sized companies will often hire from anywhere, also being open to hiring contractors, not just full time employees. This would mean that while you can work for these companies remotely, you will be responsible for setting up a business that the company will contract with, and you’ll be responsible for all your taxes and benefits.
 
 The downside of hiring contractors is that this setup is more fragile from the point of the company. Longer term, few companies stick with it. Things like equity become close to impossible to administer in this setup, and the working relationship needs to be a lot more transactional. Still, there is a large upside that you could be considered for the position from different companies, assuming you can work with a timezone that overlaps well enough with what the company is looking for.
 
 <Card
-  title="From the inside out: can I get visa sponsorship in tech when I’m a new grad or junior software engineer?"
+  title="From the inside out: Can I get visa sponsorship in tech when I’m a new grad or junior software engineer?"
   icon="align-left"
   type="info"
 >
@@ -309,18 +310,18 @@ If the founder is non-technical and there aren’t other hands-on hiring manager
 
 Outside of major tech hubs, this kind of approach to screening software developers is more common than most people assume. It should be of little surprise that the screening and the actual work you’d do are not similar. Still, as annoying getting algorithmic challenges for a small company can be, there’s an upside. Should you pass, you’ll probably be one of the first hands-on technical hires. If you’re passionate about hiring, you will likely be able to shape the interview process for the better, from within the company.
 
-**For companies with technical founders, the hiring process can be one of the nicest ones.** Your resume is almost always read by a technical hiring manager, who works with developers day-to-day. The first phone call is with the hiring manager themselves—most likely, your future manager. The technical screens rarely have algorithmic challenges, and the onsite is shorter as well. There’s less competition, and you are more likely to get an offer in the end. So what’s the catch?
+**For companies with technical founders, the hiring process can be one of the nicest ones.** Your resume is almost always read by a technical hiring manager, who works with developers day-to-day. The first phone call is with the hiring manager themselves-most likely, your future manager. The technical screens rarely have algorithmic challenges, and the onsite is shorter as well. There’s less competition, and you are more likely to get an offer in the end. So what’s the catch?
 
 The catch is that these are small, lesser-known companies. They will almost certainly not sponsor visas. The compensation will almost certainly be below that of the large tech company. The company might seem like a really risky bet.
 
-However, it’s precisely these reasons why these companies are seeing so few applications. And some of these assumptions might not be true. The compensation might be solid—perhaps it’s just not advertised. The company might still sponsor visas—especially if they are failing to attract even local talent. And while the company might be a risky bet, the risk could easily pay off.
+However, it’s precisely these reasons why these companies are seeing so few applications. And some of these assumptions might not be true. The compensation might be solid-perhaps it’s just not advertised. The company might still sponsor visas-especially if they are failing to attract even local talent. And while the company might be a risky bet, the risk could easily pay off.
 
 <Card
-  title="From the inside out: can I get visa sponsorship in tech when I’m a new grad or junior software engineer?"
+  title="From the inside out: Can I get visa sponsorship in tech when I’m a new grad or junior software engineer?"
   icon="align-left"
   type="info"
 >
-  Jordan Bonnet was the first mobile engineer hired at Uber and employee #5. He shares the surprising story of him getting this job—and an example of how applying to small companies can pay off.
+  Jordan Bonnet was the first mobile engineer hired at Uber and employee #5. He shares the surprising story of him getting this job-and an example of how applying to small companies can pay off.
 
   *“I had been working as a software engineer for two years in France, and I wanted to get a job in the US. So I went to one of the biggest US job sites at the time, Simply Hired, and applied for more than 20 jobs. I heard back from 3 companies: Qik, Eventbrite, and UberCab. Qik told me hiring from abroad was complicated for them at the time. Eventbrite told me they don’t sponsor visas.*
 
@@ -331,7 +332,7 @@ However, it’s precisely these reasons why these companies are seeing so few ap
 
 ### Mid-Sized Companies with HR Support for Recruiting
 
-At companies that outgrow the few-person startup stage, the hiring manager realizes they can’t do all the hiring work themselves. Still, the company is not large enough—or hiring fast enough—to invest in a sourcer or a dedicated recruiter. Instead, they usually hire an HR generalist with the goal of reducing the load on the hiring manager. They take on the screening the resumes and organizing of the interviews - on top of many, non-hiring related duties.
+At companies that outgrow the few-person startup stage, the hiring manager realizes they can’t do all the hiring work themselves. Still, the company is not large enough-or hiring fast enough-to invest in a sourcer or a dedicated recruiter. Instead, they usually hire an HR generalist with the goal of reducing the load on the hiring manager. They take on the screening the resumes and organizing of the interviews - on top of many, non-hiring related duties.
 
 These companies are less well-known compared to large tech companies. They see more applications compared to some small companies, but nothing comparable to the large ones. The hiring pipeline will be similar to startups, but the hiring manager is now only involved later in the process:
 
@@ -349,11 +350,11 @@ The only notable difference in this process is how the hiring manager no longer 
 
 While the most well-known tech companies easily get hundreds of applications for every open position, small and relatively unknown companies struggle to get even a few applications. These companies often hire recruiter agencies to seek out candidates. And it's not just overly small companies that have this problem. Talking with recruiting agencies, it is far more common for startups who just raised a Series A to not see enough inbound job applications than most people assume.
 
-Many of these companies spend time advertising their product—like having an article on TechCrunch—but they often don't spend nearly as much time advertising their position. They will have the position listed on the career site and perhaps pay to advertise it on a job board: but listing on a job board is already a step that many companies don't do.
+Many of these companies spend time advertising their product-like having an article on TechCrunch-but they often don't spend nearly as much time advertising their position. They will have the position listed on the career site and perhaps pay to advertise it on a job board: but listing on a job board is already a step that many companies don't do.
 
 **You can use the fact that many tech jobs are "invisible" to the masses to your advantage** by proactively finding these smaller, promising companies with tech positions and directly applying to them. This is a win for both you and the company. By applying early, your resume will have to stand out from fewer applications. And, assuming you are qualified and might get the job, the company will have to spend less time and money on recruitment. To do so, you need to use job aggregators to go directly to the career site postings of jobs most people are unaware of.
 
-**Most candidates only search on job boards, which have far fewer tech listings**. Job boards are the job sites you are probably already familiar with. They have a well-known brand, and companies have to pay a hefty fee for each job advert. In return, they get a lot of eyeballs, and—hopefully—many inbound applications. The most popular job boards in tech include:
+**Most candidates only search on job boards, which have far fewer tech listings**. Job boards are the job sites you are probably already familiar with. They have a well-known brand, and companies have to pay a hefty fee for each job advert. In return, they get a lot of eyeballs, and-hopefully-many inbound applications. The most popular job boards in tech include:
 
 - [LinkedIn Jobs](http://linkedin.com/jobs)
 - [StackOverflow Jobs](https://stackoverflow.com/jobs/companies)
@@ -368,13 +369,13 @@ Many of these companies spend time advertising their product—like having an ar
 
 Job aggregators are not specific to tech. You’ll have to narrow down your search criteria to the title and location, and browse through listings. When you find a position that looks interesting, try to find the company career site, and apply directly, with a tailored resume. While you could also upload your generic resume, I only suggest this if you are already getting responses. If you are struggling to get that recruiter call for jobs you seem to be qualified for, then you will see better results by sending a resume that you tweak for each job description.
 
-Note how the first mobile engineer at Uber also found the listing via a job aggregator. Despite having raised funding from great investors, there were so few applications for the mobile engineer position, that applications got fast responses at that time. Job aggregators can help find positions with similarly small—yet potentially great—companies like UberCab in 2011.
+Note how the first mobile engineer at Uber also found the listing via a job aggregator. Despite having raised funding from great investors, there were so few applications for the mobile engineer position, that applications got fast responses at that time. Job aggregators can help find positions with similarly small-yet potentially great-companies like UberCab in 2011.
 
 ## Recap
 
-In this chapter, we’ve peeked behind the scenes on how the hiring pipeline works at large tech companies, startups and medium-sized companies. Every company has a different hiring process—and some can diverge from what was discussed here—but understanding what typically happens behind the scenes can help you tailor your strategy, even before submitting your resume. Here are things you can do to increase your chances.
+In this chapter, we’ve peeked behind the scenes on how the hiring pipeline works at large tech companies, startups and medium-sized companies. Every company has a different hiring process-and some can diverge from what was discussed here-but understanding what typically happens behind the scenes can help you tailor your strategy, even before submitting your resume. Here are things you can do to increase your chances.
 
-1. **Keep in mind who the “target” for your resume is**. A recruiter, HR partner or hiring manager will be reading your CV, and you’ll want to make it clear why you are a good fit for the position—and do this in a few seconds. We will dive into tactics in Part 2 of the book.
+1. **Keep in mind who the “target” for your resume is**. A recruiter, HR partner or hiring manager will be reading your CV, and you’ll want to make it clear why you are a good fit for the position-and do this in a few seconds. We will dive into tactics in Part 2 of the book.
 2. **Seek out referrals**, especially for tech companies that are well-known and likely see many applicants. Referrals might be able to refer you to positions that are only internally advertised as well.
 3. **Browse positions on job aggregators,** not just job boards. Job aggregators will have positions listed the earliest. Even for companies who pay to be listed on job boards, they typically list positions on their careers site first.
 4. **Make a list of jobs and companies** you would consider. Add notes to how large the company is, how competitive the application process likely is, whether it is a local company, and whether you’d need a visa. Prioritize your application process based on the likelihood of you standing out. You’ll want to do some “long shot” applications, but also some “safer bets”.

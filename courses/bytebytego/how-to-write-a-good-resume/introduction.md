@@ -40,9 +40,9 @@ The book is split into three different parts. I recommend skimming the book once
 
 - **Before and after examples** showcase real-world, but anonymized resume snippets as their author originally wrote them. Improvement areas are visualized <mark class="highlight-magenta">with highlights</mark>, and the <mark class="highlight-green">improvements afterwards</mark> are also made clear.
 
-- **Recap: actions to improve your resume** sections close each of the chapters in Part 2. These are practical checks and exercises you can do to make improvements to your resume.
+- **Recap: Actions to Improve** sections close each of the chapters in Part 2. These are practical checks and exercises you can do to make improvements to your resume.
 
-[Part 3: examples and inspiration](./part3-examples-and-inspiration/_index) provides templates to get started with writing your resume, as well as anonymized developer resume examples to kick start you with writing your own resume.
+[Part 3: Examples & Inspiration](./part3-examples-and-inspiration/_index) provides templates to get started with writing your resume, as well as anonymized developer resume examples to kick start you with writing your own resume.
 
 <Card
   title="From the inside out: Insights from people running the hiring process"
@@ -52,10 +52,42 @@ The book is split into three different parts. I recommend skimming the book once
   The book contains a dozen “from the inside out” sections. These are the thoughts and perspectives of hiring managers, tech recruiters and other people involved in the recruitment process on how and why things are done. These sections offer additional and interesting perspectives.
 </Card>
 
+---
+
+<Card
+  title="Part 1"
+  icon="paper-plane"
+  href="/courses/bytebytego/how-to-write-a-good-resume/part1-resumes-and-hiring/_index"
+  arrow="true"
+  horizontal
+>
+  Resumes and the Hiring Process
+</Card>
+
+<Card
+  title="Part 2"
+  icon="pen-to-square"
+  href="/courses/bytebytego/how-to-write-a-good-resume/part2-writing-the-resume/_index"
+  arrow="true"
+  horizontal
+>
+  Writing the Resume
+</Card>
+
+<Card
+  title="Part 3"
+  icon="wand-magic-sparkles"
+  href="/courses/bytebytego/how-to-write-a-good-resume/part3-examples-and-inspiration/_index"
+  arrow="true"
+  horizontal
+>
+  Examples & Inspiration
+</Card>
+
 ## Footnotes
 
 <Footnotes>
   <Footnote id="1">
-    FAANG: Facebook, Apple, Amazon, Netflix, Google. FAANG companies are known for the impressive stock growth they have shown in recent years. Engineers working at these companies receive hefty equity compensation on top of base salaries, making them some of the most attractive companies to work at—and the most competitive to get into.
+    FAANG: Facebook, Apple, Amazon, Netflix, Google. FAANG companies are known for the impressive stock growth they have shown in recent years. Engineers working at these companies receive hefty equity compensation on top of base salaries, making them some of the most attractive companies to work at-and the most competitive to get into.
   </Footnote>
 </Footnotes>

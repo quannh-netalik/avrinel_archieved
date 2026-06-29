@@ -4,11 +4,11 @@ title: "Chapter 12: Resume Improvement Examples"
 
 This section is a collection of real resumes that you can use as inspiration when writing yours. Remember that your resume should be about *your* experience, tailored for the *specific* position you are applying for.
 
-I started writing this book after offering to review resumes for software developers who were looking for jobs. Having received too many requests for me to review in-depth, I started to send an early version of this book as feedback for people—this book was at 30 pages, so much shorter than it is today!
+I started writing this book after offering to review resumes for software developers who were looking for jobs. Having received too many requests for me to review in-depth, I started to send an early version of this book as feedback for people-this book was at 30 pages, so much shorter than it is today!
 
 The below examples are real resumes that I received. They were often ones where the author was not receiving the type of response rate they were hoping for. You’ll read the initial analysis of the resume, then see the improved version that the author ended up using as their “master” resume.
 
-All examples are anonymized: names of people, companies, schools, locations and dates have been altered to not allow tracking back to the original author. The other features of the resume are as they were—giving you an idea of some typical areas that you could also address with your current resume.
+All examples are anonymized: names of people, companies, schools, locations and dates have been altered to not allow tracking back to the original author. The other features of the resume are as they were-giving you an idea of some typical areas that you could also address with your current resume.
 
 **Resist copying anything one-for-one from these examples.** These resumes are someone else’s experience. Use these to get inspiration, and see if your resume has similar improvement opportunities.
 
@@ -46,7 +46,7 @@ The below resume is one for a person with a few years’ experience, who intende
 
 ### The original resume
 
-<Frame className="flex flex-col gap-2">
+<Frame className="flex flex-col gap-2 items-center">
   <img
     src="../assets/chap12-resume-improvement-examples/resume_1_before_1.webp"
     alt="Image represents a tech resume for Edmond Smith, structured into distinct sections. The top section displays contact information: name ('Edmond Smith'), mailing address ('TNC NT1, Cape Town'), email ('edmondsmith88@example.com'), and website ('https://EdmondSmithDev.github.io/'). Below this is a 'TECH STACKS' section listing the technologies Edmond is proficient in, categorized into Programming Languages/Frameworks (PHP/Laravel, JavaScript/Express, Java/Kotlin for Android), Database (Postgres, MySQL, MongoDB), Infrastructure (AWS), Testing Tools (PHPUnit, Mockery), and API Specs (REST). The main body is the 'WORK EXPERIENCE' section, detailing Edmond's roles chronologically. Each role (Cloudless, MennoMark (twice), South Business School, AdvancedLearning, Loud Fort, The Trace Foundation) is presented as a heading, followed by bullet points describing responsibilities, technologies used (e.g., PHP/Laravel, Kotlin, Java, Go), projects (e.g., MennoInnova, MennoMini), and dates of employment. The information flows chronologically downwards, with each role's description providing details about the tasks performed and technologies employed within that specific timeframe. Specific technologies and project names are highlighted throughout the descriptions, providing a clear picture of Edmond's skills and experience."
@@ -61,7 +61,7 @@ The below resume is one for a person with a few years’ experience, who intende
 
 ### Analysis of the resume
 
-Overall, this is not a bad resume—but there are many improvements that could make it a much stronger one for this position.
+Overall, this is not a bad resume-but there are many improvements that could make it a much stronger one for this position.
 
 **The good**
 
@@ -71,16 +71,16 @@ Overall, this is not a bad resume—but there are many improvements that could m
 
 **Improvement areas**
 
-- **Overly generous spacing.** The margins on the sides of the resume were unusually large—reducing the space of what would fit on each of the pages. While good spacing can benefit resumes, there is no reason to have very large spacing on the top and the side.
+- **Overly generous spacing.** The margins on the sides of the resume were unusually large-reducing the space of what would fit on each of the pages. While good spacing can benefit resumes, there is no reason to have very large spacing on the top and the side.
 - **Consistency**. Formatting is not consistent, and it brings a sloppy feel for the resume. Font sizes and alignment are different in different sections.
-- **Drawing focus to the wrong thing.** This resume has many links—the person linked to all their previous companies. When glancing at the resume, the recruiter’s attention is immediately drawn to the names of companies. However, it would be smarter to draw attention to the title of the engineer and the date. A different template could help with this, as would toning down link colors.
+- **Drawing focus to the wrong thing.** This resume has many links-the person linked to all their previous companies. When glancing at the resume, the recruiter’s attention is immediately drawn to the names of companies. However, it would be smarter to draw attention to the title of the engineer and the date. A different template could help with this, as would toning down link colors.
 - **The impact of the work**. Within the work experience, there could be more specific impact mentioned about the person's work. There are some specifics, but there are also a lot of phrases like “Built a mobile app”, without explaining what was impactful, challenging or interesting about it.
 - **Linking to company websites**. The links to company websites drew attention but brought little value. If a recruiter or hiring manager wants to look up the company, they can do so without a link, just by searching for the company name. Besides, the company landing page does not convey much relevant information.
 - **Splitting out a 3-month position at MennoMark**. This person got promoted after a few months at MennoMark. They decided to split this 3-month-long position out into separate sections. Because of how fast this promotion was, they could just ignore this short position, not mentioning it.
 
 ### The refactored resume
 
-<Frame className="flex flex-col gap-2">
+<Frame className="flex flex-col gap-2 items-center">
   <img
     src="../assets/chap12-resume-improvement-examples/resume_1_after_1.webp"
     alt="Image represents a tech resume for Edmond Smith, structured into distinct sections. The top displays his name, location (Cape Town, South Africa), email (edmondsmith88@example.com), and a placeholder for a website URL. A 'TECHNOLOGIES AND LANGUAGES' section lists his proficiencies in various programming languages (PHP, JavaScript, Java, Kotlin, Android, Angular, Laravel, Express.js, Ktor), databases (MySQL, MongoDB), cloud services (AWS), and version control (Git), along with skills in data structures, algorithms, API design, and best practices. The 'WORK EXPERIENCE' section details three roles: 'Backend Software Engineer' at Cloudless (Sep 2018-present), focusing on improving customer conversion and API re-architecture; 'Development Team Lead' at MennoMark (Jan 2017-Aug 2018), involving app development and team management; and 'Developer and Trainer' at South Business School (Summer 2017), where he designed and taught an Android development bootcamp. A 'Guest Author' section describes his contributions to AdvancedLearning, including writing and updating articles on Angular. Finally, a 'Software Developer Intern' role at Loud Fort (Summer 2017) involved building an internal web tool. The 'EDUCATION' section concludes the resume, stating his Bachelor of Science in Computer Science from Cape Town University (2013-2017) and his receipt of a MasterCard Foundation scholarship. Each work experience entry includes a company name, dates of employment, and a bulleted list of accomplishments. The resume uses a clear, concise format with consistent formatting and clear section headings."
@@ -115,7 +115,7 @@ After refactoring the resume to a 1-pager one below, they saw a lot more leads, 
 
 ### The original resume
 
-<Frame className="flex flex-col gap-2">
+<Frame className="flex flex-col gap-2 items-center">
   <img
     src="../assets/chap12-resume-improvement-examples/resume_2_before_1.webp"
     alt="Image represents a tech resume for Pat Thompson, a Machine Learning Engineer at Lastminute.com Ltd. The resume is structured into sections: a header with contact information (location, Github, LinkedIn, email, and website URLs), an 'EXPERIENCE' section listing four roles with company names, locations, dates, and employment types (full-time or contract, remote or on-site), a 'FRAMEWORKS & LIBRARIES' section categorized by Machine Learning, Web, Data Processing, and Other, detailing specific technologies used, an 'EDUCATION' section stating a B.S. in Computer Science from the University of São Paulo, a 'PROGRAMMING LANGUAGES' section showing proficiency levels in Python, Javascript, Elixir, Go, and Kotlin using a dot-based proficiency indicator, a 'CLOUD' section listing AWS services (EC2, RDS, EMR, ECS, SageMaker, S3), a 'TOOLS' section listing various tools (Docker, Terraform, Packer, etc.), and finally, a 'DESIGN PATTERNS' section listing architectural patterns (REST, MVC, etc.). The sections are clearly labeled and arranged vertically, with information flowing sequentially from the header to the experience, skills, and education details. The visual design uses bold text for section headers and a consistent layout to enhance readability."
@@ -144,7 +144,7 @@ The resume is an instant turn-off. The template is unnecessarily hard to read. T
 **Improvement areas**
 
 - **Use an easy to read template.** The current template makes it hard to scan the resume contents. The black headers draw attention needlessly.
-- **Do not use the skills self-rating**. As discussed in the [Unnecessary Details section](https://bytebytego.com/courses/tech-resume/p2-c4-common-mistakes#unnecessary-details), self-rating skills proficiency can only work against you on a resume. This can be seen here, in action. As a hiring manager, I could assume this person is not a good developer, based on their own rating. If they rate their Javascript as 3/5, some hiring managers could assume they are not quite proficient—which is not at all what this person wanted to convey.
+- **Do not use the skills self-rating**. As discussed in the [Unnecessary Details section](https://bytebytego.com/courses/tech-resume/p2-c4-common-mistakes#unnecessary-details), self-rating skills proficiency can only work against you on a resume. This can be seen here, in action. As a hiring manager, I could assume this person is not a good developer, based on their own rating. If they rate their Javascript as 3/5, some hiring managers could assume they are not quite proficient-which is not at all what this person wanted to convey.
 - **Talk about impact and results**, not what you were told to do. In a new field like machine learning, most companies will look for people who take the initiative and get results.
 - **Convey the right type of information on the first page.** This person has a lot to build on: so do this. They should showcase the impactful work they've done, and their skills.
 - **Talk more about themselves, not their companies.** For every position listed, this person writes nearly as much about the company as they do for their achievements. Drop the part on the company: they should focus on their results.
@@ -189,7 +189,7 @@ With their original resume, they were seeing far less response than they were ho
 
 ### Analysis of the resume
 
-This resume is a decent one to start with—however, it can be further improved.
+This resume is a decent one to start with-however, it can be further improved.
 
 **The good**
 
@@ -229,7 +229,7 @@ The refactored resume addressed all the above improvement areas, and the person 
 - **An easier to scan template** with dates and positions standing out.
 - **Starting with the impact of their work** in their work experiences, instead of burying this information deeper.
 - **Giving more specifics** on their work experience. For example, they mentioned leading a small team, which they previously left off.
-- **Dropping months from older dates**—from four or more years back. It makes the dates easier to scan. This person didn’t have a gap in their employment since 2016, and this can make scanning their resume a bit easier.
+- **Dropping months from older dates**-from four or more years back. It makes the dates easier to scan. This person didn’t have a gap in their employment since 2016, and this can make scanning their resume a bit easier.
 - **Adding education dates** to add more context on how long they have been doing software development.
 
 ## Remote Software Engineer With 8 Years Experience
@@ -240,7 +240,7 @@ The candidate behind this resume struggled to get responses from international c
 
 ### The original resume
 
-<Frame className="flex flex-col gap-2">
+<Frame className="flex flex-col gap-2 items-center">
   <img
     src="../assets/chap12-resume-improvement-examples/resume_4_before_1.webp"
     alt="Image represents a visually appealing tech resume for Dan Mitcch, a Software Engineer. The resume is structured into distinct sections, each with a relevant icon. The top section displays Dan's name, title ('SOFTWARE ENGINEER'), contact information (phone number: +32-20-222-2222, email: DAN.MITCCH@GMAIL.COM, location: WARSAW, POLAND), and a statement indicating openness to remote positions. Below this, the 'EDUCATION' section details his graduation from Warsaw University of Technology (2007-2011) with a focus on Systems Development. The adjacent 'EXPERIENCE' section lists his work history, including roles at Ericsson Communications (Software Developer, Test Responsible, 2012-2013), TTL LLC (Software Developer, Technical Leader, 2013-2016), Sumo Logic (Engineer of Engine Team, 2016-2018), Drive LLC (Developer, Arch-Dev Team, 2019-2020), and current freelancing (2020-). A 'FIND ME' section provides links to his LinkedIn, GitHub, and HackerRank profiles. An 'OTHERSKILLS' section highlights his ISTQB-Certified Tester status, leadership experience, source control proficiency, and possession of a Cat. B driving license. Finally, a 'SKILLS' section lists programming languages (C++, QT, Python, Node.js), automation skills, and CAD/CAM knowledge, represented visually by a matrix of blue dots indicating proficiency level. The entire resume uses a consistent color scheme and clear layout for easy readability."
@@ -272,7 +272,7 @@ I was not surprised to see that this person barely received calls from recruiter
 
 ### The refactored resume
 
-<Frame className="flex flex-col gap-2">
+<Frame className="flex flex-col gap-2 items-center">
   <img
     src="../assets/chap12-resume-improvement-examples/resume_4_after_1.webp"
     alt="Image represents a tech resume for Dan Mitcch, structured into sections. The top displays contact information: LinkedIn and GitHub URLs are implied but not explicitly shown, along with a mobile phone number (+3220 2222222) and email address (dan.micch@gmail.com). Below, a 'Skills' section lists 'Languages and technologies', detailing expertise in Python and C++, along with numerous frameworks (Flask, Selenium, Numpy, Qt5, Boost, POCO), CI systems, database systems (SQL, NoSQL), and other languages (JavaScript, Java, TypeScript, C#). Proficiency in API and architecture design, TDD, and ISTQB Foundations certification are also highlighted. An 'Education' section states Dan's degree as an Engineer of Computer Sciences, BSC from Warsaw University of Technology and Economics (graduated 2011). The 'Work experience' section chronologically lists roles: Freelancer at Homeshop Technologies (2020 spring - present), creating backend microservices with significant performance improvements; Developer at Drive LLC (2019 summer - 2020 spring), focusing on self-driving vehicle software development; a sabbatical break (2018 winter - 2019 summer) involving Python projects and CNC mill operation; Engineer of Engine Team at Sumo Logic (2016 - 2018 winter), refactoring a network interface; and Technical Leader (senior) at TTL LLC (2015-2016), managing software projects. Each role specifies technologies used and quantifiable achievements."
@@ -306,7 +306,7 @@ Following the refactor, this person saw a good amount of interest. They ended up
 
 ### The original resume
 
-<Frame className="flex flex-col gap-2">
+<Frame className="flex flex-col gap-2 items-center">
   <img
     src="../assets/chap12-resume-improvement-examples/resume_5_before_1.webp"
     alt="Image represents a curriculum vitae (CV) or resume for Sam Smith, structured into distinct sections. The top section displays contact information: name (Sam Smith BSC, MSC), address (163 Dourn Road, London SW6, UK), phone number (+441 23 2456789), and email (sam.smith_@gmail.com), along with the date (Jan 2020). A 'PERSONAL PROFILE' section follows, summarizing Sam's extensive experience in Linux Systems Administration, particularly in High-Performance Computing (HPC), highlighting skills in network and systems administration, deployment of physical and virtual servers, private cloud infrastructure management, and communication. A 'KEY SKILLS' section is divided into 'Operating Systems' (listing Linux distributions like RHEL, CentOS, Ubuntu, PaaS, IaaS, and Windows Server), 'Programming Languages' (including C, Perl, Python, PHP, Go, Java, and JavaScript), and 'Technologies' (covering core networking protocols, LAMP stack, orchestration tools like Puppet and Ansible, monitoring systems, high availability solutions, virtualization technologies, and Git/CI/CD). Finally, a 'CAREER SUMMARY' section details Sam's role as Senior Systems Administrator at TPC, University College London, from February 2010 to the present, outlining responsibilities in design, installation, management, and maintenance of high-performance Linux compute clusters, team leadership, infrastructure management, and provision of research support. The information flows linearly, starting with personal details and progressing to skills and career summary, showcasing a progression of information relevant to a technology-focused job application."
@@ -339,7 +339,7 @@ This resume feels dated just by glancing at the template. Unfortunately, subcons
 
 ### The refactored resume
 
-<Frame className="flex flex-col gap-2">
+<Frame className="flex flex-col gap-2 items-center">
   <img
     src="../assets/chap12-resume-improvement-examples/resume_5_after_1.webp"
     alt="Image represents a tech resume for Sam Smith, structured into distinct sections. The top displays contact information: location (London, UK), LinkedIn and GitHub URLs, phone number (+441(23) 456789), and email address (sam.smith_@gmail.com). Below, a 'Technologies and Languages' section lists programming languages (C, Bash, Python, Perl, Go, PHP, Java) and technologies/tools used (Linux, LAMP stack, TCP/IP, HAProxy, Keepalived, OpenNebula Cloud, Spectrum Scale, Elastic Stack, Docker, Jenkins, GitLab CI, SaltStack, Ansible, Prometheus, Grafana), categorized into 'Languages', 'Technologies', 'Tools', and 'Other' (CI/CD, Parallel Programming, Cluster Management, High Availability, Load Balancers). The 'Work Experience' section details Sam's role as Senior Systems Administrator at University College London (2012-Present), outlining responsibilities including leading a team of 3 administrators managing 300 physical and 150 virtual machines across two data centers, providing virtualization resources and 300TB of storage. This section further describes technical leadership on 10 HPC Linux clusters, improvements in monitoring and alerting systems (replacing Nagios and Cacti with Prometheus, Grafana, and Elasticsearch), automation of cluster node remediation, optimization of health checks, CI/CD pipeline creation, and contributions to infrastructure-as-code. Specific achievements are quantified, such as reducing downtime and improving uptime percentages. The resume showcases a strong focus on automation, efficiency improvements, and team leadership within a large-scale HPC environment."
