@@ -18,7 +18,7 @@ In [Chapter 6 - Common Mistakes](./chapter6-common-mistakes), we go through the 
 
 [Chapter 7 - Different Experience Levels, Different Career Paths](./chapter7-diff-exp-diff-path) gives tailored advice for bootcamp grads, career changers, senior engineers, tech leads and engineering managers.
 
-[[Chapter 8 - Exercises to Polish Your Resume]] is a list of activities that can help you craft an even better resume. Do these exercises to write an even more relevant one.
+[Chapter 8 - Exercises to Polish Your Resume](./chapter8-polish-your-resume) is a list of activities that can help you craft an even better resume. Do these exercises to write an even more relevant one.
 
 In [[Chapter 9 - Beyond the Resume]], we go through how to make your LinkedIn, GitHub and technical blogs stand out and share advice on cover letters.
 
