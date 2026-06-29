@@ -20,6 +20,6 @@ In [Chapter 6 - Common Mistakes](./chapter6-common-mistakes), we go through the 
 
 [Chapter 8 - Exercises to Polish Your Resume](./chapter8-polish-your-resume) is a list of activities that can help you craft an even better resume. Do these exercises to write an even more relevant one.
 
-In [[Chapter 9 - Beyond the Resume]], we go through how to make your LinkedIn, GitHub and technical blogs stand out and share advice on cover letters.
+In [Chapter 9 - Beyond the Resume](./chapter9-beyond-the-resume), we go through how to make your LinkedIn, GitHub and technical blogs stand out and share advice on cover letters.
 
 Let’s start off with the basics and talk about many of the unwritten rules of developer resumes.

@@ -94,7 +94,7 @@ There are other downsides when using LinkedIn as your resume:
 
 To be clear: LinkedIn resumes work at times when it’s a developers’ job market. They also work when companies struggle to get anyone interested in applying. Heck, in those times, you can skip this guide, put a text file together with your name, email, years of experience, and you could easily get invited for a technical interview. That’s how things went in the late ’90s, before the Dotcom bust. To some extent, the same happened around early to mid-2010s, when huge amounts of VC money poured into many startups, who had to hire fast. If you’re in this kind of a market, you need to worry far less about resume formatting. If not-that is where this book can help you.
 
-If you want to get a job via a direct application, build that resume and customize it for *that* job. And do keep your LinkedIn up to date: see the [[Chapter 9 - Beyond the Resume#LinkedIn Profile|LinkedIn Profile section]] for more advice.
+If you want to get a job via a direct application, build that resume and customize it for *that* job. And do keep your LinkedIn up to date: see the [LinkedIn Profile section](../part2-writing-the-resume/chapter9-beyond-the-resume#linkedin-profile) for more advice.
 
 ## A Resume Is (Still) Not Enough
 
