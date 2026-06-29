@@ -52,7 +52,7 @@ There are a few things that all resumes need to follow to be considered professi
 
 For people to read what you write, it [needs to be written well](https://blog.pragmaticengineer.com/on-writing-well/). This applies to resumes as well. Resumes that are simple, concise, and are easy to read will be read more. Hiring managers and recruiters will, at most, skim ones that are cluttered and overly verbose. To make your resume simple and concise, follow these principles.
 
-1. **Clear, neat, and consistent formatting**. Use the same formatting throughout the resume. Use consistent font sizes and make the resume easy to scan through in a glance. See the templates section (in [[Chapter 10 - Good Resume Template Principles]] and [[Chapter 11 - Resume Templates]]) for pointers on good templates.
+1. **Clear, neat, and consistent formatting**. Use the same formatting throughout the resume. Use consistent font sizes and make the resume easy to scan through in a glance. See the templates section (in [Chapter 10 - Template Principles](../part3-examples-and-inspiration/chapter10-template-principles) and [[Chapter 11 - Resume Templates]]) for pointers on good templates.
 2. **Bullet points for easy readability**. Use bullet points that make the CV easier to read. Avoid paragraphs. Recruiters in tech companies are used to scanning bullet points—they are less effort to read.
    - **Sub-bullet points: avoid**. They clutter your resume, make it more verbose, and make it harder to read. If you find yourself using these, re-edit your resume and stick with one level.
    - **Using dashes for bullet points, to save space: also avoid**. They look out of place and are harder to read than bullet points.

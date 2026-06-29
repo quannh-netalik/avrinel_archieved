@@ -6,7 +6,7 @@ We’ve covered everything there is to know about writing a good developer resum
 
 What you have not seen is something to get started with: templates or example resumes. This section is where we cover these.
 
-[[Chapter 10 - Good Resume Template Principles]] covers the principles on what makes for templates that are considered good and easy to read.
+[Chapter 10 - Template Principles](./chapter10-template-principles) covers the principles on what makes for templates that are considered good and easy to read.
 
 [[Chapter 11 - Resume Templates]] goes through the three resume templates that come with the book. We also analyze another eight resume templates that are popular with software developers, going through the good and bad characteristics of them.
 
