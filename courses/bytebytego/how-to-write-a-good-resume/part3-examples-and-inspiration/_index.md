@@ -8,7 +8,7 @@ What you have not seen is something to get started with: templates or example re
 
 [Chapter 10 - Template Principles](./chapter10-template-principles) covers the principles on what makes for templates that are considered good and easy to read.
 
-[[Chapter 11 - Resume Templates]] goes through the three resume templates that come with the book. We also analyze another eight resume templates that are popular with software developers, going through the good and bad characteristics of them.
+[Chapter 11 - Resume Templates](./chapter11-resume-templates) goes through the three resume templates that come with the book. We also analyze another eight resume templates that are popular with software developers, going through the good and bad characteristics of them.
 
 [[Chapter 12 - Resume Improvement Examples]] takes real resumes from developers who were looking for a job, analyzes them and shows improved versions people crafted after taking advice from this book. Personal details for all the resumes changed to anonymize the resume.
 

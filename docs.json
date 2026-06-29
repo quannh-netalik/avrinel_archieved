@@ -51,7 +51,10 @@
                   {
                     "group": "Part 3: Examples & Inspiration",
                     "root": "courses/bytebytego/how-to-write-a-good-resume/part3-examples-and-inspiration/_index",
-                    "pages": []
+                    "pages": [
+                      "courses/bytebytego/how-to-write-a-good-resume/part3-examples-and-inspiration/chapter10-template-principles",
+                      "courses/bytebytego/how-to-write-a-good-resume/part3-examples-and-inspiration/chapter11-resume-templates"
+                    ]
                   }
                 ]
               },
