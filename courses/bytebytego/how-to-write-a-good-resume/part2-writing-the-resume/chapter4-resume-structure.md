@@ -72,7 +72,7 @@ Follow these guidelines for a resume that is easy to scan, with the most relevan
 
 ## Structure with Work Experience
 
-When you are no longer freshly out of school (see [[Chapter 7 - Different Experience Levels, Different Career Paths]] for guidance on structuring based on experience), follow this structure to make your resume easy to review.
+When you are no longer freshly out of school (see [Chapter 7 - Different Experience Levels, Different Career Paths](./chapter7-diff-exp-diff-path) for guidance on structuring based on experience), follow this structure to make your resume easy to review.
 
 - **Work Experience at or near the top of the page**. Your current title, company, and past few years of work experience is something the recruiter and hiring manager will want to glance at. Make it easy by adding it to the top, or close to it.
 - **Have a Languages and Technologies section on the first page** that lists the relevant technologies. List things which you are an expert or, at the very least, proficient at. They could be domains, languages, or frameworks that the job description mentions. Don’t bother listing non-relevant technologies, or listing your skill level.

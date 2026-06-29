@@ -16,7 +16,7 @@ In [Chapter 3 - Tech Resume Basics](./chapter3-tech-resume-basics), we go throug
 
 In [Chapter 6 - Common Mistakes](./chapter6-common-mistakes), we go through the most frequent issues with developer resumes. These improvement areas almost always result in stronger resumes—without changing the content of the resume. You’ll want to steer clear of all of the mistakes we discuss in this chapter.
 
-[[Chapter 7 - Different Experience Levels, Different Career Paths]] gives tailored advice for bootcamp grads, career changers, senior engineers, tech leads and engineering managers.
+[Chapter 7 - Different Experience Levels, Different Career Paths](./chapter7-diff-exp-diff-path) gives tailored advice for bootcamp grads, career changers, senior engineers, tech leads and engineering managers.
 
 [[Chapter 8 - Exercises to Polish Your Resume]] is a list of activities that can help you craft an even better resume. Do these exercises to write an even more relevant one.
 
