@@ -14,7 +14,7 @@ In [Chapter 3 - Tech Resume Basics](./chapter3-tech-resume-basics), we go throug
 
 [Chapter 5 - Standing Out](./chapter5-standing-out) covers how your resume can stand out from the crowd of similar applications. We will go through examples of why being specific on your results and impact is a big differentiator, how tailoring your resume for the position is important, and we’ll also touch on keyword stuffing.
 
-In [[Chapter 6 - Common Mistakes]], we go through the most frequent issues with developer resumes. These improvement areas almost always result in stronger resumes—without changing the content of the resume. You’ll want to steer clear of all of the mistakes we discuss in this chapter.
+In [Chapter 6 - Common Mistakes](./chapter6-common-mistakes), we go through the most frequent issues with developer resumes. These improvement areas almost always result in stronger resumes—without changing the content of the resume. You’ll want to steer clear of all of the mistakes we discuss in this chapter.
 
 [[Chapter 7 - Different Experience Levels, Different Career Paths]] gives tailored advice for bootcamp grads, career changers, senior engineers, tech leads and engineering managers.
 
