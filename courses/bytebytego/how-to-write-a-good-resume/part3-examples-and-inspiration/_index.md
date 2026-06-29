@@ -12,4 +12,4 @@ What you have not seen is something to get started with: templates or example re
 
 [Chapter 12 - Resume Improvement Examples](./chapter12-resume-improvement-examples) takes real resumes from developers who were looking for a job, analyzes them and shows improved versions people crafted after taking advice from this book. Personal details for all the resumes changed to anonymize the resume.
 
-[[Chapter 13 - Advice for Hiring Managers on Running a Good Screening Process]] is for any current or future hiring manager—even if you are not one today, one day this could be you! We’ll summarize ways to build a better resume screening process, to be inclusive of people whose resume would not represent them well.
+[Chapter 13: Hiring Manager Screening Tips](./chapter13-hiring-manager-screening-tips) is for any current or future hiring manager—even if you are not one today, one day this could be you! We’ll summarize ways to build a better resume screening process, to be inclusive of people whose resume would not represent them well.
