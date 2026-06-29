@@ -61,6 +61,13 @@
                 ]
               },
               {
+                "group": "Object-Oriented Design",
+                "icon": "diagram-project",
+                "pages": [
+                  "courses/bytebytego/object-oriented-design-interview/01-what-is-an-ood-interview"
+                ]
+              },
+              {
                 "group": "System Design",
                 "icon": "cubes",
                 "pages": [
