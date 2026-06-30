@@ -31,7 +31,10 @@ export const ConversationDialog = ({ messages }) => {
                 }`}
               >
                 {msg.text && (
-                  <p className={msg.image ? "mb-2" : ""}>{msg.text}</p>
+                  <p
+                    className={msg.image ? "mb-2" : ""}
+                    dangerouslySetInnerHTML={{ __html: msg.text }}
+                  />
                 )}
 
                 {msg.image && (

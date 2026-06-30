@@ -66,7 +66,8 @@
                 "pages": [
                   "courses/bytebytego/object-oriented-design-interview/01-what-is-an-ood-interview",
                   "courses/bytebytego/object-oriented-design-interview/02-framework-for-the-interview",
-                  "courses/bytebytego/object-oriented-design-interview/03-oop-fundamentals"
+                  "courses/bytebytego/object-oriented-design-interview/03-oop-fundamentals",
+                  "courses/bytebytego/object-oriented-design-interview/04-design-a-parking-lot"
                 ]
               },
               {
