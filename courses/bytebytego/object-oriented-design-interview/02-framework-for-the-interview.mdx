@@ -1,8 +1,8 @@
 ---
-title: Framework for the OOD Interview
+title: Framework for the Interview
 ---
 
-import { ConversationDialog } from '/snippets/ConversationDialog.jsx';
+import { ConversationDialog } from "/snippets/ConversationDialog.jsx";
 
 Having a clear framework for the OOD interview is more important than many realize. Without structure, the interview can feel disorganized and difficult for you and the interviewer to follow.
 
@@ -24,7 +24,12 @@ OOD interviews typically emphasize one of three areas, each with a preferred del
 
 The expected deliverable often depends on the interviewer's preference and the time constraints. If you're asked to produce working code, don't be intimidated. Interviewers typically simplify the problem to ensure it's manageable within the allotted time.
 
-<Tip>In an OOD interview, the journey is just as important as the final deliverable. Coding in silence doesn't make a strong impression. Instead, share thoughtful insights throughout the process to demonstrate your design thinking and communication skills.</Tip>
+<Tip>
+  In an OOD interview, the journey is just as important as the final
+  deliverable. Coding in silence doesn't make a strong impression. Instead,
+  share thoughtful insights throughout the process to demonstrate your design
+  thinking and communication skills.
+</Tip>
 
 ## A Guiding Framework for the OOD Interview
 
@@ -32,7 +37,7 @@ Here are the four steps we recommend:
 
 <Frame caption="OOD Interview Framework">
   <img
-    src="./assets/02-framework-for-the-ood-interview/image-2-1-Z7SUZSBV.svg"
+    src="./assets/02-framework-for-the-interview/image-2-1-Z7SUZSBV.svg"
     alt="Image represents a flowchart outlining the stages of object-oriented design. The process begins with '1 Requirements Gathering', a rounded rectangle indicating the initial phase. An arrow connects this to '2 Identify Core Objects', another rounded rectangle representing the identification of key objects based on gathered requirements. Both '1' and '2' are numbered within circles. These two steps feed into a larger, rectangular block labeled '3 Navigate the Design', which contains two smaller, rounded rectangles: 'Class Design' and 'Code', indicating the design and implementation phases. Arrows within '3' show that both 'Class Design' and 'Code' are derived from the 'Navigate the Design' stage. Finally, an arrow from the bottom of the '3 Navigate the Design' block points to '4 Deep Dive Topics', a final rounded rectangle (also numbered within a circle) suggesting further exploration of specific design aspects after the initial design and coding are complete. The overall flow is sequential, with the initial requirements driving the identification of core objects, which then informs the design and coding phases, culminating in a deeper dive into specific topics."
     width={500}
   />
@@ -42,7 +47,10 @@ Here are the four steps we recommend:
 
 **[Step 2: Identify Core Objects](#step-2-identify-core-objects)** (3-7 minutes): With requirements clarified, select a primary use case and walk through it step-by-step to identify core objects and their interactions. A practical approach is to map **nouns in the requirements to objects** (e.g., "parking lot," "vehicle," "ticket") and **verbs to methods** (e.g., "assign spot," "calculate fee"). This creates a naive but relevant initial design, serving as a foundation for refinement.
 
-<Note>While use case diagrams can help visualize workflows and clarify interactions between objects, they are optional for most OOD interviews.</Note>
+<Note>
+  While use case diagrams can help visualize workflows and clarify interactions
+  between objects, they are optional for most OOD interviews.
+</Note>
 
 **[Step 3: Design Class Diagram and Code](#step-3-class-design-and-code)** (20-25 minutes): Now that the core objects and their roles are clear, it's time to develop the class diagram and demonstrate how it translates into code.
 
@@ -55,7 +63,16 @@ Define how the objects will interact and assign responsibilities in a way that f
 
 Once the design is in place, implement the core classes to demonstrate how the structure translates into code. In some cases, a complete implementation isn't necessary. Focus on the essential parts unless the interviewer requests otherwise.
 
-<Note>The primary focus of an OOD interview is design and code quality. But you should not ignore time and space complexity and efficiency. Strong class and relationship modeling includes selecting appropriate data structures for performance. For example, choose between List and Set carefully based on access pattern and performance. Likewise, HashSet and TreeSet are also not interchangeable. Get familiar with more complex collections or nesting. During the actual interview, mention your thoughts and make the right choice, but do not go into exhaustive analysis or overly optimize by inventing your own.</Note>
+<Note>
+  The primary focus of an OOD interview is design and code quality. But you
+  should not ignore time and space complexity and efficiency. Strong class and
+  relationship modeling includes selecting appropriate data structures for
+  performance. For example, choose between List and Set carefully based on
+  access pattern and performance. Likewise, HashSet and TreeSet are also not
+  interchangeable. Get familiar with more complex collections or nesting. During
+  the actual interview, mention your thoughts and make the right choice, but do
+  not go into exhaustive analysis or overly optimize by inventing your own.
+</Note>
 
 **[Step 4: Deep Dive Topics](#step-4-deep-dive-topics)** (10-15 minutes, optional): After validating your design with key use cases, refine it to handle edge cases and resolve any inconsistencies. This is typically the point in the interview where the deep dive begins. Interviewers may ask follow-up questions to assess your understanding, challenge your design decisions, or explore more advanced aspects of your solution.
 
@@ -76,22 +93,22 @@ Anne starts by digesting the problem, asking a few clarification questions to cr
     {
       speaker: "Anne",
       align: "right",
-      text: "What types of vehicles should the parking lot support? Are we considering cars and motorcycles?"
+      text: "What types of vehicles should the parking lot support? Are we considering cars and motorcycles?",
     },
     {
       speaker: "Beth",
       align: "left",
-      text: "Yes, and also buses. Each bus takes up three spots."
+      text: "Yes, and also buses. Each bus takes up three spots.",
     },
     {
       speaker: "Anne",
       align: "right",
-      text: "Should we design different types of parking spaces for the different types of vehicles?"
+      text: "Should we design different types of parking spaces for the different types of vehicles?",
     },
     {
       speaker: "Beth",
       align: "left",
-      text: "Yes, you can decide how to design that."
+      text: "Yes, you can decide how to design that.",
     },
   ]}
 />
@@ -115,8 +132,8 @@ Start by focusing on the most essential requirements and confirming that both yo
     {
       speaker: "Anne",
       align: "right",
-      text: "The system will support parking and unparking vehicles, track space availability, and calculate fees based on vehicle type and parking duration. It should also support three types of vehicles."
-    }
+      text: "The system will support parking and unparking vehicles, track space availability, and calculate fees based on vehicle type and parking duration. It should also support three types of vehicles.",
+    },
   ]}
 />
 
@@ -131,8 +148,8 @@ Rather than relying solely on stating the requirements, Anne uses concrete examp
     {
       speaker: "Anne",
       align: "right",
-      text: "Let's consider a basic scenario: a car enters the lot, finds an available space, parks, and leaves after two hours. The system should allocate a space, track the duration, and calculate the fee."
-    }
+      text: "Let's consider a basic scenario: a car enters the lot, finds an available space, parks, and leaves after two hours. The system should allocate a space, track the duration, and calculate the fee.",
+    },
   ]}
 />
 
@@ -143,8 +160,8 @@ Rather than relying solely on stating the requirements, Anne uses concrete examp
     {
       speaker: "Anne",
       align: "right",
-      text: "Now, imagine a bus with a reservation entering the lot. Some spaces are too small or reserved for other types. The system needs to find the most suitable available space while optimizing future availability."
-    }
+      text: "Now, imagine a bus with a reservation entering the lot. Some spaces are too small or reserved for other types. The system needs to find the most suitable available space while optimizing future availability.",
+    },
   ]}
 />
 
@@ -161,8 +178,8 @@ To kick off the design, Anne walks through a key use case: parking a car. As she
     {
       speaker: "Anne",
       align: "right",
-      text: "When a car enters, the system will find an available space of the appropriate size, assign it, generate a ticket, and mark the space as occupied."
-    }
+      text: "When a car enters, the system will find an available space of the appropriate size, assign it, generate a ticket, and mark the space as occupied.",
+    },
   ]}
 />
 
@@ -175,13 +192,13 @@ As she works through the use case, she keeps the design focused and minimal. For
     {
       speaker: "Beth",
       align: "left",
-      text: "How would you handle edge cases like a full lot?"
+      text: "How would you handle edge cases like a full lot?",
     },
     {
       speaker: "Anne",
       align: "right",
-      text: "Good question. If no spaces are available, the system should return an appropriate message. I'll refine this logic once I have the complete design."
-    }
+      text: "Good question. If no spaces are available, the system should return an appropriate message. I'll refine this logic once I have the complete design.",
+    },
   ]}
 />
 
@@ -192,8 +209,8 @@ When more complex topics arise, Anne acknowledges them without getting sidetrack
     {
       speaker: "Anne",
       align: "right",
-      text: "Let's finish the core use case first. If time permits, I'll extend the design to support configurable pricing, perhaps using a strategy pattern."
-    }
+      text: "Let's finish the core use case first. If time permits, I'll extend the design to support configurable pricing, perhaps using a strategy pattern.",
+    },
   ]}
 />
 
@@ -201,7 +218,7 @@ Anne's goal during this phase is to identify the core objects and define their r
 
 <Frame caption="Core Objects of Parking Lot">
   <img
-    src="./assets/02-framework-for-the-ood-interview/image-2-2-G52WWAK5.svg"
+    src="./assets/02-framework-for-the-interview/image-2-2-G52WWAK5.svg"
     alt="Image represents a simplified class diagram showing four classes related to parking: ParkingLot, ParkingSpot, Vehicle, and Ticket. Each class is depicted as a rectangle divided into two sections; the top section displays the class name ('ParkingLot', 'ParkingSpot', 'Vehicle', and 'Ticket'), while the bottom section is left blank, implying potential attributes or methods that are not explicitly shown. The four class rectangles are arranged horizontally, side-by-side, with no visible connections or arrows indicating relationships between them. There are no URLs, parameters, or other textual information besides the class names. The diagram suggests a basic conceptual model of the classes involved in a parking system, but it lacks details about their interactions or attributes."
     width={500}
   />
@@ -222,8 +239,8 @@ She starts with foundational components that form the system's backbone. In the 
     {
       speaker: "Anne",
       align: "right",
-      text: "The key entities are ParkingLot, ParkingSpot, Vehicle, and Ticket. Each space has attributes like size and availability, and each vehicle has a type. A Ticket will track the entry time and calculate the fee."
-    }
+      text: "The key entities are ParkingLot, ParkingSpot, Vehicle, and Ticket. Each space has attributes like size and availability, and each vehicle has a type. A Ticket will track the entry time and calculate the fee.",
+    },
   ]}
 />
 
@@ -231,7 +248,7 @@ She then sketches a UML diagram to show relationships:
 
 <Frame caption="Class diagram of Parking Lot">
   <img
-    src="./assets/02-framework-for-the-ood-interview/image-2-3-J46BBM7V.svg"
+    src="./assets/02-framework-for-the-interview/image-2-3-J46BBM7V.svg"
     alt="Image represents a class diagram illustrating the relationships between four classes: ParkingLot, ParkingSpot, Ticket, and Vehicle. The ParkingLot class has a composition relationship (represented by a filled diamond) with the ParkingSpot class, indicating that a ParkingLot *contains* multiple ParkingSpots. The Ticket class has an association relationship (represented by a solid arrow) with the ParkingSpot class, suggesting that a Ticket is associated with a specific ParkingSpot. Additionally, the Ticket class has another association relationship with the Vehicle class, implying that a Ticket is issued to a particular Vehicle. Finally, the ParkingSpot class has an association relationship with the Vehicle class, showing that a ParkingSpot can hold a Vehicle. No attributes or methods are specified within the classes themselves; the diagram focuses solely on the relationships between the entities."
     width={300}
   />
@@ -248,13 +265,13 @@ Anne ensures that each class is well-defined and adheres to OOP principles like 
     {
       speaker: "Anne",
       align: "right",
-      text: "The ParkingLot manages the overall structure, including tracking spaces and handling vehicle flow. Each ParkingSpot handles its own availability status and the vehicle parked in it."
+      text: "The ParkingLot manages the overall structure, including tracking spaces and handling vehicle flow. Each ParkingSpot handles its own availability status and the vehicle parked in it.",
     },
     {
       speaker: "Anne",
       align: "right",
-      text: "We can define a base Vehicle class with subclasses like Car, Motorcycle, and Bus since their parking requirements and fee calculations differ."
-    }
+      text: "We can define a base Vehicle class with subclasses like Car, Motorcycle, and Bus since their parking requirements and fee calculations differ.",
+    },
   ]}
 />
 
@@ -275,8 +292,8 @@ As she codes, Anne explains her rationale to the interviewer, ensuring her thoug
     {
       speaker: "Anne",
       align: "right",
-      text: "This setup covers the main use cases we discussed. I'll check if it also holds up under edge conditions."
-    }
+      text: "This setup covers the main use cases we discussed. I'll check if it also holds up under edge conditions.",
+    },
   ]}
 />
 
@@ -295,8 +312,8 @@ Anne revisits edge cases and refines the design:
     {
       speaker: "Anne",
       align: "right",
-      text: "For edge cases, I'd add logic to handle full lots and group spaces for buses. I'd also include validation for invalid tickets during checkout."
-    }
+      text: "For edge cases, I'd add logic to handle full lots and group spaces for buses. I'd also include validation for invalid tickets during checkout.",
+    },
   ]}
 />
 
@@ -311,8 +328,8 @@ Anne then summarizes the system:
     {
       speaker: "Anne",
       align: "right",
-      text: "This design supports key use cases, scales to different vehicle types, and includes logic for core edge cases. If time allows, I'd explore enhancements like dynamic pricing based on time of day."
-    }
+      text: "This design supports key use cases, scales to different vehicle types, and includes logic for core edge cases. If time allows, I'd explore enhancements like dynamic pricing based on time of day.",
+    },
   ]}
 />
 
@@ -361,8 +378,8 @@ Clear communication is as important as solid design. If your thoughts feel jumbl
 ✅ **What to do:**
 
 - Begin with a high-level summary of your system before diving into class-level details.
-  
-    *"The system has three main components: A, B, and C. Here's how they interact."*
+
+  _"The system has three main components: A, B, and C. Here's how they interact."_
 
 - Use visuals. A class diagram or code skeleton can anchor the conversation.
 - Focus on ***why*** you made design decisions rather than just describing what they are.
@@ -409,7 +426,7 @@ Not sure how much detail to go into? This is a common tension in OOD interviews.
 - Start with a general structure and layer in details as needed.
 - Ask the interviewer what level of depth they'd like you to go into:
 
-    "Would you prefer a high-level architecture here or a more detailed class breakdown?"
+  "Would you prefer a high-level architecture here or a more detailed class breakdown?"
 
 - Stay flexible, and be prepared to zoom in or out depending on the interviewer's cues.
 - Each OOD problem has its own natural complexity, whether it's in abstraction, data modeling, or behavior logic. Over time, you'll develop a sense for what to emphasize.
