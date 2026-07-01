@@ -866,7 +866,7 @@ private boolean isSeatBooked(Screening screening, Seat seat) {
 This implementation is lightweight and suitable when race conditions are infrequent, but it may require users to retry if a booking fails due to a conflict.
 
 <Card title="Interview Tip" type="tip">
-  In an OOD interview, discussing concurrency (check **[Addressing Concurrency in OOD Interviews](./02-framework-for-the-interview#what-if-the-interview-doesnt-go-as-planned))** shows your ability to handle advanced scenarios. For the movie ticket booking system, pessimistic locking is often preferred for popular screenings with high contention, while optimistic locking suits simpler cases with fewer conflicts. Ask the interviewer which approach aligns with their expectations, and implement a basic solution like those above.
+  In an OOD interview, discussing concurrency (check **[Addressing Concurrency in OOD Interviews](./02-a-framework-for-ood-interview#what-if-the-interview-doesnt-go-as-planned))** shows your ability to handle advanced scenarios. For the movie ticket booking system, pessimistic locking is often preferred for popular screenings with high contention, while optimistic locking suits simpler cases with fewer conflicts. Ask the interviewer which approach aligns with their expectations, and implement a basic solution like those above.
 </Card>
 
 ## Wrap Up
