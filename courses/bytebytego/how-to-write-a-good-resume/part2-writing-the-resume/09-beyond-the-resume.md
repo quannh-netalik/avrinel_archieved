@@ -1,5 +1,5 @@
 ---
-title: "Chapter 9: Beyond the Resume"
+title: "9. Beyond the Resume"
 ---
 
 Your resume is not the only thing that can get you to a recruiter call: cover letters, your LinkedIn profile and a few others are worth paying attention to.
@@ -10,7 +10,7 @@ Resumes and LinkedIn profiles are like the yin and yang. You directly apply with
 
 <Frame>
   <img
-    src="../assets/chap9-beyond-the-resume/35-job-search-yin-yang.webp"
+    src="../assets/09-beyond-the-resume/35-job-search-yin-yang.webp"
     alt="Image represents a Yin and Yang symbol illustrating the interconnectedness of a resume and a LinkedIn profile in a job search. The Yin and Yang is composed of a black half labeled 'Resume' containing a small light blue circle, and a light blue half labeled 'LinkedIn profile' containing a small black circle. Thick black curved arrows point from the Yin and Yang towards the left, labeled 'Applications to positions', indicating that both the resume and LinkedIn profile are used to apply for jobs. Similarly, light blue curved arrows point from the right towards the Yin and Yang, labeled 'Reachouts from recruiters', showing that recruiters contact candidates through both their resume and LinkedIn profile. The overall design emphasizes the synergistic relationship between these two job-seeking tools, highlighting how they work together to generate applications and attract recruiter attention."
     width={500}
   />
@@ -22,7 +22,7 @@ Most of these differences come from how recruiters use LinkedIn most of the time
 
 <Frame caption="The LinkedIn recruiter search view, and the key details recruiters immediately glance at.">
   <img
-    src="../assets/chap9-beyond-the-resume/36-tech-resume-search-engine-result.webp"
+    src="../assets/09-beyond-the-resume/36-tech-resume-search-engine-result.webp"
     alt="Image represents a screenshot of a tech-resume search engine results page displaying 152,384 results. The left panel shows filter options for refining the search: 'Job titles' (with options like 'Sales', 'Account Manager', and 'Sales Director'), 'Locations' (e.g., 'Greater Chicago Area', 'Indianapolis, Indiana Area'), 'Skills' (including 'Sales', 'Sales Management', 'Account Management', 'Enterprise Software', and others), 'Companies' (allowing for adding company names or Boolean searches), and 'Schools'. These filters are visually connected via implied arrows to the right panel, suggesting their influence on the displayed results. The right panel shows search results, structured as follows: (1) a headline section displaying the candidate's name (e.g., 'Finley Watts'), current title, location, and industry; (2) the current title and date; (3) past position titles and dates; (4) education details, including school names (e.g., 'Lake Forest'); (5) a section implicitly showing the results filtered by a Boolean search for specific skills and technologies; and (6) other filters (titles, locations, companies) are implied to be used to further refine the search. The LinkedIn logo is visible next to one candidate's name, indicating a potential integration with LinkedIn data. The bottom of the page shows indicators like 'Company follower' and 'Being considered by 1 other team', providing additional context about the candidates."
     width={650}
   />
@@ -68,7 +68,7 @@ When you are either actively job searching or are getting ready to start, consid
 
 <Frame>
   <img
-    src="../assets/chap9-beyond-the-resume/37-job-alert-toggle.webp"
+    src="../assets/09-beyond-the-resume/37-job-alert-toggle.webp"
     alt="Image represents a section of a webpage, likely within a resume or profile settings area of a job search platform. The top displays the bold heading 'Let recruiters know you're open to opportunities', followed by explanatory text: 'Share that you're open and appear in recruiter searches matching your career interests'. Below this, a secondary explanatory text reads: 'We take steps not to show your current company that you're open, but can't guarantee complete privacy'. A hyperlink, 'Learn more', is embedded within this second text block. Finally, at the bottom, a toggle switch labeled 'Yes' is presented, with a checkmark indicating that the option is currently selected and a green 'Saved' label confirming the setting's persistence. The overall arrangement is top-to-bottom, with the heading and explanatory text above the toggle switch and status indicator. The information flow is unidirectional; the user interacts with the toggle switch to control whether their profile is visible to recruiters, and the platform provides information about the implications of this choice."
     width={500}
   />
@@ -90,7 +90,7 @@ When you are either actively job searching or are getting ready to start, consid
 
 ## GitHub
 
-There is no expectation of having GitHub on your resume (see [Chapter 3 - Tech Resume Basics](./chapter3-tech-resume-basics) for guidance on what to include), regardless of how many resumes and resume templates you might see these included in. As a hiring manager, I never explicitly look for either. It is a nice bonus to see it, though, and as a hiring manager, I frequently click through to check it out.
+There is no expectation of having GitHub on your resume (see [Chapter 3 - Tech Resume Basics](./03-tech-resume-basics) for guidance on what to include), regardless of how many resumes and resume templates you might see these included in. As a hiring manager, I never explicitly look for either. It is a nice bonus to see it, though, and as a hiring manager, I frequently click through to check it out.
 
 Other hiring managers confirmed the same: they are more likely to click through and check out these profiles after the first scan. Recruiters are somewhat less likely to do so: though the more technical the recruiter, the more inclined they are to take a look. Should you make it to the onsite, developers who would be interviewing you often click through and bring up the projects as talking points on the interview. Which brings us to the most important rule of linking to GitHub.
 
@@ -113,7 +113,7 @@ As a hiring manager, here is what I look for when browsing through a GitHub prof
 
 <Frame>
   <img
-    src="../assets/chap9-beyond-the-resume/38-new-repo-github-interface.webp"
+    src="../assets/09-beyond-the-resume/38-new-repo-github-interface.webp"
     alt="Image represents a GitHub interface for creating a new repository. At the top, a title 'Create a new repository' is displayed with a brief explanation of repositories and a link to 'Import a repository'. Below, a 'Repository template' section offers a dropdown menu currently selecting 'No template'. Next, an 'Owner' section shows a dropdown menu with 'gergelyorosz' selected, followed by a forward slash '/', and a 'Repository name' input field containing 'gergelyorosz', validated by a green checkmark. A light-green informational box displays a message indicating that the chosen repository name is a 'special' repository designed to add a README.md file to a GitHub profile, recommending making it public and initializing it with a README file. Further down, an optional 'Description' input field is provided. Finally, a 'Public' option is selected with a radio button, indicating that the repository will be publicly accessible, along with an explanatory text clarifying visibility and commit permissions. The overall flow is top-down, guiding the user through the steps of defining the repository's template, owner, name, description, and visibility settings."
     width={600}
   />
@@ -127,7 +127,7 @@ As a hiring manager, here is what I look for when browsing through a GitHub prof
 
 <Frame>
   <img
-    src="../assets/chap9-beyond-the-resume/39-github-profile-page.webp"
+    src="../assets/09-beyond-the-resume/39-github-profile-page.webp"
     alt="Image represents a GitHub profile page for Gergely Orosz (gergelyorosz), showing an overview section with counts for repositories (23), projects (0), packages (0), stars (77), followers (168), and following (15). Below this, a section titled 'Popular repositories' displays four projects: 'swift-objective-c-mixed-project' (Objective-C, 46 stars, 9 forks), 'gae-export-as-csv' (Python, 19 stars, 3 forks), 'GhostSocialCasper' (CSS, 15 stars, 3 forks), and 'SwiftAlgorithmsAndDataStructures' (Swift, 4 stars, 0 forks). Each project displays its primary language, star count, and fork count. To the right, a separate box suggests 'Customize your pins and link your 'best' repositories', indicating a feature to highlight selected projects. A large arrow points from this box to the 'Popular repositories' section, suggesting a connection between the customization feature and the displayed projects. The left side shows Gergely Orosz's profile picture, his name, username, a button to 'Edit profile', and a brief professional summary mentioning his role as an engineering manager at Uber, Skyscanner, Skype, and JP Morgan. A 'Set status' option is also visible."
     width={600}
   />
@@ -148,7 +148,7 @@ Take these two resume examples. The first example is from a resume where the per
 
 <Frame>
   <img
-    src="../assets/chap9-beyond-the-resume/before_after_07_v1.webp"
+    src="../assets/09-beyond-the-resume/before_after_07_v1.webp"
     alt="Image represents a section of a technical resume dedicated to projects. The section is headed by the italicized word 'Projects'. Below this heading, a bulleted list item describes a project: 'I write about technical concepts that I learn about or find useful for the developer ecosystem on the Dev.to blogging platform'. The text indicates a project involving writing about technical concepts for developers, published on the Dev.to platform. There is no visual representation of a flow of information; the description is purely textual, detailing a single project under the 'Projects' section of the resume. The URL 'Dev.to' is underlined, implying it's a clickable link if this were a digital document."
     width={700}
   />
@@ -158,7 +158,7 @@ Take these two resume examples. The first example is from a resume where the per
 
 <Frame>
   <img
-    src="../assets/chap9-beyond-the-resume/before_after_07_v2.webp"
+    src="../assets/09-beyond-the-resume/before_after_07_v2.webp"
     alt="Image represents a section of a tech resume under the heading 'Projects'. A bullet point precedes a description stating, 'I write a technical blog'. This is followed by a phrase highlighted in light green, 'Popular articles include', which acts as a connector to the subsequent details. These details specify two popular articles: one on 'Angular Material' and another on 'The Angular roadmap: looking back, and looking ahead'. The underlined phrases, 'Angular Material' and 'The Angular roadmap: looking back, and looking ahead', emphasize the specific topics of these blog posts. The overall structure flows linearly, with the main project being the technical blog, and the highlighted phrase acting as a transition to showcase specific examples of its content."
     width={700}
   />
@@ -219,7 +219,7 @@ When you decide to write a cover letter, an immediate strategy is to find a good
 
 <Frame>
   <img
-    src="../assets/chap9-beyond-the-resume/40-cover-letter-template.webp"
+    src="../assets/09-beyond-the-resume/40-cover-letter-template.webp"
     alt="Image represents a template for a cover letter, structured as a text block with placeholders indicated by curly braces `{}`. The top section begins with a salutation 'Dear {X}', where `{X}` represents the recipient's name. The following paragraph expresses interest in a `{position}` advertised on a `{web site}`, highlighting the applicant's `{relevant skills}` and `{number of}` years of experience, and confidently stating their ability to solve a problem. Below, a section titled 'Highlights of my experience include:' lists three bullet points, each containing a `{Requirement for the position #}` followed by `{proof that you've done this}`. This structure allows for tailoring the letter to specific job requirements by filling in the placeholders with relevant information. The letter concludes with a closing statement 'I would appreciate the opportunity to discuss this position further', followed by a complimentary closing 'All the best', and the applicant's `{Name}`. No visual connections or information flow beyond the textual arrangement is present."
     width={700}
   />
@@ -233,7 +233,7 @@ Consider this highly personalized cover letter, shared by software engineer [Sa
 
 <Frame>
   <img
-    src="../assets/chap9-beyond-the-resume/41-cover-letter-example.webp"
+    src="../assets/09-beyond-the-resume/41-cover-letter-example.webp"
     alt="Image represents a text-based resume, formatted as a personalized letter addressed to 'Acme'. The document begins with a casual greeting and introduction of John Doe, highlighting his location (Ohio) and extensive software development experience. The core of the resume is a persuasive narrative, structured as a two-sided argument. It first describes the recipient ('you') as opinionated, bold, and outspoken, emphasizing their proactive nature and willingness to take risks. Then, it contrasts this with John's own strengths and weaknesses, showcasing his problem-solving abilities, communication skills, and love for challenges while acknowledging his aversion to repetitive tasks and unmotivated teams. This section uses bullet points to clearly delineate his positive and negative attributes. The letter continues by expressing John's strong interest in the opportunity, emphasizing the mutual benefit and shared passion for software development. It concludes with a call to action ('Let's talk!') and John's signature. The overall flow is conversational and engaging, aiming to connect with the recipient on a personal level beyond the typical resume format."
     width={700}
   />

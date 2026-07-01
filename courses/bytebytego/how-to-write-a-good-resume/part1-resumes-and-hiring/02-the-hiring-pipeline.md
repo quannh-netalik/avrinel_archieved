@@ -1,5 +1,5 @@
 ---
-title: "Chapter 2: The Hiring Pipeline"
+title: "2. The Hiring Pipeline"
 ---
 
 Let's look at the bigger picture of what the interview process looks like, to better understand why a good resume is so important. This process can often seem like a black hole. It could also feel like a hard-to-predict series of interactions with people until you-hopefully-get an offer.
@@ -12,7 +12,7 @@ Throughout the hiring process, you’ll interact with several people. Still, the
 
 <Frame caption="The hiring team">
   <img
-    src="../assets/chap2-the-hiring-pipeline/01-recruitment-team.webp"
+    src="../assets/02-the-hiring-pipeline/01-recruitment-team.webp"
     alt="Image represents a flowchart illustrating the typical recruitment process within a company. The diagram uses circular icons representing individuals involved, each with a simplified avatar and a label indicating their role. At the top is a teal circle depicting the 'Hiring manager'. Below and to the left is a blue circle representing the 'Recruiter', who is connected implicitly to the hiring manager. Further down and to the left of the recruiter are three more blue circles representing the 'Sourcer', 'Inbound sourcer', and 'Recruitment coordinator', all implicitly reporting to the recruiter. Finally, to the right of the hiring manager are three red circles grouped together, labeled 'Interview panel', representing a team of interviewers. The arrangement suggests a hierarchical flow of information and tasks, starting from the sourcers, progressing through the recruiter to the hiring manager, and culminating in the interview panel stage. No explicit lines or arrows are used to show the flow, but the positioning implies a sequential process."
     width={500}
   />
@@ -57,7 +57,7 @@ When you submit your resume through a job advert, the typical hiring pipeline is
 
 <Frame caption="A typical hiring pipeline at a large, well-known tech company. The actual process, and numbers will vary on a role-by-role, company-by-company basis.">
   <img
-    src="../assets/chap2-the-hiring-pipeline/02-hiring-pipeline.webp"
+    src="../assets/02-the-hiring-pipeline/02-hiring-pipeline.webp"
     alt="Image represents a funnel visualizing the tech resume application process. At the top, a gray trapezoid shows '250 Resumes Submitted', feeding into a similarly shaped gray trapezoid labeled '250 Applicant Tracking System Queue', accompanied by text explaining that applications progress through stages until rejection or offer. Below, a series of progressively smaller, light-blue trapezoids depict decreasing applicant numbers at each stage: '200 Resume Screen', '30 Recruiter Screen', '20 Technical Screen', and '5 Onsite'. Finally, a light-green trapezoid at the bottom indicates '1 Offer'. To the right of the funnel, corresponding light-blue and light-green trapezoids provide descriptions of each stage: Recruiters spend 5-20 seconds on resumes; the recruiter screen involves a phone call confirming experience and motivation; the technical screen includes a phone screen and/or take-home coding challenge; the onsite stage involves several interviews; and the final stage is an offer."
     width={700}
   />
@@ -88,7 +88,7 @@ Here is how a popular ATS, iCIMS displays candidates in the hiring pipeline for 
 
 <Frame caption="The pipeline view in the iCIMS ATS-one of the popular ATS systems. Recruiters need to review the candidate to process. This usually means them scanning the resume.">
   <img
-    src="../assets/chap2-the-hiring-pipeline/03-review-candidate-process.webp"
+    src="../assets/02-the-hiring-pipeline/03-review-candidate-process.webp"
     alt="Image represents a candidate pipeline interface, likely from an applicant tracking system (ATS), displaying a list of candidates filtered for 'Java' skills. The top section shows the pipeline title 'Pipeline: Java Cands', a search bar with 'Java' entered and a close button (X), and tabs for 'Unreviewed' and 'In Pipeline' candidates. Below, it displays 'Showing 6 out of about 6 Candidates'. The main body presents a table with checkboxes for candidate selection, columns for 'Name', 'Location', 'Current Role', 'Highest Education', and 'Job Apps'. Two candidates are shown: Anthony Townsend from Bethlehem, PA, US, a Software Support Engineer at Tri Star Engineering with a Bachelor of Science in Information Technology from Indiana State University and zero job applications; and Ellis McLane from Lakehurst, NJ, US, an Electrical Apprentice at Low Voltage Tech Solarium Energy, also with a Bachelor of Science in Information Technology from Indiana State University and zero job applications. A dropdown menu labeled 'Relevance' allows sorting, and a large magnifying glass icon suggests further search functionality. A toggle switch and an 'Actions' menu are present in the top right corner. Each candidate row includes a small icon resembling a document, possibly indicating additional information."
     width={700}
   />
@@ -98,7 +98,7 @@ Here is how a popular ATS, iCIMS displays candidates in the hiring pipeline for 
 
 <Frame caption="A typical Application Tracking System workflow. The ATS helps keep track of the status of each applicant. Very handy, when you have more than a few people applying!">
   <img
-    src="../assets/chap2-the-hiring-pipeline/04-ATS-workflow.webp"
+    src="../assets/02-the-hiring-pipeline/04-ATS-workflow.webp"
     alt="Image represents a flowchart illustrating the tech resume application process. It begins with an 'Unviewed Applicant' box (grey) which flows to a diamond-shaped decision point labeled '1. Recruiter reviews the application'. A positive outcome leads to 'In Review' (blue box), while a negative outcome (labeled 'Not a fit based on resume and/or knockout/prescreen questions') leads to 'Rejected' (red box). 'In Review' flows to another diamond, '2. Hiring Manager reviews the application', with rejection leading back to 'Rejected' and acceptance to 'Interview' (light blue box). 'Interview' leads to '3. Technical screens & onsite interviews' (diamond), with failure resulting in a return to 'Rejected' and success to 'Offer' (light green box). Finally, 'Offer' leads to '4. Candidate extended an offer' (diamond), where acceptance leads to 'Accepted' (green box) and declination leads to 'Declined' (pink box). The entire flowchart visually depicts the sequential steps and decision points in a candidate's journey through the application process."
     width={600}
   />
@@ -135,7 +135,7 @@ You can read more about how prescreening works by looking at the documentation f
 
 <Frame caption="Setting up a knockout question in Workable. These are most frequently used to save time with candidates whom the company would not hire due to certain constraints.">
   <img
-    src="../assets/chap2-the-hiring-pipeline/05-visa-status.webp"
+    src="../assets/02-the-hiring-pipeline/05-visa-status.webp"
     alt="Image represents a screen capture of a form builder interface, likely for creating a tech-resume screening tool. The top section displays a checkbox labeled 'Are you legally eligible to work in the United States?' Below this, the label 'Type' precedes a text input field displaying 'Yes/No', indicating a yes/no question type. Further down, the label 'Question' is followed by a larger text box containing the same question: 'Are you legally eligible to work in the United States?'. Finally, at the bottom, a checkbox is labeled 'Disqualify candidate if answer is no', suggesting that a 'no' response to the question will automatically disqualify the applicant. The overall arrangement is vertical, with labels to the left of their corresponding input fields or checkboxes. A small edit icon is visible in the top right corner, suggesting the ability to modify the form."
     width={500}
   />
@@ -191,7 +191,7 @@ Let's revisit the hiring pipeline to see how referrals change your chances of ge
 
 <Frame caption="Illustrating how referrals can “skip the queue” in the hiring pipeline, thanks to the additional context they bring. The actual process, and numbers will vary on a role-by-role, company-by-company basis.">
   <img
-    src="../assets/chap2-the-hiring-pipeline/06-skip-queue-illustration.webp"
+    src="../assets/02-the-hiring-pipeline/06-skip-queue-illustration.webp"
     alt="Image represents a funnel visualizing the tech resume screening process. Starting at the top, a gray box indicates '250 Resumes Submitted', which then flows into a similarly shaped gray box labeled '250 Applicant Tracking System Queue'. This queue feeds into a blue, trapezoidal box representing the 'Resume Screen', showing that 190 resumes are from inbound submissions and 10 are from referrals. A blue arrow points from this box to another labeled '10 Referrals'. The Resume Screen output then flows into a second blue trapezoid, 'Recruiter Screen', detailing that 20 resumes are from the screened inbound resumes, 8 from screened referrals, and 2 from strong referrals. A second blue arrow points from this box to a box labeled '2 Strong referrals'. The process continues through a blue '20 Technical Screen' box, a blue '5 Onsite' box, and finally culminates in a light green box indicating '1 Offer'. The entire structure resembles a funnel, illustrating the decreasing number of candidates at each stage of the selection process."
     width={500}
   />
@@ -240,7 +240,7 @@ A hiring manager's goal is to hire people who are qualified for the job as quick
 
 <Frame caption="Typical priority of resumes. The more “expensive” a candidate is to hire in terms of time or money, the less priority that resume typically gets.">
   <img
-    src="../assets/chap2-the-hiring-pipeline/07-resumes-priorities.webp"
+    src="../assets/02-the-hiring-pipeline/07-resumes-priorities.webp"
     alt="Image represents a comparative analysis of different candidate pools for hiring, visualized using circles and bars. A vertical grey line acts as a scale representing the number of applicants, with 'More applicants' on the left and 'Fewer applicants' on the right. Three large blue circles represent candidate pools: 'Referrals' (largest, on the left), 'Local Candidates' (middle), and 'Candidates Not Needing Visas' (right). A smaller light blue circle, 'Everyone Else', is positioned to the right of the previous circle. Horizontal blue bars extend from each circle, representing the associated costs and time to hire. The 'Referrals' bar indicates 'More likely to accept & stay longer', implying a faster and cheaper hiring process. The 'Local Candidates' bar shows 'More likely to accept' and 'No relocation costs', also suggesting a relatively efficient process. The 'Candidates Not Needing Visas' bar highlights 'Less paperwork compared to those who need visas' and 'Reasonable time to start', indicating a smoother process than the 'Everyone Else' category. The 'Everyone Else' bar details 'Higher relocation costs', 'More paperwork', 'More time to start (work authorization applications)', and 'Higher risk of candidate withdrawing during a long process', signifying a more complex and expensive hiring process. A horizontal grey line at the bottom connects the bars, labeled 'Faster / cheaper for the company to hire' on the left and 'More time & expense for the company to hire' on the right, summarizing the overall cost-effectiveness of each hiring approach."
     width={700}
   />
@@ -296,7 +296,7 @@ Startups and small company recruiting is often run by the hiring manager themsel
 
 <Frame caption="A typical hiring pipeline at a startup or small company. The actual process, and numbers will vary on a role-by-role, company-by-company basis.">
   <img
-    src="../assets/chap2-the-hiring-pipeline/08-hiring-pipeline-small-company.webp"
+    src="../assets/02-the-hiring-pipeline/08-hiring-pipeline-small-company.webp"
     alt="Image represents a funnel visualizing the tech resume application process. Starting at the top, a gray trapezoid labeled '10 Resumes Submitted' indicates the initial number of applications. Below, another gray trapezoid, '10 Applicant Tracking System Queue', shows that all applications enter an Applicant Tracking System (ATS), with a description explaining that even small companies use ATS for recruitment efficiency. Next, a blue trapezoid, '10 Resume Screen', signifies that 10 resumes are screened by a hiring manager (as described in the adjacent blue rhombus). The funnel then narrows to a blue trapezoid, '5 Hiring Manager Call', representing 5 candidates selected for a phone call to assess experience, motivation, and soft skills (detailed in the adjacent blue rhombus). Further narrowing, a blue trapezoid, '4 Technical Screen', shows 4 candidates proceeding to a technical screen, usually a take-home coding challenge (as described in the adjacent blue rhombus). The funnel continues to a light-blue trapezoid, '2 Onsite', indicating 2 candidates invited for onsite interviews with multiple team members (detailed in the adjacent blue rhombus). Finally, the funnel culminates in a light-green trapezoid, '1 Offer', signifying a single job offer, with a congratulatory message in the adjacent light-green rhombus emphasizing the competitiveness of the process. The entire diagram uses trapezoids to represent the stages and rhombi to provide descriptions of each stage, illustrating the decreasing number of candidates at each step of the hiring process."
     width={700}
   />
@@ -338,7 +338,7 @@ These companies are less well-known compared to large tech companies. They see m
 
 <Frame caption="A typical hiring pipeline at a mid-sized company. The actual process, and numbers will vary on a role-by-role, company-by-company basis.">
   <img
-    src="../assets/chap2-the-hiring-pipeline/09-hiring-pipeline-mid-size-company.webp"
+    src="../assets/02-the-hiring-pipeline/09-hiring-pipeline-mid-size-company.webp"
     alt="Image represents a funnel visualizing the tech resume application process for medium-sized companies using Applicant Tracking Systems (ATS) like Workable. Starting at the top, a gray trapezoid labeled '25 Resumes Submitted' leads into a similarly shaped gray trapezoid below labeled '25 Applicant Tracking System Queue'. A description to the right notes that medium-sized companies often use ATS like Workable. The funnel continues with progressively smaller, light-blue trapezoids representing decreasing applicant numbers at each stage: '25 Resume Screen', where HR scans resumes guided by the hiring manager (as described in a right-side annotation); '7 Hiring Manager Call', detailing a phone call confirming experience and soft skills; '4 Technical Screen', typically involving a take-home coding challenge; and '2 Onsite', consisting of one or two interviews. Finally, a light-green trapezoid at the bottom shows '1 Offer', with a congratulatory message to the right indicating the difficulty of reaching this stage. Each stage of the funnel is accompanied by a right-side annotation explaining the process at that level."
     width={700}
   />

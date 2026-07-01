@@ -1,5 +1,5 @@
 ---
-title: "Chapter 13: Hiring Manager Screening Tips"
+title: "13. Hiring Manager Screening Tips"
 ---
 
 This chapter is for all fellow current or future hiring managers. I realize most people reading the book are not hiring managers, but one day you might become a lead or a manager, and have a say, or design a hiring process. By that time, you might have forgotten how difficult it was to put your foot in the door, and how much depended on having a really strong resume.

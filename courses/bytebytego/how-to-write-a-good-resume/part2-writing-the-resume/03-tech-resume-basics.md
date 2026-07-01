@@ -1,5 +1,5 @@
 ---
-title: "Chapter 3: Tech Resume Basics"
+title: "3. Tech Resume Basics"
 ---
 
 There are several unwritten rules of resume writing, from not having any spelling mistakes, to listing your experience in reverse chronological order. Whenever a resume breaks one of these rules, it makes it seem less professional. And when doing the first scan on a resume, recruiters and hiring managers look for a few specific pieces of information-almost always doing this autopilot.
@@ -27,7 +27,7 @@ Recruiters want to collect a few key pieces of information at first glance, and 
 
   <Frame caption="Mapping of levels between several companies on Levels.fyi. The mapping is not exact, but it gives a sense of progression at each company, and how these might compare between companies.">
     <img
-      src="../assets/chap3-tech-resume-basics/10-mapping-levels.webp"
+      src="../assets/03-tech-resume-basics/10-mapping-levels.webp"
       alt="Image represents a comparison chart showing equivalent engineering levels across five major tech companies: Google, Facebook, Uber, Amazon, and Microsoft. The chart is arranged as a grid with each company's levels listed in a separate column. Rows represent increasing seniority levels, progressing from entry-level to highly senior positions like Google Fellow and Technical Fellow. Google's levels are labeled L3 through L10, with corresponding titles like 'SWE II' and 'Distinguished Engineer'. Facebook uses E3 through E9. Uber uses titles like 'Software Engineer I' and 'Principal Engineer' with numerical level indicators (3-7). Amazon uses 'SDE I' through 'Principal SDE' with level indicators (L4-L7). Microsoft uses numerical level indicators (59-80) with titles like 'SDE' and 'Technical Fellow'. Each cell shows the equivalent level across companies, allowing for a direct comparison of seniority and title between organizations. There's no explicit information flow between cells; the chart simply presents a static mapping of equivalent roles."
       width={700}
     />
@@ -82,7 +82,7 @@ To visualize how biases kick in, take a look at these two resumes.
 
 <Frame>
   <img
-    src="../assets/chap3-tech-resume-basics/11-resume1.webp"
+    src="../assets/03-tech-resume-basics/11-resume1.webp"
     alt="Image represents a snippet of a tech resume belonging to Greg Rossing, who identifies as a Backend Developer. The top section displays his name ('GREG ROSSING') and job title ('BACKEND DEVELOPER'), both underlined in a muted green. Below this, a paragraph summarizes his skills and experience, highlighting his 9 years of experience as a result-driven backend engineer with expertise in migrating monolithic systems to microservices and a strong interest in distributed systems and modern software architecture. Further down, a 'WORK HISTORY' section, also underlined in muted green, details his current role as 'Senior backend developer' at 'SkyLabs', starting in May 2018 and continuing to the present. A bullet point under this describes a key achievement: leading a team of 5 engineers to migrate a booking service monolith into 7 loosely coupled microservices. The entire structure is vertically arranged, with clear section headings and consistent formatting, creating a clean and easily readable resume excerpt."
     width={500}
   />
@@ -92,7 +92,7 @@ To visualize how biases kick in, take a look at these two resumes.
 
 <Frame>
   <img
-    src="../assets/chap3-tech-resume-basics/12-resume2.webp"
+    src="../assets/03-tech-resume-basics/12-resume2.webp"
     alt="Image represents a tech resume for Greg Rossing, a Backend Developer. The top section displays his name ('GREG ROSSING') and job title ('BACKEND DEVELOPER') in a header-like format. Below, a brief professional summary describes him as a result-driven backend engineer with nine years of experience in migrating monoliths to microservices and a keen interest in distributed systems. To the right, a black and white headshot of Greg Rossing is shown, accompanied by personal details: Nationality (Ukraine), Age (47 years), and Marital Status (married with two young kids). The lower section, titled 'WORK HISTORY', details his current role as a Senior Backend Developer at SkyLabs, starting in May 2018 and continuing to the present. A bullet point under this describes a key achievement: leading a team of five engineers to migrate a booking service monolith to seven loosely coupled microservices. The overall layout is clean and organized, with clear section headings and a professional tone."
     width={500}
   />

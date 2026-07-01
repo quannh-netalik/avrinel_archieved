@@ -1,5 +1,5 @@
 ---
-title: "Chapter 7: Different Experience Levels, Different Career Path"
+title: "7. Different Experience Levels, Different Career Path"
 ---
 
 Depending on how much experience you have had, you’ll want to focus on different areas of your resume. In this chapter, we’ll share specific advice for students, bootcamp grads, career changers, senior and above engineers, tech leads, and engineering managers.
@@ -68,7 +68,7 @@ As a bootcamp grad, it’s hard to stand out with the basic bootcamp projects. H
 
 <Frame>
   <img
-    src="../assets/chap7-diff-exp-diff-path/before_after_06_v1.webp"
+    src="../assets/07-diff-exp-diff-path/before_after_06_v1.webp"
     alt="Image represents a section of a tech resume titled 'Projects', listing two completed projects. The first project, 'Reversible', is described as a full-stack application built using React, Redux, and Express.js. Its functionality involves fetching events from an API and enabling users to integrate these events into their personal goals. The second project, 'Todoist', is a todo application developed with React and Redux, designed for users to record and track their goals. Both project descriptions are preceded by a bullet point, indicating a list format. No URLs or parameters are visible; the information flow is purely descriptive, detailing the project name, technologies used, and a brief summary of each project's purpose."
     width={700}
   />
@@ -78,7 +78,7 @@ As a bootcamp grad, it’s hard to stand out with the basic bootcamp projects. H
 
 <Frame>
   <img
-    src="../assets/chap7-diff-exp-diff-path/before_after_06_v2.webp"
+    src="../assets/07-diff-exp-diff-path/before_after_06_v2.webp"
     alt="Image represents a list of projects under the heading 'Projects', each described in a bulleted list format. Each bullet point details a project's name, a parenthetical list of technologies used (e.g., JavaScript, React, Redux), a brief description of the project's functionality and impact, and often includes links or references to external resources. For example, 'Leaflet (JavaScript)' describes a contribution to an open-source mapping library, mentioning specific contributions and the number of developers using it. 'LightningFastAndCuteImageSearch.com' details a unique image search engine, highlighting its open-source nature, testing, and positive reception on Reddit, with a link to view the code on GitHub. Similarly, 'Insurance comparison tool' describes a tool built for businesses, mentioning the client and providing a link for more details. 'Data structures in JavaScript' showcases an implementation of popular data structures, emphasizing 100% code coverage and providing a GitHub link. Finally, 'Reversible' describes a fully-tested full-stack application, again with 100% code coverage and a GitHub link. The overall structure is a simple, vertically-oriented list, with each project's information self-contained within its bullet point."
     width={700}
   />
@@ -116,7 +116,7 @@ An example career changer resume is this one:
 
 <Frame>
   <img
-    src="../assets/chap7-diff-exp-diff-path/30-tom-clintts-resume.webp"
+    src="../assets/07-diff-exp-diff-path/30-tom-clintts-resume.webp"
     alt="Image represents a tech resume for Tom Clintts, structured into sections. The top displays contact information: email (resume@pragmaticengineer.com), location (New York), and links to LinkedIn and GitHub. A brief self-summary highlights his software development experience and proficiency with the MERN stack. The 'Languages and Technologies' section lists JavaScript, React, Redux, Node.js, Express.js, Jest, Mocha (Languages and Frameworks) and MongoDB, MySQL, Git, AWS, and Heroku (Technologies). The 'Projects' section details four projects: 'LightningFastAndCuteImageSearch.com', an open-source image search engine built with JavaScript, React, Jest, Mocha, and AWS; an insurance comparison tool using JavaScript, React, Redux, MongoDB, and TailwindCSS; a project implementing JavaScript data structures; and 'Reversible', a full-stack app using JavaScript, React, Redux, Express, MongoDB, Jest, and Mocha. Each project includes a brief description and often links to GitHub for code review. The 'Experience' section outlines his roles as a Senior Financial Analyst and Finance Team Lead at Morgan Stanley, specifying responsibilities and achievements. The 'Education' section lists a Software Engineering coding bootcamp from Flatiron School and a BSc in Finance and Accounting from the University of New York. Finally, the 'Interests' section concludes with a personal detail about his avid cycling hobby. All sections are clearly labeled and chronologically ordered where applicable (e.g., experience and education)."
     width={700}
   />
@@ -140,12 +140,12 @@ While there is no “one size fits all” advice, here are a few good approaches
 
 <Frame className="flex flex-col gap-2 items-center">
   <img
-    src="../assets/chap7-diff-exp-diff-path/31-career-breaks_v1.webp"
+    src="../assets/07-diff-exp-diff-path/31-career-breaks_v1.webp"
     alt="Image represents a section of a tech resume detailing employment history. The image is divided into two distinct sections. The top section, labeled 'On a break', indicates a period of leave from March 2020 to August 2020. A bullet point precedes an explanation for the break: 'Due to COVID-19, I decided to take a break to spend more time with my family'. Below this, a second section, labeled 'Previous Position', shows a time period of employment from January 2019 to March 2020. A bullet point follows, indicating that further details about this previous position would be provided below (represented by an ellipsis '...'). The sections are arranged vertically, with the break information appearing above the previous position information, chronologically representing the candidate's work history. No URLs or parameters are present."
     width={500}
   />
   <img
-    src="../assets/chap7-diff-exp-diff-path/32-career-breaks_v2.webp"
+    src="../assets/07-diff-exp-diff-path/32-career-breaks_v2.webp"
     alt="Image represents a section of a tech resume, structured vertically with two distinct blocks. The top block, labeled 'Travelling & writing', details a period from January 2020 to the present. A bullet point precedes a description explaining a professional break taken to travel to Asia and write a novel. Below this, a second block, labeled 'Previous Position', covers the period from 2016 to January 2020. A bullet point indicates that further details about this previous position would follow, although they are not shown in the image. The two blocks are separated by a significant vertical space, and each block includes a date range indicating the timeframe of the described activity or position. No URLs or parameters are visible."
     width={500}
   />
@@ -169,7 +169,7 @@ Most people will create portfolio projects as an outcome of their studies. While
 
 <Frame>
   <img
-    src="../assets/chap7-diff-exp-diff-path/before_after_08_v1.webp"
+    src="../assets/07-diff-exp-diff-path/before_after_08_v1.webp"
     alt="Image represents a section of a tech resume, specifically detailing the candidate's self-study of React and Node.js and their subsequent contributions. The top section, titled 'React and Node.js Self-Study' (Jan 2020-Present), lists bullet points describing activities: a professional break dedicated to in-depth self-learning of React and Node.js, building upon 5 years of prior software engineering experience; creating a web scraping tool using these technologies, adhering to SOLID principles and rigorously tested with unit (Jest) and end-to-end (Selenium) tests, with performance testing results available via an implied link ('See the code and performance test results here'); contributing to the React-sketch open-source project, resulting in 8 pull requests, with contributions viewable via another implied link ('See contributions here'); sharing knowledge through blog posts on React, read by over 1,000 people; and mentoring two junior engineers in JavaScript and React. Finally, it mentions books read ('React Design Patterns and Best Practices' and 'Node.js Design Patterns') and a correction submitted to 'Learn React Hooks' book. Below this, a section titled 'Software Developer at SomeCompany' (2016-Jan 2020) begins with an ellipsis, suggesting further details are present but not shown in the image. The overall arrangement is chronological, with the self-study section following the prior employment. No explicit URLs or parameters are visible, but implied links are present to external resources."
     width={700}
   />
@@ -181,7 +181,7 @@ While the above example looks fine, recruiters and hiring managers will usually 
 
 <Frame>
   <img
-    src="../assets/chap7-diff-exp-diff-path/before_after_08_v2.webp"
+    src="../assets/07-diff-exp-diff-path/before_after_08_v2.webp"
     alt="Image represents a tech resume structured chronologically, starting with the most recent experience. The top section, 'Freelancer (React, Node.js)' (Mar 2020-Present), lists bullet points detailing projects: a React and Redux reporting tool for a mortgage agency (reducing calculation time by 90%), a Node.js and Bootstrap API for displaying discount codes, and contributions to the React-sketch open-source project (including 8 pull requests). It also mentions sharing expertise through in-depth posts and mentoring junior engineers. Below, 'Self-Study' (Jan-Mar 2020) describes self-learning of React and Node.js, including building a web scraping tool (using SOLID principles and tested with Jest and Selenium), and reading relevant books. Finally, 'Software Developer at SomeCompany' (2016-Jan 2020) indicates prior professional experience, with details omitted by ellipses (...). Each section is clearly labeled with its title and date range, and bullet points provide concise descriptions of accomplishments and skills, with some including links (indicated by 'here') to external resources for further details."
     width={700}
   />

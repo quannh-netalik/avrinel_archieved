@@ -1,5 +1,5 @@
 ---
-title: "Chapter 5: Standing Out"
+title: "5. Standing Out"
 ---
 
 Your resume will be one of the many applications a recruiter scans through. How do you stand out from the dozens of other applications?
@@ -55,7 +55,7 @@ Talking about impact and your accomplishments is one of the most underrated appr
 
 <Frame>
   <img
-    src="../assets/chap5-standing-out/before_after_02_v1.webp"
+    src="../assets/05-standing-out/before_after_02_v1.webp"
     alt="Image represents a text-based description of a software engineer's experience at a company called Gibbery. The top line states the job title, 'Software Engineer at Gibbery'. Below this, a bulleted list details four key accomplishments. The first bullet point describes working on the Billing team and developing microservices. The second bullet point highlights the automation of error handling in RESTful API services, resulting in a reduction of client support tickets. The third bullet point focuses on improving the customer experience of the MyTrinn platform by integrating third-party APIs like Zoom Rooms and Square. Finally, the fourth bullet point details reverse engineering and analysis of undocumented legacy code to understand its business logic, clean and refactor it, ultimately creating a new billing-focused service. There are no diagrams, URLs, or parameters present; the information is purely textual and presented as a concise summary of professional experience."
     width={700}
   />
@@ -67,7 +67,7 @@ While this description is not that bad, it does not talk about specifics that so
 
 <Frame>
   <img
-    src="../assets/chap5-standing-out/before_after_02_v2.webp"
+    src="../assets/05-standing-out/before_after_02_v2.webp"
     alt="Image represents a text-based description of a software engineer's experience at Gibbery. The main component is a bulleted list detailing four projects. The first bullet point describes working on the Billing team, developing microservices, but lacks specific details ('missing specifics'). The second bullet point details automating the error handling process for RESTful APIs, resulting in a reduced client support ticket rate, again lacking specific quantifiable results ('missing specifics, and could describe better what you did'). The third bullet point focuses on enhancing the MySap platform's customer experience through third-party API integrations (Zoom for meetings, Square for payments), again missing specific details ('missing specifics'). The final bullet point describes reverse engineering and analyzing undocumented legacy code to understand business logic, clean the code, isolate domains, and refactor it for a new billing service; however, feedback suggests the impact of this work needs clearer articulation and less passive phrasing ('impact of work could be more clear, passive statements, description makes it seem this person was told what to do'). The entire structure is a simple vertical list, with each bullet point describing a separate project and highlighting areas where more detail and active voice are needed."
     width={700}
   />
@@ -77,7 +77,7 @@ While this description is not that bad, it does not talk about specifics that so
 
 <Frame>
   <img
-    src="../assets/chap5-standing-out/before_after_02_v3.webp"
+    src="../assets/05-standing-out/before_after_02_v3.webp"
     alt="Image represents a bulleted list detailing the accomplishments of a Software Engineer at Gibbery, specifically within the Billing team. The list comprises five bullet points, each describing a distinct project or improvement. The first bullet point mentions the development, deployment, and operation of multiple microservices handling up to 200 queries per second (QPS). The second bullet point details improving the availability of a 'receipts Go microservice' from 99.8% to 99.9% by implementing a read-through cache layer using Redis. The third bullet point describes a reduction in support tickets by 80% for a major client through improved error handling in a Node.JS API, ensuring 100% of error codes are mapped to appropriate HTTP codes. The fourth bullet point highlights a 30% increase in customer conversion on a co-working platform (MySap) by integrating recurring payments and Zoom rooms using PHP and Go. Finally, the fifth bullet point focuses on enhancing the maintainability of the core billing engine by reverse engineering legacy code, isolating it into separate domains, and migrating it to independent services. No visual connections or flows are present; the information is purely textual and hierarchical, organized as a list of accomplishments."
     width={700}
   />
@@ -102,7 +102,7 @@ Your resume should sell the professional “you” for the position you are appl
 
 <Frame>
   <img
-    src="../assets/chap5-standing-out/before_after_03_v1.webp"
+    src="../assets/05-standing-out/before_after_03_v1.webp"
     alt="Image represents a text-based resume section detailing work experience and projects. The resume is structured into two main sections: 'Work experience' and 'Projects'. The 'Work experience' section lists four bullet points describing past roles, including developing and maintaining an internal data serialization service adopted by other teams, building a web application for internal DevOps use, participating in sprint planning and strategy definition (sometimes leading meetings), and occasionally serving as a 'build master' for automated build processes. The 'Projects' section contains three bullet points. The first details volunteer work with Facebook Developer Circles Cairo, encompassing managing an online user group, organizing meetups/workshops/hackathons in Ghana, and building partnerships with local tech companies to foster developer ecosystem growth. The second describes a project, 'bareGo', focused on learning software architecture and design using Go, emphasizing the applicability of concepts like SOLID and design patterns to other languages. The third project involves implementing API design principles and concepts using Node.js, labeled as 'RESTAPI with Node'. No visual connections or information flow is present beyond the hierarchical bullet point structure organizing the listed experiences and projects."
     width={700}
   />
@@ -119,7 +119,7 @@ These are the main issues with this version:
 
 <Frame>
   <img
-    src="../assets/chap5-standing-out/before_after_03_v2.webp"
+    src="../assets/05-standing-out/before_after_03_v2.webp"
     alt="Image represents a text-based resume outlining work experience and projects. The resume is structured into two main sections: 'Work experience' and 'Projects'. The 'Work experience' section lists four bullet points, each describing a role. These descriptions often lack specific quantifiable achievements, indicated by parenthetical comments like '(missing specifics)' or '(achievements are underplayed)'. The 'Projects' section similarly uses bullet points, detailing volunteer work with Facebook Developer Circles Cairo and individual projects like 'bareGo' and a RESTAPI project. These project descriptions are also criticized with parenthetical comments highlighting issues such as overly verbose descriptions, passive language, missing specifics, and a lack of explanation regarding the project's complexity or interesting aspects. The comments act as annotations, pointing out areas for improvement in the resume's content and clarity. No URLs or parameters are present; the information flow is purely textual, with each bullet point expanding on a specific experience or project."
     width={700}
   />
@@ -129,7 +129,7 @@ These are the main issues with this version:
 
 <Frame>
   <img
-    src="../assets/chap5-standing-out/before_after_03_v3.webp"
+    src="../assets/05-standing-out/before_after_03_v3.webp"
     alt="Image represents a tech resume structured into two main sections: 'Work experience' and 'Projects'. The 'Work experience' section lists four bullet points detailing past roles. The first describes building and promoting a Java service for data serialization, resulting in adoption by six other teams. The second details creating a Python-based monitoring tool (using Grafana for visualization) that prevented three major outages. The third bullet point highlights leading sprint planning sessions and taking on a 'build master' role, involving Jenkins and Groovy. The fourth bullet point focuses on self-learning Scala and Groovy to broaden programming language expertise, specifically mentioning the JVM and contrasting dynamic and static language characteristics. The 'Projects' section lists three bullet points. The first describes leading a Facebook Developer Circles community, organizing over 30 events. The second details creating a 'bareGo' Go framework for building efficient and scalable server-side applications, emphasizing its adherence to SOLID principles and providing a GitHub link. The third project showcases building a REST API using Node.js, highlighting the implementation of HATEOAS, caching, and content negotiation, also with a GitHub link. Each bullet point within both sections provides concise descriptions of responsibilities, technologies used, and quantifiable results where applicable, often including URLs to GitHub repositories for project code."
     width={700}
   />
@@ -178,7 +178,7 @@ Take this excerpt from a job description at Amazon. I added the highlights to po
 
 <Frame>
   <img
-    src="../assets/chap5-standing-out/20-before-writing-a-resume.webp"
+    src="../assets/05-standing-out/20-before-writing-a-resume.webp"
     alt="Image represents a job description for a Software Development Engineer at Amazon. The top section poses a series of questions designed to gauge the applicant's interest in the role, highlighting aspects like working on critical payment systems, high availability, cutting-edge technology, and a collaborative environment. The next section outlines the responsibilities of the position, including defining, designing, and implementing multi-tier distributed payment services, leading the team in developing new features for Amazon's payment platform, and estimating engineering effort and planning implementation rollouts, emphasizing the importance of functionality, performance, scalability, and reliability. Following this, 'Basic Qualifications' lists required skills and experience, such as 4+ years of software development experience, computer science fundamentals in object-oriented design and data structures, algorithm design, and proficiency in at least one modern programming language (C, C++, Java, or Perl). Finally, 'Preferred Qualifications' details desirable skills, including knowledge of software engineering best practices (coding standards, code reviews, etc.), project management experience from scoping to launch, and strong communication skills with various stakeholders. The entire document is structured as a bulleted list, clearly separating responsibilities, basic requirements, and preferred qualifications."
     width={700}
   />
@@ -188,7 +188,7 @@ Take this excerpt from a job description at Amazon. I added the highlights to po
 
 <Frame>
   <img
-    src="../assets/chap5-standing-out/before_after_04_v1.webp"
+    src="../assets/05-standing-out/before_after_04_v1.webp"
     alt="Image represents a text-based resume snippet focusing on skills and experience. The top section, titled 'Skills summary', lists the candidate's proficiencies categorized into four bullet points: 'Languages' (Python, PHP, Java, Go), 'Databases' (Postgres, MongoDB, Redis), 'Tools' (AWS/Azure/GCP, Docker, Git, Kafka), and 'Other' (data structures, algorithms, full stack software design). Below this, the section 'Software engineer at ThisCompany' details the candidate's experience at a company named 'ThisCompany', outlining four bullet points describing their work: designing and developing back-end systems using Java, Python, and Go; creating a Grafana dashboard generator from microservice code; developing a reverse proxy for testing and caching; and introducing a beta environment for controlled feature rollouts. The entire structure is a simple, linear presentation of text, with no visual connections or information flow beyond the hierarchical organization of skills and experience."
     width={700}
   />
@@ -200,7 +200,7 @@ This is not bad-but it is clear how this description is a generic one. It does n
 
 <Frame>
   <img
-    src="../assets/chap5-standing-out/before_after_04_v2.webp"
+    src="../assets/05-standing-out/before_after_04_v2.webp"
     alt="Image represents a tech resume snippet focusing on a software engineer's experience at 'ThisCompany'. The top section, titled 'Skills summary', lists the candidate's proficiencies categorized into 'Languages' (Java, Go, Python, PHP), 'Databases' (Postgres, MongoDB, Redis), 'Tools' (AWS, Azure, GCP, Docker, Kafka, Git), and 'Other' (data structures, algorithms, distributed systems, engineering best practices). Below, the main body details three key accomplishments. The first describes defining, designing, implementing, and rolling out a multi-tier customer profile service using Java, leading a four-engineer team, and its adoption by five other teams. The second highlights the introduction of best practices in reliability, monitoring, and alerting, including building a Grafana dashboard generator adopted by over ten teams, and improving testing practices via a reverse proxy. The third accomplishment details improving rollout processes by introducing a company-wide beta environment for testing new features with selected customers. The keywords 'defined', 'designed', 'implemented', 'rolled out', 'best practices', 'testing', and 'rollouts' are emphasized, likely to highlight the candidate's contributions and impact."
     width={700}
   />
@@ -222,7 +222,7 @@ A typical job description for this kind of a position could read something like 
 
 <Frame>
   <img
-    src="../assets/chap5-standing-out/21-diff-company-diff-focus.webp"
+    src="../assets/05-standing-out/21-diff-company-diff-focus.webp"
     alt="Image represents a text-based job description for a Software Engineer position. The top section lists 'Minimum qualifications', including a Bachelor's degree in Computer Science or a similar field, experience coding in Java, C++, or Python, experience with HTML, JavaScript, and CSS, and experience building full-stack features from UI (mobile and web) to backend systems. Below this, 'Preferred qualifications' are listed, specifying experience in front-end development, familiarity with browser compatibility, and knowledge of advanced JavaScript features. A subsequent paragraph describes the company's work in developing innovative next-generation technologies and the need for engineers with diverse skills in areas like information retrieval, distributed computing, large-scale system design, security, and artificial intelligence. The next paragraph details the role's responsibilities, emphasizing working on critical projects, versatility, leadership, and problem-solving across the full stack. Finally, the last paragraph highlights the management of project priorities, deadlines, and deliverables, along with the design, development, testing, deployment, maintenance, and enhancement of software solutions. The entire text is formatted as a bulleted list for qualifications and paragraph form for the job description."
     width={700}
   />
@@ -261,7 +261,7 @@ Non-tech-first companies and smaller companies often hire for a specific technol
 
 <Frame>
   <img
-    src="../assets/chap5-standing-out/22-company-hiring-for-specific-tech.webp"
+    src="../assets/05-standing-out/22-company-hiring-for-specific-tech.webp"
     alt="Image represents a job description for a Java Developer position. The top section provides context, stating the company's rapid growth driven by global demand and its need to hire exceptional Java Developers to expand its existing team. Below this, the 'Main Duties and Responsibilities' section lists three bullet points outlining the role's key tasks: implementing technology strategy and developing new products/services, actively developing high-quality production code for front-ends and real-time analytics, and delivering well-designed, clean code to support business growth. Following this, 'Required technical expertise' details essential skills, including 3+ years of high-performance Java 1.8+ development experience (including concurrency and distributed systems), strong knowledge of unit and integration testing within a CI/CD environment using distributed version control, object-oriented and reactive programming skills, and familiarity with Linux, Docker, Maven, Spring, JMS, and relational databases; Gradle and Kafka are listed as highly desirable. Finally, 'Desirable technical skills' lists additional beneficial skills, such as experience with the ELK stack, Prometheus, Grafana, Opentracing, C++, Python, Groovy, Kotlin, actor frameworks (like Akka), Javascript/HTML5, Atlassian workflow tools, and Ansible. The information is presented in a hierarchical, bulleted list format, with no visual connections or information flow between the different sections beyond their sequential arrangement."
     width={700}
   />
@@ -305,7 +305,7 @@ A workaround is to throw all possibly relevant keywords into the resume. This is
 
 <Frame caption="Keyword stuffing: an example of overdoing it">
   <img
-    src="../assets/chap5-standing-out/before_after_05_v1.webp"
+    src="../assets/05-standing-out/before_after_05_v1.webp"
     alt="Image represents a categorized list of technical skills, arranged in a hierarchical structure. The top-level category is 'TECHNICAL SKILLS', followed by sub-categories such as 'Programming', 'Databases', 'Back-end Technologies', 'Front-end Technologies', 'Testing', 'Tools/IDEs', 'API Paradigms', 'Message Queues', and 'Other Tools'. Each sub-category lists specific technologies, tools, or methodologies. For example, 'Programming' lists PHP, Java, JavaScript, Python, and SQL; 'Databases' lists MySQL, Oracle 11g, PostgreSQL, SQLite, and MongoDB; 'Back-end Technologies' includes Servlets, JSP, Spring MVC, Spring Boot, and more; and 'Front-end Technologies' lists HTML5, CSS3, jQuery, React.js, and others. The items within each category are separated by commas, and categories are separated by double vertical bars ('||'). There's also a 'Learning' sub-category under 'Front-end Technologies' indicating ongoing learning in React Native, Redux, and Angular 7. The arrangement visually groups related skills, allowing for a quick overview of the candidate's expertise across various aspects of software development."
     width={700}
   />
@@ -321,7 +321,7 @@ Let’s go back to how to improve that part in the previous resume. We’ll cut 
 
 <Frame caption="Sensible keywords: cutting down to ones relevant to the position, bringing examples in the work experience section">
   <img
-    src="../assets/chap5-standing-out/before_after_05_v2.webp"
+    src="../assets/05-standing-out/before_after_05_v2.webp"
     alt="Image represents a tech resume snippet showcasing skills and work experience. The top section, titled 'LANGUAGES AND TECHNOLOGIES', lists programming languages (PHP, JavaScript, Python) and frameworks (Laravel, React, Angular) under 'Languages and frameworks', database technologies (MySQL, MongoDB), cloud services (AWS), and version control (Git) under 'Technologies and tools', and finally, 'Data structures and algorithms, API design, unit testing' under 'Other'. Below, the 'WORK EXPERIENCE' section details a role as 'Backend Software Engineer' at 'SmallComp'. This section includes bullet points describing accomplishments: re-architecting a RESTful API for a mobile client using PHP and Laravel; improving customer conversion by 30% through an improved checkout flow; migrating a MongoDB database to MySQL; and building the frontend using React. The technologies used in each accomplishment are highlighted, demonstrating a connection between the skills listed at the top and the practical application in the work experience."
     width={500}
   />

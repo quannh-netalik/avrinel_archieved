@@ -1,5 +1,5 @@
 ---
-title: "Chapter 10: Template Principles"
+title: "10. Template Principles"
 description: "Good Resume Tempalte Principles"
 ---
 
@@ -22,7 +22,7 @@ Good resume templates are made tailored for recruiters and hiring managers-not f
 
   <Frame caption="The EnhanCV value proposition. This kind of flashy template is a poor choice for software engineers or engineering managers.">
     <img
-      src="../assets/chap10-template-principles/42-enhance-cv-value-proposition.webp"
+      src="../assets/10-template-principles/42-enhance-cv-value-proposition.webp"
       alt="Image represents a tech resume template showcasing its features alongside a sample resume for Hannah Mills. On the left, five key features are listed with icons: 'Memorable Design' (a magic wand icon) describes a template with thousands of customizable options; 'No learning curve' (a rocket icon) highlights ease of use; 'Content Analyzer' (a document icon) indicates a feature to optimize content; 'Improve with feedback' (a speech bubble icon) promises iterative improvement; and 'Professional, yet personal' (a smiley face icon) emphasizes the balance of formality and personality. 'Tailor your application' (a ruler and pencil icon) suggests customization. To the right, a sample resume displays Hannah Mills' contact information, a professional headshot, a 'Life Philosophy' section quoting Muhammad Ali, and an 'Experience' section detailing her roles at Altalife Limited, Sunrise HLP, and C Lab Services, each with dates, locations, and bullet points describing responsibilities. An 'Industry Expertise' section shows her skills in Project Management, Organization, Operations, and Leadership using a bar graph. A 'Most Proud Of' section highlights achievements in record project delivery, mentoring, and tackling challenges. A 'My Time' section uses a pie chart to illustrate time allocation. Finally, a 'Tech Stack' section lists various technologies (Zoho Sprints, UserVoice, Intercom, etc.) she's proficient in. Five colored circles, visually connecting to the experience section, likely represent different projects or roles. The overall arrangement is clean and visually appealing, demonstrating the template's features through a practical example."
       width={700}
     />
@@ -57,7 +57,7 @@ The format that all recruiters in tech will be vastly familiar with is the Linke
 
 <Frame>
   <img
-    src="../assets/chap10-template-principles/43-template-tech-resume-light-blue-bg_v1.webp"
+    src="../assets/10-template-principles/43-template-tech-resume-light-blue-bg_v1.webp"
     alt="Image represents a template for a tech resume, displayed on a solid light-blue background. At the top, a gray placeholder icon representing a person is positioned to the left of a text input field labeled 'Name, details'. Below this, a text input field is labeled 'Summary'. Further down, a section titled 'Work Experience' contains three consecutive, identical, empty text input fields, presumably for listing multiple work experiences. Following this, there are individual text input fields for 'Education', 'Projects', 'Skills & Expertise', and 'Honors & Awards', each stacked vertically below the previous one. All text input fields are rectangular with light-gray backgrounds and light-blue borders, suggesting areas to be filled with relevant information. The overall arrangement is linear and sequential, guiding the user to fill in personal information, followed by professional experience and achievements. No URLs or parameters are visible."
     width={350}
   />
@@ -67,7 +67,7 @@ Resume templates that follow this format in their layout are a safe bet. Do keep
 
 <Frame>
   <img
-    src="../assets/chap10-template-principles/44-template-tech-resume-light-blue-bg_v2.webp"
+    src="../assets/10-template-principles/44-template-tech-resume-light-blue-bg_v2.webp"
     alt="Image represents a template for a tech resume, structured as a vertically stacked, rectangular blue form. The topmost section is labeled 'Name, details', followed by 'Summary', 'Languages & Technologies', and a 'Work Experience' section containing three horizontally aligned, empty input fields suggesting multiple entries. Below this are sections for 'Education', 'Projects', and finally, 'Interests / Honors & Awards', each represented by a single empty input field. To the right of the form, a grey arrow points downwards from the words 'Read: top to bottom', indicating the intended reading order of the resume's content, from top to bottom."
     width={450}
   />
@@ -81,7 +81,7 @@ Another popular layout is a two-column one. The goal of this layout is to maximi
 
 <Frame>
   <img
-    src="../assets/chap10-template-principles/45-template-tech-resume-light-blue-bg_v3.webp"
+    src="../assets/10-template-principles/45-template-tech-resume-light-blue-bg_v3.webp"
     alt="Image represents a template for a tech resume, structured as a grid within a larger blue border. The top row contains two sections: a left section showing a grey person icon labeled 'Summary', and a right section labeled 'Contact'. Below this, the resume is divided into two columns. The left column is labeled 'Relevant Skills' and is a large empty space for listing skills. The right column contains the 'Work Experience' section, which features three horizontally stacked, empty rectangular boxes, presumably for detailing past work experiences. Below the 'Work Experience' section is an 'Education' section, another large empty space for educational details. A grey arrow and text to the right of the main resume grid indicates the reading order: top to bottom, and left to right."
     width={450}
   />
@@ -91,7 +91,7 @@ While this template seemingly does maximize space, it does this at the expense o
 
 <Frame>
   <img
-    src="../assets/chap10-template-principles/46-template-tech-resume-light-blue-bg_v4.webp"
+    src="../assets/10-template-principles/46-template-tech-resume-light-blue-bg_v4.webp"
     alt="Image represents a template for a tech resume, divided into two main sections within a light-blue border. The left section features a top area for 'Name' and 'Contact' information, followed by a 'Summary' section. Below this is a 'Work Experience' section with three rectangular placeholders for detailing past roles. At the bottom is an 'Education' section. To the right of 'Work Experience' are sections for 'Interests' and 'Skills', each with a single large rectangular placeholder for input. The right section includes a 'Name & Contact' area at the top, mirroring the left side. Below this are three rectangular placeholders under 'Projects', allowing for multiple project descriptions. Adjacent to the 'Projects' section is a 'Life Philosophy' section and a 'Toolbox' section, both with single large rectangular placeholders. Finally, at the bottom of the right section is an 'Education' section, mirroring the left side. The overall structure suggests a two-column layout, with sections on both sides designed to present a comprehensive overview of the candidate's background, skills, and personal attributes. The use of rectangular placeholders indicates areas for filling in specific details."
     width={600}
   />
@@ -132,7 +132,7 @@ Let’s visualize what recruiters actually see from your resume in the first few
 
 <Frame>
   <img
-    src="../assets/chap10-template-principles/47-edmond-smith-resume.webp"
+    src="../assets/10-template-principles/47-edmond-smith-resume.webp"
     alt="Image represents a tech resume for Edmond Smith, structured into distinct sections. At the top, personal contact information is provided, including mailing address (TNC NT1, Cape Town), email (edmondsmith88@example.com), and website (https://EdmondSmithDev.github.io/). Below, 'TECH STACKS' lists the candidate's programming languages/frameworks (PHP/Laravel, JavaScript/Express, Java/Kotlin for Android), databases (Postgres, MySQL, MongoDB), infrastructure (AWS), and testing tools (PHPUnit, Mockery), specifying REST as the API specification. 'WORK EXPERIENCE' details three roles: 'Cloudless, Backend Software Engineer (Remote)' (Sep 2018-present), focusing on RESTful API maintenance; 'MennoMark, Team Lead' (Sep 2017-Aug 2018), involving team management and software developer training; and 'MennoMark, Software Developer' (Jan 2018-Mar 2018), highlighting mobile app development using Kotlin and Java, along with API design and implementation using PHP/Lumen and AWS services. 'VOLUNTEER WORK' showcases leadership roles in 'Facebook Developer Circles Cape Town' and 'Cape Town Tech Meetups'. 'EDUCATION' lists a Bachelor of Science in Computer Science from Cape Town University. 'AWARDS AND ACHIEVEMENTS' include 'Developer Community Work Spotlight' and 'MasterCard Foundation Scholar'. Finally, 'SKILLS AND INTERESTS' emphasizes experience in architecture, design, software engineering tools, and object-oriented programming, and 'PERSONAL PROJECTS' describes 'bareGo', a project focused on learning software architecture and design using Go. Each section flows chronologically, with dates clearly indicating the duration of each role or achievement."
     width={650}
   />
@@ -142,7 +142,7 @@ Here is what the recruiter will scan for in the first few seconds:
 
 <Frame>
   <img
-    src="../assets/chap10-template-principles/48-edmond-smith-resume-highlights.webp"
+    src="../assets/10-template-principles/48-edmond-smith-resume-highlights.webp"
     alt="Image represents a blurred tech resume with annotations highlighting key information for assessment. The resume's content is mostly illegible, but visible sections include 'WORK EXPERIENCE' and 'EDUCATION', each followed by blurred lists of bullet points. A boxed 'Cape Town' is annotated and connected by an arrow to the text '1. Location', which is further explained as considering whether the location requires a visa or relocation. Two further boxed years, '2018' and '2017', are extracted from the resume's work experience section. '2018 - present' is highlighted, indicating a current role. These years are connected to '2. Years of experience', which explains the calculation of experience based on the first work date or education end date, estimating 2-3 years of experience in this case. The annotations use arrows to visually connect the extracted information from the resume to their respective interpretations."
     width={700}
   />
@@ -152,7 +152,7 @@ From this first scan, the recruiter notes how the candidate has at least two yea
 
 <Frame>
   <img
-    src="../assets/chap10-template-principles/49-edmond-smith-resume-analysis-diagram.webp"
+    src="../assets/10-template-principles/49-edmond-smith-resume-analysis-diagram.webp"
     alt="Image represents a tech resume analysis diagram. The left side shows a partially visible resume with key elements highlighted: 'Cape Town' (location), 'JavaScript' and 'Java' (programming languages), 'Backend Software Engineer' and 'Team Lead' roles at 'Cloudless' and 'MennoMar' respectively, 'Software Developer' role at 'MennoMar', and a 'BSc' from 'Cape Town University'. Dates (2017, 2018) are associated with work experience. Arrows connect these elements, illustrating a career progression. The right side contains two numbered sections: '3. Technologies', which asks if the listed technologies align with a hiring manager's needs, and '4. Titles & companies', which prompts reflection on career progression and notable companies or education. The diagram visually links the resume's content (technologies, roles, companies, education, and dates) to questions about its effectiveness in a job application context."
     width={700}
   />
@@ -169,7 +169,7 @@ If most of these match what the job requires, the recruiter will now start to re
 
 <Frame>
   <img
-    src="../assets/chap10-template-principles/50-edmond-smith-resume-stylized-tech-resume.webp"
+    src="../assets/10-template-principles/50-edmond-smith-resume-stylized-tech-resume.webp"
     alt="Image represents a stylized tech resume, visually highlighting key information for quick review. The top shows 'Cape Town' indicating location. Below, 'TECH STACKS' lists 'Programming Languages' with 'JavaScript', 'AWS', and 'Java' prominently displayed, followed by 'Testing'. The 'WORK EXPERIENCE' section features chronologically ordered blocks: 'Re-architected' (as Engineer, 2018), 'Managed a team' (as Team Lead at MennoMar, 2018), 'Built an app' (as Software Developer at MennoMar, using Kotlin, 2018), and 'Designed an API' (using PHP, 2018). Dates are clearly marked. The 'EDUCATION' section shows 'Cape Town University' and 'BSc' with a 'Scholarship' highlight. Finally, 'PERSONAL PROJECTS' lists 'SOLID' and 'Design patterns' along with 'bareGo'. To the right, annotations explain a typical resume review process ('Few second scan, top to bottom', 'How good of a fit would this person be for this role?') and summarizes the resume's content ('In this case: a variety of experiences. Both mobile & backend experiences. Mentions of some best practices.'). The overall arrangement is top-down, chronologically organizing work experience and highlighting key skills and projects using visual cues like boxes and bold text."
     width={700}
   />
@@ -187,7 +187,7 @@ Let’s take a look at how a good template can help visualize key pieces of info
 
 <Frame>
   <img
-    src="../assets/chap10-template-principles/51-edmond-smith-resume-improved.webp"
+    src="../assets/10-template-principles/51-edmond-smith-resume-improved.webp"
     alt="Image represents a tech resume for Edmond Smith, located in Cape Town, South Africa, with contact information including email (edmondsmith88@example.com) and a website link. The resume is structured into sections: 'TECHNOLOGIES AND LANGUAGES' lists his proficiencies (PHP, JavaScript, Java, Kotlin, Android, Angular, Laravel, etc.), 'WORK EXPERIENCE' details his roles as a Backend Software Engineer at Cloudless (Sep 2018-present), focusing on improving customer conversion and API architecture, and as a Development Team Lead at MennoMark (Jan 2017-Aug 2018), where he led teams building multiple apps and services, including those using Kotlin, Java, and various databases and APIs. The 'EDUCATION' section shows a Bachelor of Science in Computer Science from Cape Town University (2013-2017), including a scholarship mention. Finally, 'PROJECTS AND VOLUNTEER WORK' highlights his community leadership at Facebook Developer Circles, and personal projects like BareGo (a Go framework) and a REST API built with Node.js, with source code available on GitHub, and technical blogging on Dev.to. The entire document flows chronologically, starting with contact information, followed by skills, work experience (most recent first), education, and finally personal projects. Specific project details, technologies used, and quantifiable achievements are provided throughout."
     width={650}
   />
@@ -197,7 +197,7 @@ In the first scan, the recruiter will look for the same pieces of information as
 
 <Frame>
   <img
-    src="../assets/chap10-template-principles/52-edmond-smith-resume-improved-analysis_1.webp"
+    src="../assets/10-template-principles/52-edmond-smith-resume-improved-analysis_1.webp"
     alt="Image represents a tech resume diagram highlighting key elements for effective presentation. The diagram shows a partially blurred sample resume with annotations. The top section displays 'Cape Town, South Africa' (location) and a list of 'TECHNOLOGIES AND LANGUAGES' (PHP, JavaScript, Java, Kotlin, Android, Angular). Below, the 'WORK EXPERIENCE' section lists two roles: 'Backend Software Engineer' at 'Cloudless' (Sep 2018 - present) and 'Development Team Lead' at 'MennoMark' (Jan 2017 - Aug 2018). Further down, 'EDUCATION' shows 'Cape Town University' (2013-2017), and 'PROJECTS AND VOLUNTEER WORK' is also visible but blurred. Arrows connect these sections to four numbered annotations on the right: '1. Location - Immediately clear', indicating the location's prominence; '2. Years of experience - All dates stand out', emphasizing the clear presentation of dates; '3. Technologies - Relevant ones for this role are in listed upfront', highlighting the importance of upfront technology listing; and '4. Titles & companies - Clearly standing out', pointing to the visibility of job titles and company names. The overall structure demonstrates how to arrange resume components for optimal readability and impact."
     width={700}
   />
@@ -207,7 +207,7 @@ The recruiter does not need to actively search for any of this information and t
 
 <Frame>
   <img
-    src="../assets/chap10-template-principles/53-edmond-smith-resume-improved-analysis_2.webp"
+    src="../assets/10-template-principles/53-edmond-smith-resume-improved-analysis_2.webp"
     alt="Image represents a tech resume example analyzed for readability and impact. The top section lists 'TECHNOLOGIES AND LANGUAGES', including PHP, JavaScript, Java, Kotlin, and various frameworks and tools. Below, 'WORK EXPERIENCE' details two roles: Backend Software Engineer at Cloudless (Sep 2018-present), highlighting 'Improved conversion by 30%' and 'Re-architected', and Development Team Lead at MennoMark (Jan 2017-Aug 2018), emphasizing 'Led a team of 3', 'Built an app' (using Kotlin, Java, and SQLite), and 'Designed API used by 10 apps' (using PHP and AWS). The 'EDUCATION' section shows Cape Town University, mentioning a scholarship. 'PROJECTS AND VOLUNTEER WORK' lists several projects, including one involving 500 developers and 30+ events, and the creation of scalable server-side apps using HATEOAS, caching, and content negotiation. An article on Angular and Clean Code is also mentioned. To the right, text explains the recruiter's quick scan process ('Few second scan, top to bottom'), emphasizing the immediate impact of quantifiable achievements (like '30%') and the ease of reading the resume's structured format."
     width={700}
   />

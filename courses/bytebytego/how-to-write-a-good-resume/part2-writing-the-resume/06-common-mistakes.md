@@ -1,5 +1,5 @@
 ---
-title: "Chapter 6: Common Mistakes"
+title: "6. Common Mistakes"
 ---
 
 I’ve noticed certain repeating themes I am calling “mistakes” with resumes. These are areas of improvement, which almost always make resumes better. Let’s go through these.
@@ -20,7 +20,7 @@ Take a look at this resume. What seems to be issues that stand out immediately?
 
 <Frame>
   <img
-    src="../assets/chap6-common-mistakes/23-rob-oldnatie-resume.webp"
+    src="../assets/06-common-mistakes/23-rob-oldnatie-resume.webp"
     alt="Image represents a tech resume for Rob Oldnatie, a Software Developer. The resume is structured into sections: contact information (phone number: +1-123-456-7891, email: hello@example.com, LinkedIn: in/rob432) at the top; followed by 'Technical Skills' listing programming languages (Java, SQL, PL/SQL, JavaScript, Python), databases (Oracle Database, SQL Server), cloud platforms (Microsoft Azure DevOps), and technologies (REST, JSON, XML, SOAP, HTTP, Linux, Jira, Git, SVN, Docker); then 'Work Experience' detailing two roles at Line Corp in the United States. The first role, 'Software Engineer – Tax Returns' (Sep 2018 – Present), describes projects involving third-party interface development, API improvements resulting in 45% cost reduction and 80% support ticket reduction, W4 interface design, and SAP Concur interface redesign. Technologies used are listed as Java, Oracle Database, PL/SQL, Postman, T-SQL, MS SQL Server, Azure DevOps (TFS), SQL Server Studio Management, and Git. The second role, 'Software Engineer – Customer Happiness' (February 2016 – August 2018), highlights the creation of troubleshooting tools, development of a data receiving module for a mass transaction uploader, and implementation of a data restriction feature in a compensation reporting tool. Technologies/frameworks used are listed as PL/SQL Developer, SQL, JavaScript, Oracle database, Git, SVN, HTML, CSS, and Jira. The entire resume follows a clear, hierarchical structure with bullet points detailing accomplishments within each role."
     width={600}
   />
@@ -32,7 +32,7 @@ As a hiring manager, a few things immediately pop out. First, there is far too m
 
 <Frame>
   <img
-    src="../assets/chap6-common-mistakes/24-rob-oldnatie-resume-issues.webp"
+    src="../assets/06-common-mistakes/24-rob-oldnatie-resume-issues.webp"
     alt="Image represents a tech resume for Rob Oldnatie, a Software Developer. The resume is structured into sections: contact information (phone number: +1-123-456-7891, email: hello@example.com, LinkedIn: in/rob432), technical skills (listing Java, SQL, Oracle Database, and numerous other technologies and architectures), and work experience (two roles: Software Engineer – Tax Returns and Software Engineer – Customer Happiness). Each work experience section details responsibilities and accomplishments using bullet points. Red arrows connect aspects of the resume to three numbered annotations: '1. Too much bolding', indicating excessive use of bold text; '2. Inconsistent formatting', highlighting inconsistencies in the formatting style; and '3. Sloppy phrasing', pointing out instances of unclear or imprecise wording. The work experience sections include dates (Sep 2018 – Present and February 2016 – August 2018 respectively) and list technologies used in each role. The overall structure flows from personal information to skills and then chronologically through work history, with the annotations highlighting areas for improvement in presentation and clarity."
     width={700}
   />
@@ -78,7 +78,7 @@ Take a look at the following resume that is for an application for a position in
 
 <Frame>
   <img
-    src="../assets/chap6-common-mistakes/25-pam-nitlittle-resume.webp"
+    src="../assets/06-common-mistakes/25-pam-nitlittle-resume.webp"
     alt="Image represents a tech resume for Pam Nitlittle, structured in sections. At the top, personal information is displayed, including location (Barcelona, Spain), email (hello@example.com), and links to various online profiles: LinkedIn (@in/pam4211), GitHub (@pam4211), StackOverflow (@pam4211), Medium (@pam4211), Dev.to (pam4211), and Skype (pam4211). A headshot of Pam is positioned to the right. Below this contact information, a comment `<!-- Usual resume content: languages & technologies, work experience, education -->` indicates the typical content of a resume, which is then followed by a 'Languages' section listing Pam's proficiency in Turkish (mother tongue), English (fluent), German (intermediate), and Spanish (basic conversational). Finally, a 'References' section includes testimonials from John McAllister (Director Engineering at HomeCorp) and Sarah Smith (Senior Engineer at FlightScanner), each providing positive feedback on Pam's skills and work ethic. The resume concludes with a statement indicating further references are available upon request."
     width={500}
   />
@@ -88,7 +88,7 @@ Outside the core content, not many of the sections do add value. The photo intro
 
 <Frame>
   <img
-    src="../assets/chap6-common-mistakes/26-pam-nitlittle-resume-improved.webp"
+    src="../assets/06-common-mistakes/26-pam-nitlittle-resume-improved.webp"
     alt="Image represents a simplified representation of a tech resume header. At the top, the name 'Pam Nitlittle' is prominently displayed in bold, dark red font, underlined by a thin, dark red line. Below this, contact information is presented: 'Barcelona, Spain' is listed, followed by an email address 'hello@example.com', and links to LinkedIn and GitHub profiles, each indicated by underlined text. Finally, a light gray box contains a comment-style HTML tag (`<!-- -->`) enclosing a description: 'Usual resume content: languages & technologies, work experience, education'. This comment suggests that the box represents the typical content that would follow the header in a full resume, encompassing sections detailing programming languages, technologies used, work history, and educational background. There is no explicit visual connection between the header and the comment box, but the arrangement implies that the contact information and the described content are components of a complete resume."
     width={500}
   />
@@ -117,7 +117,7 @@ Take a look at a section of this resume, which contains several links.
 
 <Frame>
   <img
-    src="../assets/chap6-common-mistakes/27-sam-notohere-resume.webp"
+    src="../assets/06-common-mistakes/27-sam-notohere-resume.webp"
     alt="Image represents a tech resume for Sam Notohere, displaying contact information (email: hello@example.com and website: https://SamDev.github.io/) at the top. Below, a 'WORK EXPERIENCE' section details two roles: a current position at Cloudless as a Backend Software Engineer (Remote) since January 2019, involving RESTful API maintenance and third-party API integrations; and a previous role as Team Lead at MennoMark from March 2018 to January 2019, encompassing team management, developer training, and software delivery. Specific project details are included, such as building a mobile app (link provided: http://www.mennoInova.com/apps/farming/download) using Kotlin and SQLite. A 'PERSONAL PROJECTS' section lists two projects: `pythonGettingStarted` (GitHub link: https://github.com/gergelyorosz/PythonGettingStarted/blob/master/README.md), described as a Python learning project, and `restAPI with Node` (GitHub link: https://github.com/gergelyorosz/restApiWithNode), showcasing modern API design principles implemented using Node.js. The resume is structured chronologically, with each role and project clearly labeled and described, showcasing technical skills and accomplishments."
     width={600}
   />
@@ -127,7 +127,7 @@ This resume section contains most of the common mistakes with links. The color o
 
 <Frame>
   <img
-    src="../assets/chap6-common-mistakes/28-sam-notohere-resume-improved-v1.webp"
+    src="../assets/06-common-mistakes/28-sam-notohere-resume-improved-v1.webp"
     alt="Image represents a tech resume for Sam Notohere, with contact information 'hello@example.com, SamDev.github.io' at the top. The resume is divided into 'WORK EXPERIENCE' and 'PERSONAL PROJECTS' sections. The 'WORK EXPERIENCE' section details two roles: 'Backend Software Engineer' at Cloudless (Jan 2019-present), describing re-architecting and maintaining a RESTful API using PHP/Laravel and third-party APIs; and 'Team Lead' at MennoMark (Mar 2018-Jan 2019), outlining managing a team, onboarding new developers, and leading the development of a mobile app (using Kotlin and SQLite) and an API (using PHP/Lumen, AWS services, and Postman). The 'PERSONAL PROJECTS' section lists 'pythonGettingStarted', a project for learning Python, and 'restAPI with Node', showcasing the implementation of modern API design principles using Node.js, including HATEOAS, caching, and content negotiation. Both personal projects include links to view the code on GitHub. The resume uses bullet points to list responsibilities and accomplishments within each role and project, clearly structuring the information chronologically and by category."
     width={600}
   />
@@ -137,7 +137,7 @@ With the changes, we’ve removed the highlight colors for the links. Now, these
 
 <Frame>
   <img
-    src="../assets/chap6-common-mistakes/29-sam-notohere-resume-improved-v2.webp"
+    src="../assets/06-common-mistakes/29-sam-notohere-resume-improved-v2.webp"
     alt="Image represents a tech resume for Sam Notohere (hello@example.com, SamDev.github.io). The resume is structured into sections: 'WORK EXPERIENCE' lists two roles. The first, 'Backend Software Engineer' at 'Cloudless' (Jan 2019 – present), details re-architecting and maintaining a RESTful API using PHP/Laravel and third-party APIs. The second, 'Team Lead' at 'MennoMark' (Mar 2018 – Jan 2019), describes managing a three-developer team, training new developers, and leading the development of a mobile app (Kotlin, SQLite) and an API (PHP/Lumen, AWS RDS, Elastic Beanstalk, Postman) for the MennoInnova mobile application. The 'PERSONAL PROJECTS' section showcases two projects: 'pythonGettingStarted', a learning project with code available on GitHub, and 'restAPI with Node', demonstrating modern API design principles (HATEOAS, Caching, Content Negotiation) with code also on GitHub. Each bullet point under the work experience sections describes specific tasks and technologies used, with links to GitHub repositories provided for the personal projects. The entire document follows a clear, hierarchical structure, with section headings and bullet points to organize the information chronologically and thematically."
     width={600}
   />

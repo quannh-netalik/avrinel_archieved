@@ -1,5 +1,5 @@
 ---
-title: "Chapter 8: Polish your Resume"
+title: "8. Polish your Resume"
 ---
 
 Once you have created your “master” resume, here are a few exercises to tweak it
@@ -28,7 +28,7 @@ Your resume should read naturally: no typos, and clear grammar. The sentences sh
 
 <Frame caption="The Hemingway Editor - an excellent tool to make your resume easy to read.">
   <img
-    src="../assets/chap8-polish-your-resume/33-hemingway-app-interface.webp"
+    src="../assets/08-polish-your-resume/33-hemingway-app-interface.webp"
     alt="Image represents a screenshot of the Hemingway Editor app's interface. The left side displays instructional text explaining the app's functionality: it highlights lengthy/complex sentences in yellow and overly dense sentences in red, suggesting edits; it highlights adverbs and weakening phrases in blue, and passive voice phrases in green, offering suggestions for improvement. The text also explains how to use the toolbar for formatting and how to input and edit text. The right side shows a 'Readability' section, displaying a Grade 6 readability score, labeled 'Good', and a word count of 133. Below this, color-coded boxes summarize the text's analysis: two boxes (light blue) indicate two adverbs, meeting a goal of two or fewer; one box (light green) shows one instance of passive voice, also meeting a goal of two or fewer; one box (light purple) indicates one phrase with a simpler alternative; and two boxes (light orange) show one sentence each categorized as hard and very hard to read, respectively. The numbers preceding each description in the boxes indicate the count of each issue identified. The overall layout is a simple two-column arrangement, with the instructions on the left and the analysis results on the right, clearly showing the app's feedback based on the input text."
     width={600}
   />
@@ -63,7 +63,7 @@ Still, doing a quick check with JobScan ATS scan can give you some pointers on t
 
 <Frame>
   <img
-    src="../assets/chap8-polish-your-resume/34-resume-analysis-report.webp"
+    src="../assets/08-polish-your-resume/34-resume-analysis-report.webp"
     alt="Image represents a tech resume analysis report. The top section displays an 'OVERVIEW' with a prominent circular gauge indicating a '<20%' 'LOW MATCH RATE', accompanied by advice to add missing skills to improve the match rate (aiming for 80% or above). Below, a detailed 'ATS FINDINGS' section presents horizontal progress bars for 'ATS FINDINGS' (4/7), 'RECRUITER FINDINGS' (4/4), 'SKILLS MATCH' (6/61), 'PREMIUM FORMAT CHECKS' (1/2), and 'COVER LETTER CHECKS' (0/0). Each bar shows a green portion representing completed items and a grey portion for incomplete items, with numerical indicators (e.g., 4/7) specifying completed versus total items. Red 'X' and orange 'Δ' symbols highlight failed and warning items respectively. Further down, individual sections analyze 'SKILLS AND KEYWORDS', 'JOB TITLE MATCH', 'EDUCATION MATCH', 'ATS TIP', and 'SECTION HEADINGS', each with a checkmark (✓) or cross (✗) indicating success or failure, along with detailed explanations and suggestions for improvement. For example, 'SKILLS AND KEYWORDS' highlights missing high-value skills, while 'JOB TITLE MATCH' points out a mismatch between the resume and job description, providing specific recommendations. The 'ATS TIP' section suggests adding company name and web address for better ATS-specific tips. The overall structure shows a hierarchical breakdown of resume analysis, starting with an overall match rate and drilling down into specific areas for improvement."
     width={800}
   />

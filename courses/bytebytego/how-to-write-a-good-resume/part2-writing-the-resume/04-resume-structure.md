@@ -1,5 +1,5 @@
 ---
-title: "Chapter 4: Resume Structure"
+title: "4. Resume Structure"
 ---
 
 There are two types of software developers: ones who have gotten their first full-time job, and ones who are looking to land that first one. Based on which group you are in, recruiters and hiring managers will care about different details.
@@ -25,7 +25,7 @@ Here is a structure that could work well for a new grad, using the [Pragmatic E
 
 <Frame>
   <img
-    src="../assets/chap4-resume-structure/13-pragmatic-engineer-resume.webp"
+    src="../assets/04-resume-structure/13-pragmatic-engineer-resume.webp"
     alt="Image represents a structured template for a tech resume, organized into distinct sections separated by blue horizontal lines. The top section, 'Experience', details a 'Software Developer Intern' role at 'LogMeIn' during 'Summer 2019', with a bullet point indicating space for a summary of the internship experience emphasizing results, impact, and contributions. Below, 'Projects' lists a 'Project Name' followed by a bullet point suggesting inclusion of project details, specifics, and a project link, with a date of 'March 2019'. The 'Education and Certifications' section requests the 'Degree Name, University, locations', followed by space for 'Coursework' (listing relevant courses like data structures and algorithms), and 'Activities/Awards'. The 'Languages and Technologies' section provides bullet points for listing 'Languages', 'Technologies', and 'Others' (tools and concepts relevant to the job). Finally, the 'Interests' section offers space for a list of interests. Each section is clearly labeled, and the overall structure is designed for concise and impactful presentation of the candidate's qualifications."
     width={500}
   />
@@ -72,7 +72,7 @@ Follow these guidelines for a resume that is easy to scan, with the most relevan
 
 ## Structure with Work Experience
 
-When you are no longer freshly out of school (see [Chapter 7 - Different Experience Levels, Different Career Paths](./chapter7-diff-exp-diff-path) for guidance on structuring based on experience), follow this structure to make your resume easy to review.
+When you are no longer freshly out of school (see [Chapter 7 - Different Experience Levels, Different Career Paths](./07-diff-exp-diff-path) for guidance on structuring based on experience), follow this structure to make your resume easy to review.
 
 - **Work Experience at or near the top of the page**. Your current title, company, and past few years of work experience is something the recruiter and hiring manager will want to glance at. Make it easy by adding it to the top, or close to it.
 - **Have a Languages and Technologies section on the first page** that lists the relevant technologies. List things which you are an expert or, at the very least, proficient at. They could be domains, languages, or frameworks that the job description mentions. Don’t bother listing non-relevant technologies, or listing your skill level.
@@ -120,7 +120,7 @@ This resume is sent for a job advert for a full stack position. The job advert l
 
 <Frame>
   <img
-    src="../assets/chap4-resume-structure/before_after_01_v1.webp"
+    src="../assets/04-resume-structure/before_after_01_v1.webp"
     alt="Image represents a section of a tech resume titled 'Relevant Skills', which is organized into three bulleted lists. The first list details programming languages, including Perl, C++, Java (specified as 'expert'), HTML5, CSS3, Bootstrap, JavaScript (ES6, noted as 'proficient'), React.js ('expert'), and PHP. The second list focuses on databases, listing MySQL ('expert'), Oracle SQL, and MSSQL ('proficient'). The third list encompasses various technologies: AWS, Bitbucket, GitHub, Visual Studio, MATLAB, Eclipse, Android Studio, phpMyAdmin, Adobe Photoshop, Oracle Fusion, Rational Rose, Sublime, Trello, and Word. No connections or information flow are explicitly depicted; the items within each list are simply presented as a comma-separated enumeration of skills. The proficiency level (expert or proficient) is indicated parenthetically for some skills."
     width={700}
   />
@@ -136,7 +136,7 @@ The person is also using terms like “expert” and “proficient”. This is a
 
 <Frame>
   <img
-    src="../assets/chap4-resume-structure/before_after_01_v2.webp"
+    src="../assets/04-resume-structure/before_after_01_v2.webp"
     alt="Image represents a section of a tech resume titled 'Relevant Skills', which is organized into three bulleted lists. The first list details 'Programming languages', including Perl, C++, Java (specified as 'expert'), HTML5, CSS3, Bootstrap, JavaScript (ES6-specified as 'proficient'), React.js (specified as 'expert'), and PHP. The second list describes 'Databases', listing MySQL (specified as 'expert'), Oracle SQL, and MSSQL (specified as 'proficient'). The third list covers 'Technologies', encompassing Trello, Word, AWS, Bitbucket, GitHub, Visual Studio, MATLAB, Eclipse, Android Studio, phpMyAdmin, Adobe Photoshop, Oracle Fusion, Rational Rose, Sublime, Trello, and Word. A parenthetical note at the end of the third list clarifies that some of the listed technologies might be considered 'either trivial or overly specific'. The proficiency level (expert or proficient) is indicated for some programming languages and databases. There is no explicit flow of information between the listed items; they are simply presented as a collection of skills."
     width={700}
   />
@@ -146,7 +146,7 @@ The person is also using terms like “expert” and “proficient”. This is a
 
 <Frame>
   <img
-    src="../assets/chap4-resume-structure/before_after_01_v3.webp"
+    src="../assets/04-resume-structure/before_after_01_v3.webp"
     alt="Image represents a section of a tech resume titled 'Languages and Technologies', structured as a bulleted list. The list is divided into three sections: 'Languages', listing JavaScript, Java, HTML/CSS, PHP, and SQL; 'Technologies', listing React.js, Bootstrap, and AWS; and 'Other', which contains a highlighted phrase, 'API design, relational databases, unit, integration & E2E testing', followed by the parenthetical note '(adding skills relevant for the job listing)'. The 'Other' section suggests the addition of skills tailored to a specific job application, implying a dynamic and adaptable approach to resume building. There is no visual connection between the items in the list beyond their hierarchical arrangement under the main heading and subheadings. No URLs or parameters are present."
     width={700}
   />
@@ -166,7 +166,7 @@ Let’s look at a snippet from a resume using this approach:
 
 <Frame>
   <img
-    src="../assets/chap4-resume-structure/14-work-exp-conveying-tech_v1.webp"
+    src="../assets/04-resume-structure/14-work-exp-conveying-tech_v1.webp"
     alt="Image represents a text-based resume excerpt showcasing two distinct roles held by a Software Engineer. The top section, titled 'Software Engineer – Tax Returns', details two accomplishments: leading the development of two third-party interface projects for Microsoft and EPAM, resulting in a 45% cost reduction and on-time completion; and automating the error handling of restful APIs, decreasing client support tickets by 80%. A final bullet point lists the technologies used: Java, Swing, AWS, and MSSQL. Below this, the 'Software Engineer – Customer Happiness' section describes creating troubleshooting tools that boosted support team efficiency by over 30% and designing a data receiving module for a mass transaction uploader, pre-processing and cleaning data before file generation. This section concludes with a list of technologies employed: JavaScript, React, AWS, and MongoDB. The entire structure is a simple, vertically-oriented list of bullet points under each role heading, with no visual connections or information flow between the different sections beyond their hierarchical arrangement under the role titles."
     width={700}
   />
@@ -176,7 +176,7 @@ Let’s look at a snippet from a resume using this approach:
 
 <Frame>
   <img
-    src="../assets/chap4-resume-structure/14-work-exp-conveying-tech_v2.webp"
+    src="../assets/04-resume-structure/14-work-exp-conveying-tech_v2.webp"
     alt="Image represents a text-based resume section detailing the accomplishments of a Software Engineer under two categories: 'Software Engineer – Tax Returns' and 'Software Engineer – Customer Happiness'. The 'Tax Returns' section lists two bullet points. The first describes leading the development of two third-party interface projects for major clients (Microsoft and EPAM), completed on time and under budget (45% cost reduction), using Java and Swing. The second bullet point details automating error handling for restful APIs, resulting in an 80% reduction in support tickets, using Java, MSSQL, and deploying on an AWS stack. The 'Customer Happiness' section also contains two bullet points. The first describes creating troubleshooting tools that increased support team efficiency by over 30%, built using React and MongoDB. The second bullet point outlines designing and developing a data receiving module for a mass transaction uploader platform, using JavaScript/Node.js and deploying on AWS. The entire section is formatted as a bulleted list, with each bullet point describing a specific project, its outcome, and the technologies used. No URLs or parameters are visible."
     width={700}
   />
@@ -190,7 +190,7 @@ Here’s an example of this, where a person is applying for a position for a com
 
 <Frame>
   <img
-    src="../assets/chap4-resume-structure/15-splitting-tech_v1.webp"
+    src="../assets/04-resume-structure/15-splitting-tech_v1.webp"
     alt="Image represents a section of a tech resume detailing the candidate's skills in programming languages and technologies. The section is titled 'Languages and Technologies' and is organized into three bulleted lists. The first list, labeled 'Languages:', lists JavaScript, Java, HTML/CSS, and SQL. The second list, labeled 'Technologies:', lists React.js, Bootstrap, and AWS. The third list, labeled 'Working knowledge of:', lists Ruby, Rails, and PHP. There is no visual connection between the items in the lists beyond their hierarchical arrangement under the main section title and their respective subheadings. The information flows linearly, presenting a categorized list of the candidate's proficiency in various programming languages and technologies, with a distinction made between those the candidate is proficient in and those they have working knowledge of."
     width={700}
   />
@@ -200,7 +200,7 @@ Here’s an example of this, where a person is applying for a position for a com
 
 <Frame>
   <img
-    src="../assets/chap4-resume-structure/16-splitting-tech_v2.webp"
+    src="../assets/04-resume-structure/16-splitting-tech_v2.webp"
     alt="Image represents a bulleted list detailing a person's work experience and education. The list is structured in three columns. The left column describes the job title or educational achievement, using bullet points for each entry. These include 'Senior software engineer', 'Software engineer II', 'Software developer', 'Software developer intern', and 'BSc, Mathematics'. The middle column specifies the company or institution associated with each entry, listing 'Uber', 'Skyscanner', 'Scott Logic', 'LogMeIn', 'Sensenet', and 'Budapest University of Technology'. The rightmost column indicates the time period for each role or education, providing specific years or ranges like '2019-present', '2018-2019', '2014-2016', and '2010-2014', with summer internships noted as such. The arrangement shows a chronological progression, starting with education and moving to progressively more senior roles in the software engineering field. There is no explicit information flow between the columns; rather, each row represents a discrete data point about a specific job or educational experience."
     width={700}
   />
@@ -286,7 +286,7 @@ Take this example on two resumes for the same person. One is targeted at going b
 
 <Frame>
   <img
-    src="../assets/chap4-resume-structure/17-senior-and-above-resume1.webp"
+    src="../assets/04-resume-structure/17-senior-and-above-resume1.webp"
     alt="Image represents a tech resume for Ashley Sliden, with her email address (my_email@example.com) prominently displayed at the top. Below the contact information, a 'Summary' section provides a concise overview of her career goals, highlighting her desire to return to individual contribution as a senior software engineer after several years of leading engineering teams at a startup. This section emphasizes her renewed coding skills and strong mentorship abilities. The main body of the resume details her work experience. The first entry, spanning from 2018 to the present, lists her role as 'Head of Engineering' at TwoDrive in Berlin, Germany, with bullet points describing her accomplishments, including team growth from one to eight engineers, MVP development and subsequent releases, development environment setup with CI/CD and testing practices, and the establishment of a loosely-coupled, event-driven architecture using AWS, Kubernetes, Kafka, and Java services. The second entry, from 2016 to 2018, shows her previous position as 'Senior Engineer' at OneDrive in Amsterdam, Netherlands. The entire resume uses a clean, structured layout with clear section headings and bullet points to present her qualifications effectively."
     width={700}
   />
@@ -296,7 +296,7 @@ Take this example on two resumes for the same person. One is targeted at going b
 
 <Frame>
   <img
-    src="../assets/chap4-resume-structure/18-senior-and-above-resume2.webp"
+    src="../assets/04-resume-structure/18-senior-and-above-resume2.webp"
     alt="Image represents a tech resume for Ashley Sliden (my_email@example.com). The resume is structured chronologically, starting with a summary section highlighting Ashley's 4+ years of experience as an engineering manager, her passion for team building and business results, and her goal to scale an engineering group. Below the summary, the resume details two roles: 'Head of Engineering, TwoDrive' (2018-present) in Berlin, Germany, which includes bullet points describing achievements such as hiring a multidisciplinary team, implementing a career ladder, collaborating with the C-suite on budgeting and impact measurement, shipping an MVP and subsequent versions, and establishing best engineering practices. The second role, 'Team Lead, Senior Engineer, OneDrive' (2016-2018) in Amsterdam, Netherlands, is presented with a similar time frame and location, though specific accomplishments for this role are not shown in the provided image. The information flows chronologically from the summary to the detailed descriptions of each role, providing a clear progression of Ashley's career and accomplishments."
     width={700}
   />

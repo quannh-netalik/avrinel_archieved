@@ -1,5 +1,5 @@
 ---
-title: "Chapter 11: Resume Templates"
+title: "11. Resume Templates"
 ---
 
 A template is great help in getting started with a resume. It’s good practice to start with a tried and proven template, then customize it to your own style and preferences. In this section, we’ll review popular templates among developers-and analyze them with pros, cons and ways to improve the template, should you choose to use it.
@@ -14,7 +14,7 @@ There are several resume generator sites, like resume.io, EnhanCV, VisualCV, Res
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/54-resume-example-categories.webp"
+    src="../assets/11-resume-templates/54-resume-example-categories.webp"
     alt="Image represents a table displaying resume example categories and their respective counts. The table is divided into three columns. The left column lists various job categories, such as 'Accounting & Finance', 'Administrative', 'Beauty & Wellness', and others, each followed by a numerical value representing the number of resume examples available in that category. The middle column contains additional categories like 'Hospitality & Catering', 'Human Resource', 'Information Technology (IT)', and so on, also followed by their corresponding numerical counts. Similarly, the right column presents more categories, including 'Real Estate', 'Retail', 'Sales', and others, each with an associated numerical count. The top of the table includes the header 'Select resume example category', and a highlighted link labeled 'All categories' with the total count (277) positioned to its right. No explicit URLs or parameters are visible; the data presented is purely categorical and numerical, showing the distribution of resume examples across different professional fields."
     width={700}
   />
@@ -24,7 +24,7 @@ Out of 277 resume templates, 10 are focused on tech, and 3 on software developme
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/55-collage-eight-diff-resumes.webp"
+    src="../assets/11-resume-templates/55-collage-eight-diff-resumes.webp"
     alt="Image represents a collage of eight different resumes, each showcasing a distinct professional profile. The resumes are arranged in a grid of two rows and four columns. Each resume is clearly labeled at the top with the job title (e.g., 'Network Systems Analyst', 'Programmer', 'Web Developer', 'Film and Video Editor', 'Motion Graphics Artist', 'Software Developer', '3D Animator', 'IT Manager') and is further identified by a candidate's name (e.g., Zach Cortez, Taylor Cook, Shane Gomez). Each resume follows a consistent structure, including sections for 'Profile', 'Employment History', 'Education', 'Skills', 'Languages', and 'References'. Within each section, specific details are provided, such as job titles, company names, dates of employment, educational institutions attended, skills possessed, and contact information for references. The information is presented in a clear and organized manner, with bullet points used to list key responsibilities and accomplishments. There is no direct information flow between the resumes; they are presented independently as examples of effective resume formats. Contact information, including email addresses and phone numbers, is visible for each candidate. The resumes use a consistent visual style, with a clean and professional layout. A star rating (ranging from one to five stars) is displayed above each resume, presumably indicating a level of quality or ranking."
     width={700}
   />
@@ -36,7 +36,7 @@ Tech resume templates on resume.io. They look nice from afar, but aren’t great
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/56-taylor-cook-resume.webp"
+    src="../assets/11-resume-templates/56-taylor-cook-resume.webp"
     alt="Image represents a tech resume for Taylor Cook, a programmer. The resume is structured into sections: 'INFO' containing contact details (address: 1600 Amherst Way, Palo Alto, 94304, United States; phone: (315) 802-8179; email: taylor.cook@gmail.com; nationality: American); 'PROFILE' providing a brief summary ('Innovative Programmer and Internet Entrepreneur...'); 'SKILLS' listing key abilities (Performance Optimization, Troubleshooting and Solutions Deployment, Analytical Thinking Skills, Software Design and Development, Coding and Scripting); 'LANGUAGES' indicating proficiency in English and French; and 'EMPLOYMENT HISTORY' detailing two roles: Programmer at Johannes Initiative (Dec 2015 – Present, in Palo Alto) with bullet points describing responsibilities, and Programmer at Kindlinks, Inc. (Feb 2004 – Sep 2015, in Menlo Park, CA), also with bullet points outlining achievements. Finally, 'EDUCATION' shows a Master of Computer Science degree from Boston College (Aug 2001 – Jun 2004, in Boston). The sections are clearly labeled and arranged vertically, with information flowing sequentially from personal details to professional experience and education."
     width={700}
   />
@@ -75,7 +75,7 @@ It should be of little surprise that almost all Standard Resume templates are si
 
 <Frame caption="Resume templates from Standard Resume. Note that all but one follow the top-down template, with an easy-to-read structure and layout.">
   <img
-    src="../assets/chap11-resume-templates/57-portfolio-twelve-diff-resume-templates.webp"
+    src="../assets/11-resume-templates/57-portfolio-twelve-diff-resume-templates.webp"
     alt="Image represents a portfolio of twelve different resume templates designed for a tech professional, specifically an Aerospace Engineer named Dana Andrews. Each template is displayed as a separate card, showcasing variations in layout, style, and information presentation. The cards are arranged in a grid, with six cards in the top row and six in the bottom. Each card features a resume for Dana Andrews, highlighting her experience at SpaceX, JPL/NASA, and Boeing. The top row showcases styles labeled as 'Sidney' (Simple & Professional), 'Pender' (Minimal & Modern), 'Yow' (Traditional & Simple), 'Eton' (Minimal & Technical), 'Alexander' (Traditional & Condensed), and 'Cordova' (Bold & Elegant). The bottom row presents 'Arbutus' (Classic & Clean), 'Seymore' (Modern & Elegant), 'Keefer' (Technical & Modern), 'Georgia' (Bold & Eye-catching), 'Parker' (Simple & Modern), and 'Venables' (Traditional & Clean). A checkmark next to the 'Parker' template indicates it's the selected option. Each card's style is clearly labeled below the resume preview, providing a concise description of its visual characteristics. The resumes themselves contain consistent information regarding Dana Andrews' experience, skills, and education, but the visual presentation differs significantly across the templates."
     width={700}
   />
@@ -129,7 +129,7 @@ Let’s take a closer look at each of them.
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/resume_template_pragmatic.webp"
+    src="../assets/11-resume-templates/resume_template_pragmatic.webp"
     alt="Image represents a tech resume for Gergely Orosz, structured into sections. At the top, his name ('Gergely Orosz') is prominently displayed, along with contact information: an email address ('resume@pragmaticengineer.com') and links to his LinkedIn ('linkedin.com/in/gergelyorosz') and GitHub ('github.com/gergelyorosz') profiles. The 'Work Experience' section lists four roles in chronological order, starting with 'Senior Software Engineer' at Uber (Amsterdam, Netherlands, Sep 2018-Present), followed by 'Software Engineer II' at Skyscanner (London, UK, 2017-2018), 'Software Developer' at Skype (London, UK, 2015-2017), and 'Software Developer Intern' at LogMeIn (Budapest, Hungary, Summer 2014). Each role includes a brief description of responsibilities, emphasizing results, impact, and contribution, with additional advice on detailing accomplishments based on the recency of the position. The 'Education and Certifications' section details his M.Sc. and B.Sc. in Computer Science from the University of Munich and the University of Technology, Budapest, respectively, with corresponding years. Finally, the 'Technologies and Languages' section lists his proficiency in programming languages (Java, Go, Swift, Kotlin, and others), technologies (MySQL, Postgres, AWS, Git, and others), and other relevant skills (data structures and algorithms, and others). The entire resume is formatted in a clear, concise, and easily readable manner."
     width={700}
   />
@@ -159,7 +159,7 @@ Let’s take a closer look at each of them.
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/resume_template_parker.webp"
+    src="../assets/11-resume-templates/resume_template_parker.webp"
     alt="Image represents a tech resume for Gergely Orosz, structured into three main sections: Work Experience, Education, and Technologies and Languages. The Work Experience section lists four roles in reverse chronological order: Senior Software Engineer at Uber (Amsterdam, NL) from September 2018 to the present; Software Engineer II at Skyscanner (London, UK) from 2017 to February 2018; Software Developer at Skype (London, UK) from 2015 to 2017; and Software Developer Intern at LogMeIn (Budapest, HU) in 2014. Each role includes bullet points detailing results, impact, and contributions, with guidance on the level of detail appropriate for the recency of the position. The Education section shows an M.Sc. in Computer Science from the University of Munich (Germany) (2013-2014) and a B.Sc. in Computer Science from the University of Technology (Budapest, Hungary) (2010-2013). Finally, the Technologies and Languages section lists programming languages (Java, Go, Swift, Kotlin, and others), technologies (MySQL, Postgres, AWS, Git, and others), and other relevant skills (data structures and algorithms, and others). The information flows chronologically downwards, with the most recent experience and education listed first. No URLs or parameters are visible."
     width={700}
   />
@@ -190,7 +190,7 @@ Let’s take a closer look at each of them.
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/resume_template_mono.webp"
+    src="../assets/11-resume-templates/resume_template_mono.webp"
     alt="Image represents a tech resume for Gergely Orosz, structured into sections. The top displays contact information: `resume@pragmaticengineer.com`, location (Amsterdam, Netherlands), and links to LinkedIn and GitHub. A brief summary describes Gergely as a full-stack software engineer. The 'WORK EXPERIENCE' section lists four roles: Senior Software Engineer at Uber (Sep 2018-Present, Amsterdam), Software Engineer II at Skyscanner (2017-2018, London), Software Developer at Skype (2015-2017, London), and Software Developer Intern at LogMeIn (Summer 2014, London). Each role includes bullet points detailing results, impact, and contributions, with additional advice on content and length based on the role's recency. The 'EDUCATION' section details a MSc in Computer Science from the University of Munich (2013-2014) and a BSc in Computer Science from the Budapest University of Technology & Economics (2010-2013). Finally, 'TECHNOLOGIES AND LANGUAGES' lists programming languages (Java, Go, Swift, Kotlin, etc.), technologies (MySQL, Postgres, AWS, Git, etc.), and other skills (data structures and algorithms). The information flows chronologically, starting with the most recent work experience and education, with advice on tailoring content based on the time elapsed."
     width={700}
   />
@@ -218,7 +218,7 @@ Let’s take a closer look at each of them.
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/resume_template_smarkdown.webp"
+    src="../assets/11-resume-templates/resume_template_smarkdown.webp"
     alt="Image represents a tech resume for Richard Hendricks, structured into distinct sections. At the top, his contact information (email: richard.hendriks@mail.com, phone: (912) 555-4321, website: richardhendricks.example.com, location: San Francisco, CA) and a summary highlighting his role as CEO and Software Engineer with expertise in applied information theory and lossless compression are displayed. Below, the 'EXPERIENCE' section details his roles as CEO/President of Pied Piper (Dec 2013 - Dec 2014), describing Pied Piper's technology and his accomplishments, and as a Teacher at CoderDojo (July 2013 - Dec 2013), mentioning his award. The 'PROJECTS' section features 'Miss Direction', a mapping engine project, outlining its purpose and achievements, including an award at AIHacks 2016. The 'EDUCATION' section lists his BA in Information Technology from the University of Oklahoma (2011-2014), including his GPA and relevant coursework. Finally, the 'SKILLS' section categorizes his abilities into web development (HTML, CSS, JavaScript) and compression (Mpeg, MP4, GIF). Each section is clearly labeled and uses bullet points to list specific accomplishments, technologies used, or skills acquired. Dates are consistently provided for each role and project."
     width={700}
   />
@@ -247,7 +247,7 @@ Let’s take a closer look at each of them.
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/resume_template_experienced.webp"
+    src="../assets/11-resume-templates/resume_template_experienced.webp"
     alt="Image represents a tech resume for Gergely Orosz, displaying contact information (blog.pragmaticengineer.com, resume@pragmaticengineer.com, +1 23456 789, Amsterdam, Netherlands) and a brief summary highlighting his full-stack software engineering expertise. The main body is divided into 'WORK EXPERIENCE' and 'EDUCATION' sections. 'WORK EXPERIENCE' lists three roles: Uber, Senior Software Engineer (Amsterdam, Netherlands, Sep 2018-Present), detailing results, impact, and contributions with specific instructions on quantifying achievements and using active language; Skyscanner, Software Engineer II (London, UK, 2017-2018), similarly structured with bullet points outlining results and impact; and Skype, Software Developer (London, UK, 2015-2017), again emphasizing results and impact, but advising on reducing detail for older positions. Finally, LogMeIn (London, UK, Summer 2014) is listed with similar instructions. The 'EDUCATION' section details a MsC in Computer Science from the University of Munich (2013-2014, GPA: 4.0) and a BSc in Computer Science from Budapest University of Technology & Economics (2010-2013, Top 2% of the class). Each work experience entry includes a date range, and the resume uses bullet points to organize information under each role. The overall structure is chronological, starting with the most recent position."
     width={700}
   />
@@ -280,7 +280,7 @@ Let’s take a closer look at each of them.
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/resume_template_vendables.webp"
+    src="../assets/11-resume-templates/resume_template_vendables.webp"
     alt="Image represents a tech resume for Gergely Orosz, structured into sections. The top displays his name, 'Gergely Orosz', prominently. Below, 'Work Experience' lists four roles chronologically descending: Uber (Amsterdam, NL) as Senior Software Engineer (Sep 2018-Current), Skyscanner (London, UK) as Software Engineer II (2017-Feb 2018), Skype (London, UK) as Software Developer (2015-2017), and LogMeIn (Budapest, HU) as Software Developer Intern (2014-2014). Each role includes bullet points detailing results, impact, and contribution, with instructions on how much detail to provide based on recency. Further down, 'Education' lists University of Munich (Germany) for M.Sc. Computer Science (2013-2014) and University of Technology (Budapest, Hungary) for B.Sc. Computer Science (2010-2013). Finally, 'Technologies and Languages' categorizes his skills into 'Languages' (Java, Go, Swift, Kotlin, and others), 'Technologies' (MySQL, Postgres, AWS, Git, and others), and 'Other' (data structures and algorithms, and others). The information flows chronologically from most recent work experience to education and then to a summary of technical skills. The resume uses bullet points to organize information within each section, and bracketed placeholders '{other ...}' indicate potential additions."
     width={700}
   />
@@ -312,7 +312,7 @@ The CareerCup resume template is common to see used both for Silicon Valley soft
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/resume_template_careercup.webp"
+    src="../assets/11-resume-templates/resume_template_careercup.webp"
     alt="Image represents a chronologically-ordered tech resume for Gayle L. McDowell. The resume is structured into sections: Contact information (name, phone number, email) at the top, followed by EMPLOYMENT detailing roles at Apple Computer (Software Engineer, Intern, Summer 2004) and Microsoft Corporation (Lead Student Ambassador, Fall 2003 - Spring 2005; Software Design Engineer, Intern, Summers 2001-2003), each with bullet points describing responsibilities and quantifiable achievements. Next, EDUCATION lists degrees (M.S.E. and B.S.E. in Computer Science from the University of Pennsylvania, Fall 2000 - May 2005) and coursework. TECHNICAL EXPERIENCE highlights projects: Multi-User Drawing Tool (2004), Synchronized Calendar (2003-2004), and Operating System (2002), specifying technologies used (C++, MFC, C#.NET, SQL, XML, C). ADDITIONAL EXPERIENCE AND AWARDS section mentions teaching experience (Instructor, 2003-2005) and an award for the Synchronized Calendar project. Finally, LANGUAGES AND TECHNOLOGIES lists programming languages and software tools used. The entire resume flows chronologically, starting with the most recent experience and moving backward, with dates clearly indicated for each position and project."
     width={700}
   />
@@ -361,7 +361,7 @@ I am not a fan of two-column resumes, as they make it hard to scan from top to b
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/resume_template_serif.webp"
+    src="../assets/11-resume-templates/resume_template_serif.webp"
     alt="Image represents a tech resume template. At the top, 'Your Name' is prominently displayed in a large font, followed by a contact address including street, city, state, zip code, phone number ('(123) 456-7890'), and email address ('no_reply@example.c'). Below this, the resume is sectioned into 'EXPERIENCE', listing three past job roles, each with 'Company, Location - Job Title', followed by employment dates (e.g., 'MONTH 20XX - PRESENT' or 'MONTH 20XX - MONTH 20XX') and a brief description using placeholder text ('Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.'). An 'EDUCATION' section follows a similar format, detailing two educational experiences with 'School Name, Location - Degree', dates, and descriptive text. A 'PROJECTS' section includes a single project with 'Project Name - Detail' and a description. On the right side, 'SKILLS', 'AWARDS', and 'LANGUAGES' sections list skills, awards received, and languages known, respectively, all using placeholder text with a similar structure and format. The entire layout is clean and organized, using consistent formatting and spacing throughout."
     width={700}
   />
@@ -393,7 +393,7 @@ While I do not recommend using the [Google Docs Swiss resume](http://pragmaticu
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/resume_template_swiss.webp"
+    src="../assets/11-resume-templates/resume_template_swiss.webp"
     alt="Image represents a tech resume template. At the top, the candidate's name ('Your Name') is prominently displayed in a large font, followed by their job title ('Creative Director') in a smaller, bold, orange font. Below this, contact information is listed: a street address ('123 Your Street, Your City, ST 12345'), phone number ('123.456.7890'), and email address ('no_reply@example.com'). The resume is then sectioned into 'Skills', 'Experience', and 'Education'. The 'Skills' section currently only contains a placeholder Lorem ipsum text. The 'Experience' section lists three previous roles, each with 'Company Name / Job Title', employment dates ('MONTH 20XX - MONTH 20XX' or 'MONTH 20XX - PRESENT'), location, and a description using Lorem ipsum text. Similarly, the 'Education' section lists two entries, each with 'School Name / Degree', dates of attendance ('MONTH 20XX - MONTH 20XX'), location, and a description using Lorem ipsum text. All sections are clearly separated by horizontal lines, creating a clean and organized layout. The information flows vertically, with each section building upon the previous one, providing a chronological overview of the candidate's skills, experience, and education."
     width={700}
   />
@@ -421,7 +421,7 @@ If you have a subscription to [Canva Pro](http://pragmaticurl.com/canvapro-ttr)
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/resume_template_canva.webp"
+    src="../assets/11-resume-templates/resume_template_canva.webp"
     alt="Image represents a collage of ten diverse resumes, each showcasing a different individual's professional profile. Each resume is distinct in design and content, but all follow a similar structure including sections for personal information (name, contact details, photo), professional experience (job titles, company names, dates of employment), education (degrees, institutions), skills, and often additional sections like accomplishments, awards, or personal references. The resumes are arranged in a grid-like fashion, with no explicit connections or information flow between them. Specific details vary across the resumes, including the use of different fonts, color schemes, and layouts. Some resumes include URLs (e.g., website addresses, email addresses) and parameters like dates and job titles, while others are more concise. The overall impression is a collection of examples illustrating various styles and approaches to creating a visually appealing and informative tech resume."
     width={700}
   />
@@ -450,7 +450,7 @@ The [Software Developer Resume template](https://resume.io/resume-examples/soft
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/resume_template_resumeio.webp"
+    src="../assets/11-resume-templates/resume_template_resumeio.webp"
     alt="Image represents a tech resume for Jim Ryan, structured into distinct sections. The top displays his name and title ('Jim Ryan, Software Developer'). A 'Profile' section provides a summary of his skills and experience. 'Employment History' details two roles: 'Software Developer' at Accrue Partners (September 2013 – September 2019), with bullet points outlining responsibilities, and 'Junior Software Developer' at CyberCoders (June 2011 – August 2013), similarly detailed. An 'Education' section lists a Master of Science in Computer Science from MIT and a Bachelor of Computer Science from Dartmouth, including dates. A 'References' section provides contact information (email addresses and phone numbers) for two references from MIT. A separate 'Details' section on the right provides Jim's contact information (address, phone number, email: jim.ryan@gmail.com), nationality (American), and a categorized list of skills under the heading 'Skills', including 'Advanced Analytical Thinking', 'Programming', 'Software Logic', 'Software Troubleshooting', 'Knowledgeable in User Interface/User Experience', and 'Adaptability'. No explicit information flow is depicted; the sections are presented independently but contribute to a comprehensive overview of Jim Ryan's qualifications."
     width={700}
   />
@@ -480,7 +480,7 @@ The [Web Developer Resume template](https://resume.io/resume-examples/web-devel
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/resume_template_resumeio_web.webp"
+    src="../assets/11-resume-templates/resume_template_resumeio_web.webp"
     alt="Image represents a tech resume for Shane Gomez, a Web Developer. The resume is structured into sections: 'INFO' containing contact details (address: 422 Rosecrans St Apt#3, San Diego, 92106, United States; phone: (619) 703-9816; email: shane.gomez@gmail.com); 'PROFILE' summarizing his experience and skills (proficient in Java, ASP.NET, C#, IIS, Tomcat, and Microsoft SQL Server); 'SKILLS' listing his abilities with a dot-rating system for Visual Design Skills, User Interface/User Experience, Adaptability, Database Management, Strong Leadership Skills, and Programming; 'EMPLOYMENT HISTORY' detailing his roles as Senior Web Developer at Allen Hamilton (Aug 2011 – Sep 2019, San Diego) and Junior Web Developer at Millbank and Morrison (Aug 2008 – Jul 2011, Los Angeles), with bullet points describing responsibilities and accomplishments for each; and 'EDUCATION' showing his Master of Computer Science from the University of California at Los Angeles (Aug 2008 – May 2010, Los Angeles) and Bachelor of Computer Science from Pepperdine University (Aug 2004 – Aug 2008, Malibu). Finally, a 'REFERENCES' section is included, though details are absent. The sections are arranged vertically, with clear headings and subheadings, creating a visually organized and easily readable document. No URLs or parameters are visible."
     width={700}
   />
@@ -505,7 +505,7 @@ The [Web Developer Resume template](https://resume.io/resume-examples/web-devel
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/resume_template_skills.webp"
+    src="../assets/11-resume-templates/resume_template_skills.webp"
     alt="Image represents a skills section from a tech resume, organized vertically. The section is headed by the word 'SKILLS' in a larger font size. Below this heading, several skill categories are listed, each followed by a row of filled black circles representing the proficiency level. The categories are: 'Visual Design Skills' (with five circles), 'Knowledgeable in User Interface/User Experience' (with six circles), 'Adaptability' (with six circles), 'Database Management' (with six circles), 'Strong Leadership Skills' (with six circles), 'Programming' (with six circles), and 'Adaptability' (with six circles) again. No other information, such as URLs or parameters, is present. The number of filled circles for each skill likely indicates the level of expertise, with more circles suggesting higher proficiency. The skills are listed sequentially, with no explicit connections or hierarchical relationships shown between them."
     width={250}
   />
@@ -525,7 +525,7 @@ The [VisualCV standard template](https://www.visualcv.com/cv-templates/standard
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/resume_template_visualcv.webp"
+    src="../assets/11-resume-templates/resume_template_visualcv.webp"
     alt="Image represents a tech resume for Andrew Anderson, a Software Engineer. The resume is structured into sections: Contact information (name, location, phone, email, LinkedIn URL) is at the top right. A 'Summary' section provides a concise overview of his skills, highlighting expertise in device driver development (four years on all MS Windows OS), high-speed data acquisition, process control, signal processing, microelectronics, and troubleshooting. The 'Experience' section details two roles: 'Staff Software Engineer' at XYZ Company (2014-Present), outlining responsibilities including software design and development for a new SoftModem product, porting it to various hardware platforms and operating systems, supporting testing, and meeting Microsoft WHQL certification; and 'Systems Engineer' at ABC Company (2010-2014), focusing on software design and development for PC-based data acquisition boards, including device driver creation, API development, GUI design, and participation in testing and certification. Finally, the 'Education' section lists a 'Service Technician Certificate' from the Institute of Technology (2010-2011). Each experience entry uses bullet points to list specific accomplishments and responsibilities, demonstrating a clear flow of information showcasing his progressive career and skill development. Dates are provided for each role and education entry."
     width={700}
   />
@@ -558,7 +558,7 @@ I do not recommend the EnhanCV [Software Engineer resume](https://enhancv.com/r
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/resume_template_enhancv.webp"
+    src="../assets/11-resume-templates/resume_template_enhancv.webp"
     alt="Image represents a tech-resume for Alex Johnson, structured into distinct sections. The top features Alex's name, a brief professional summary highlighting 10 years of experience in finance and technology, contact information (URL: https://www.enhancv.com and location: San Francisco, CA), and a headshot. Below, 'IT Projects' lists three projects: 'World Best Drive Buddy' (6/2019-7/2019, GitLab URL provided), a full-stack car ride-sharing application; 'Worst Beers DataBase' (4/2019-5/2019), a full-stack beer database application; and 'Kod Takoa' (3/2019, GitLab URL provided), a work item management system. Each project details used technologies (Java, Spring MVC, various databases, etc.) and a brief description. A 'Life Philosophy' section quotes Hannibal Barca. A 'Toolbox' section lists 'Technologies' (Java, Spring MVC, MySQL, etc.) and 'Power Skills' (problem-solving, creativity, teamwork, etc.). Finally, 'Corporate Experience' details Alex's role at Amaze Corporate Events (8/2017-10/2019, Bulgaria), and 'Education' shows completion of the 'Alpha Java Track' at Telerik Academy (1/2019-7/2019, Sofia, Bulgaria). The overall layout uses a visually appealing grid system with consistent formatting and clear section headings."
     width={700}
   />
@@ -592,7 +592,7 @@ Avoid this CV template in applying for tech jobs. The biggest sin of this format
 
 <Frame>
   <img
-    src="../assets/chap11-resume-templates/resume_template_europass.webp"
+    src="../assets/11-resume-templates/resume_template_europass.webp"
     alt="Image represents a Europass-formatted CV for Gergely Orosz, applying for a Software Developer position. The top section displays personal information including a headshot, address (30 My Address, 1055AA London (Netherlands)), phone number (+11122334455), email (hello@pragmaticengineer.com), and blog URL (https://blog.pragmaticengineer.com/). Below, the 'Job Applied For' section states 'Software developer'. The 'Work Experience' section lists two roles: Senior Software Engineer at Uber (01/01/2019-Present) and Senior Software Engineer at Skyscanner (2018-2019), each with two bullet points describing responsibilities (using placeholder Lorem ipsum text). The 'Education and Training' section details a BSc in Mathematics from Budapest University of Technology (2010-2014). Finally, 'Personal Skills' are presented, showing English and Dutch language proficiency levels (B1 and A1 respectively, across listening, reading, spoken interaction, spoken production, and writing, using the Common European Framework of Reference for Languages), followed by communication skills described with two bullet points of placeholder Lorem ipsum text. The entire CV is structured vertically, with clear section headings and a consistent format, using blue accents for headings and section dividers."
     width={700}
   />

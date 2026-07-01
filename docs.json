@@ -28,34 +28,34 @@
                   "courses/bytebytego/how-to-write-a-good-resume/acknowledgements",
                   "courses/bytebytego/how-to-write-a-good-resume/introduction",
                   {
-                    "group": "Part 1: Resumes and Hiring",
+                    "group": "Part I: Resumes and Hiring",
                     "root": "courses/bytebytego/how-to-write-a-good-resume/part1-resumes-and-hiring/_index",
                     "pages": [
-                      "courses/bytebytego/how-to-write-a-good-resume/part1-resumes-and-hiring/chapter1-why-resumes-matter",
-                      "courses/bytebytego/how-to-write-a-good-resume/part1-resumes-and-hiring/chapter2-the-hiring-pipeline"
+                      "courses/bytebytego/how-to-write-a-good-resume/part1-resumes-and-hiring/01-why-resumes-matter",
+                      "courses/bytebytego/how-to-write-a-good-resume/part1-resumes-and-hiring/02-the-hiring-pipeline"
                     ]
                   },
                   {
-                    "group": "Part 2: Writing the Resume",
+                    "group": "Part II: Writing the Resume",
                     "root": "courses/bytebytego/how-to-write-a-good-resume/part2-writing-the-resume/_index",
                     "pages": [
-                      "courses/bytebytego/how-to-write-a-good-resume/part2-writing-the-resume/chapter3-tech-resume-basics",
-                      "courses/bytebytego/how-to-write-a-good-resume/part2-writing-the-resume/chapter4-resume-structure",
-                      "courses/bytebytego/how-to-write-a-good-resume/part2-writing-the-resume/chapter5-standing-out",
-                      "courses/bytebytego/how-to-write-a-good-resume/part2-writing-the-resume/chapter6-common-mistakes",
-                      "courses/bytebytego/how-to-write-a-good-resume/part2-writing-the-resume/chapter7-diff-exp-diff-path",
-                      "courses/bytebytego/how-to-write-a-good-resume/part2-writing-the-resume/chapter8-polish-your-resume",
-                      "courses/bytebytego/how-to-write-a-good-resume/part2-writing-the-resume/chapter9-beyond-the-resume"
+                      "courses/bytebytego/how-to-write-a-good-resume/part2-writing-the-resume/03-tech-resume-basics",
+                      "courses/bytebytego/how-to-write-a-good-resume/part2-writing-the-resume/04-resume-structure",
+                      "courses/bytebytego/how-to-write-a-good-resume/part2-writing-the-resume/05-standing-out",
+                      "courses/bytebytego/how-to-write-a-good-resume/part2-writing-the-resume/06-common-mistakes",
+                      "courses/bytebytego/how-to-write-a-good-resume/part2-writing-the-resume/07-diff-exp-diff-path",
+                      "courses/bytebytego/how-to-write-a-good-resume/part2-writing-the-resume/08-polish-your-resume",
+                      "courses/bytebytego/how-to-write-a-good-resume/part2-writing-the-resume/09-beyond-the-resume"
                     ]
                   },
                   {
-                    "group": "Part 3: Examples & Inspiration",
+                    "group": "Part III: Examples & Inspiration",
                     "root": "courses/bytebytego/how-to-write-a-good-resume/part3-examples-and-inspiration/_index",
                     "pages": [
-                      "courses/bytebytego/how-to-write-a-good-resume/part3-examples-and-inspiration/chapter10-template-principles",
-                      "courses/bytebytego/how-to-write-a-good-resume/part3-examples-and-inspiration/chapter11-resume-templates",
-                      "courses/bytebytego/how-to-write-a-good-resume/part3-examples-and-inspiration/chapter12-resume-improvement-examples",
-                      "courses/bytebytego/how-to-write-a-good-resume/part3-examples-and-inspiration/chapter13-hiring-manager-screening-tips"
+                      "courses/bytebytego/how-to-write-a-good-resume/part3-examples-and-inspiration/10-template-principles",
+                      "courses/bytebytego/how-to-write-a-good-resume/part3-examples-and-inspiration/11-resume-templates",
+                      "courses/bytebytego/how-to-write-a-good-resume/part3-examples-and-inspiration/12-resume-improvement-examples",
+                      "courses/bytebytego/how-to-write-a-good-resume/part3-examples-and-inspiration/13-hiring-manager-screening-tips"
                     ]
                   }
                 ]
