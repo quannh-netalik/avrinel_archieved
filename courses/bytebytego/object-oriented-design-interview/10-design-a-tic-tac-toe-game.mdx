@@ -122,7 +122,7 @@ For instance, the ScoreTracker class is solely responsible for tracking player p
 
 Below is the representation of the Game class.
 
-<Frame>
+<Frame caption="Game class">
   <img
     src="./assets/10-design-a-tic-tac-toe-game/image-10-2-KKT34U5Z.svg"
     alt="Image represents a class diagram for a `Game` class in an object-oriented design. The diagram shows the `Game` class, denoted by a 'C' in a circle, containing four private member variables: a `Board` object named `board`, a `ScoreTracker` object named `scoreTracker`, an array of `Player` objects named `players`, and an integer `currentPlayerIndex`. Below these variables, the diagram lists five public member functions: `startNewGame()`, which takes two `Player` objects as input; `makeMove()`, which takes two integers and a `Player` object; `getGameStatus()`, which returns a `GameCondition` object; `getCurrentPlayer()`, which returns a `Player` object; and `getScoreTracker()`, which returns a `ScoreTracker` object. The arrangement clearly defines the internal state (member variables) and behavior (member functions) of the `Game` class, illustrating how it manages the game board, player scores, players themselves, and the current player's turn. No external connections or data flows are depicted; the diagram focuses solely on the internal structure of the `Game` class."
@@ -136,7 +136,7 @@ The Board class represents the 3x3 game grid, which is modeled as a two-dimensio
 
 Here is the design of this class.
 
-<Frame>
+<Frame caption="Board class">
   <img
     src="./assets/10-design-a-tic-tac-toe-game/image-10-3-P2D3SDD5.svg"
     alt="Image represents a class diagram for a `Board` class in an object-oriented design. The diagram shows the `Board` class, denoted by a 'C' in a circle, containing a private two-dimensional array `Player[][] grid` representing the game board's state. The class further defines five public methods: `updateBoard(int colIndex, int rowIndex, Player player)`, which updates the board at a given location with a specified player; `Optional<Player> getWinner()`, which returns an optional Player object representing the winner (if any); `boolean isFull()`, which checks if the board is completely filled; `void reset()`, which resets the board to its initial state; and `Player getPlayerAt(int colIndex, int rowIndex)`, which retrieves the player at a given location on the board. No connections to other classes are explicitly shown in this diagram; it solely focuses on the internal structure and functionality of the `Board` class itself."
@@ -158,7 +158,7 @@ To achieve this, ScoreTracker employs a `HashMap<Player, Integer>` named playerR
 
 Here is the representation of this class.
 
-<Frame>
+<Frame caption="ScoreTracker class">
   <img
     src="./assets/10-design-a-tic-tac-toe-game/image-10-4-NLOLJLB2.svg"
     alt="Image represents a class diagram for a `ScoreTracker` class. The diagram shows the class name `ScoreTracker` enclosed in a rectangular box with rounded corners. Inside the box, a private member variable `playerRatings` is declared as a `HashMap` that stores `Player` objects as keys and their corresponding `Integer` scores as values. Below this, three public methods are defined: `reportGameResult`, which takes two `Player` objects (representing players in a game) and an optional `Player` object (the winning player) as input; `getTopPlayers`, which returns a `Map` of `Player` objects and their scores, presumably representing the top-ranked players; and `getRank`, which takes a `Player` object as input and returns an integer representing that player's rank. The diagram illustrates the internal structure and functionality of the `ScoreTracker` class, showing how it manages player scores and provides methods for reporting game results and retrieving player rankings."
@@ -172,7 +172,7 @@ When a game ends, the reportGameResult method determines the winner and updates 
 
 The Move class acts as a straightforward data structure designed to capture a player's move in the game. It stores the row and column indices where the player placed their symbol, along with a reference to the player who made the move.
 
-<Frame>
+<Frame caption="Move class">
   <img
     src="./assets/10-design-a-tic-tac-toe-game/image-10-5-VOHWWKQC.svg"
     alt="Image represents a class diagram depicting a class named 'Move'. The class is represented by a rectangular box with a large 'C' in a circle at the top-left corner, indicating it's a class. To the right of the 'C', the name 'Move' is written, signifying the class's name. Inside the rectangular box, three attributes are listed, each prefixed with a square checkbox: 'int rowlndex', 'int collndex', and 'Player player'. These attributes represent integer variables storing row and column indices, and an object of a class named 'Player', respectively. There are no methods shown in this diagram, only the attributes of the class. The diagram shows the internal structure of the 'Move' class, illustrating its data members (attributes) but not its behavior (methods). No connections or information flow to or from other classes are depicted."
@@ -186,7 +186,7 @@ By bundling these details (row, column, and player) into a single Move object, r
 
 The Player class encapsulates the core attributes of a player in the game: their name and assigned symbol (such as "X" or "O"). These attributes make it simple to identify which player is responsible for a given move.
 
-<Frame>
+<Frame caption="Player class">
   <img
     src="./assets/10-design-a-tic-tac-toe-game/image-10-6-MYLMDGQB.svg"
     alt="Image represents a class diagram depicting a `Player` class. The diagram is a rectangular box. In the top-left corner, inside a shaded circle, is the letter 'C', indicating this is a class. To the right of the 'C' is the class name, 'Player'. Below this, within the rectangular box, are two lines representing the class's attributes. The first line shows a checkbox followed by 'String name', indicating a string variable named `name`. The second line similarly shows a checkbox followed by 'char symbol', indicating a character variable named `symbol`. There are no methods or relationships shown in this diagram; it solely describes the attributes of the `Player` class."
@@ -460,7 +460,7 @@ Imagine you're playing Tic-Tac-Toe, and you accidentally place your 'X' in the w
 
 Below is the representation of the Move class.
 
-<Frame>
+<Frame caption="Move class">
   <img
     src="./assets/10-design-a-tic-tac-toe-game/image-10-8-VOHWWKQC.svg"
     alt="Image represents a class diagram depicting a class named 'Move'. The class is represented by a rectangular box with a large 'C' in a circle at the top-left corner, indicating it's a class. To the right of the 'C', the name 'Move' is written, signifying the class's name. Inside the rectangular box, three attributes are listed, each prefixed with a square checkbox: 'int rowlndex', 'int collndex', and 'Player player'. These attributes represent integer variables storing row and column indices, respectively, and an object of a class named 'Player'. There are no methods shown in this diagram, only the attributes of the class. The diagram shows the structure of the 'Move' class, indicating that each instance of this class will hold information about a move in a game, specifying its row and column coordinates and the player who made the move. No connections or information flow to or from other classes is depicted in this specific diagram."
@@ -476,7 +476,7 @@ Below is the representation of the Move class.
 
 Below is the representation of the MoveHistory class, which records the move and implements the undo functionality.
 
-<Frame>
+<Frame caption="MoveHistory class">
   <img
     src="./assets/10-design-a-tic-tac-toe-game/image-10-9-ULAMN2MF.svg"
     alt="Image represents a class diagram for a `MoveHistory` class. The diagram shows the class name 'MoveHistory' enclosed in a rectangular box, preceded by a 'C' symbol indicating it's a class. Inside the box, a private member variable `history` of type `ArrayDeque<Move>` is declared, suggesting it stores a sequence of 'Move' objects using an array deque data structure. Below this, three public methods are listed: `recordMove(Move)`, which presumably adds a new `Move` object to the `history`; `undoMove()`, which returns and removes the last `Move` object from the `history`; and `clearHistory()`, which likely empties the `history`. No connections to other classes are shown, implying `MoveHistory` is self-contained, managing its internal `history` of `Move` objects through its defined methods."

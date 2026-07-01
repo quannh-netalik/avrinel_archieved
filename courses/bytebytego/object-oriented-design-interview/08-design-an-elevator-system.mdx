@@ -205,7 +205,7 @@ By using an enum instead of arbitrary values, the system minimizes ambiguity and
 
 The UML diagram for the Direction enum is shown below:
 
-<Frame>
+<Frame caption="Direction enum">
   <img
     src="./assets/08-design-an-elevator-system/image-8-6-BODQCSS4.svg"
     alt="Image represents an enumeration (indicated by the 'E' in a circle) named 'Direction'. The enumeration is depicted as a rectangular box containing three distinct string literals: 'UP', 'DOWN', and 'IDLE', each on a separate line. These literals represent the possible values or states that the `Direction` enumeration can hold. There are no visible connections or information flows depicted beyond the internal structure of the enumeration itself; it simply defines a set of named constants. No URLs or parameters are present within the image. The overall structure is simple and clearly shows the definition of a data type with a limited set of possible values."
@@ -234,7 +234,7 @@ The general dispatching process follows three main steps:
 
 Below is the representation of this class.
 
-<Frame>
+<Frame caption="ElevatorDispatch class">
   <img
     src="./assets/08-design-an-elevator-system/image-8-7-YA4C4WND.svg"
     alt="Image represents a UML class diagram depicting the `ElevatorDispatch` class. The diagram shows the class name `ElevatorDispatch` preceded by the class symbol 'C' within a rectangular box. Inside the box, a private member variable `DispatchingStrategy strategy` is declared, indicating that the `ElevatorDispatch` class has a member variable of type `DispatchingStrategy`. Below this, a public method `dispatchElevatorCar` is defined. This method takes three parameters: an integer `floor`, a `Direction` object `direction`, and a `List<ElevatorCar>` named `elevators`. The method's purpose is to dispatch an elevator car, taking into account the requested floor, direction of travel, and a list of available elevator cars. The overall structure suggests a design pattern where the dispatching logic can be altered by changing the `DispatchingStrategy` object."
@@ -248,7 +248,7 @@ Below is the representation of this class.
 
 The DispatchingStrategy defines the specific rules for selecting an elevator car when a hallway button is pressed.
 
-<Frame>
+<Frame caption="DispatchingStrategy interface">
   <img
     src="./assets/08-design-an-elevator-system/image-8-8-B2XTQDAE.svg"
     alt="Image represents a UML diagram depicting an interface named `DispatchingStrategy`. The interface is defined by a single method, `selectElevator`, which takes three parameters: a `List<ElevatorCar>` named `elevators`, an integer `floor`, and a `Direction` object named `direction`. The method's return type is `ElevatorCar`. The `I` in a circle preceding the interface name indicates that it's an interface, implying that classes implementing this interface must provide a concrete implementation for the `selectElevator` method. The method signature suggests that the purpose of the interface is to define a strategy for selecting an appropriate elevator car from a list of available cars based on the requested floor and direction of travel."

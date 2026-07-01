@@ -177,7 +177,7 @@ The ParkingManager is responsible for managing the allocation and tracking of pa
 
 Here is the representation of the ParkingManager class.
 
-<Frame>
+<Frame caption="ParkingManager class">
   <img
     src="./assets/04-design-a-parking-lot/image-4-4-ATCFGLAV.svg"
     alt="Image represents a class diagram for a `ParkingManager` class. The diagram shows the `ParkingManager` class, denoted by a 'C' in a circle, containing two private member variables: `availableSpots`, a map where keys are `VehicleSize` and values are lists of `ParkingSpot` objects, representing available parking spots for each vehicle size; and `vehicleToSpotMap`, a map where keys are `Vehicle` objects and values are `ParkingSpot` objects, tracking which vehicle is parked in which spot. The class also includes three public methods: `findSpotForVehicle`, which takes a `Vehicle` object as input and returns a `ParkingSpot` object; `parkVehicle`, which takes a `Vehicle` object and returns a `ParkingSpot` object (presumably the spot the vehicle was parked in); and `unparkVehicle`, a void method that takes a `Vehicle` object as input and presumably removes the vehicle from the parking lot. There are no explicit connections shown to other classes beyond the data types used within the `ParkingManager` class itself (Vehicle, VehicleSize, ParkingSpot, List, Map)."
@@ -195,7 +195,7 @@ The Ticket class represents a parking ticket generated when a vehicle enters the
 
 Below is the representation of the Ticket class.
 
-<Frame>
+<Frame caption="Ticket class">
   <img
     src="./assets/04-design-a-parking-lot/image-4-5-ETXOHT27.svg"
     alt="Image represents a class diagram for a `Ticket` class within an object-oriented design context. The diagram is a rectangular box with the label 'C Ticket' at the top, indicating a class named 'Ticket'. Inside the box, five private attributes are listed, each prefixed with a square indicating private access: `String ticketId`, `Vehicle vehicle`, `ParkingSpot parkingSpot`, `LocalDateTime entryTime`, and `LocalDateTime exitTime`. These attributes store the ticket ID (a string), the vehicle associated with the ticket (a `Vehicle` object), the parking spot assigned (a `ParkingSpot` object), and the entry and exit times (both `LocalDateTime` objects). Finally, a public method is shown, indicated by a circle: `BigDecimal calculateParkingDuration()`. This method, which takes no parameters, calculates and returns the parking duration as a `BigDecimal` value. There are no connections or information flows depicted beyond the internal structure of the `Ticket` class itself."
@@ -242,7 +242,7 @@ We design the ParkingLot class as the core component of the system to act as a f
 
 Below is the representation of this class.
 
-<Frame>
+<Frame caption="ParkingLot class">
   <img
     src="./assets/04-design-a-parking-lot/image-4-7-437J73W3.svg"
     alt="Image represents a class diagram depicting a `ParkingLot` class. The diagram shows the `ParkingLot` class as a rectangle with a large 'C' in a circle at the top-left corner, indicating it's a class. Inside the rectangle, two private member variables are listed: `ParkingManager parkingManager` and `FareCalculator fareCalculator`, suggesting the `ParkingLot` class contains instances of these two other classes. Below these variables, two public methods are defined: `Ticket enterVehicle(Vehicle vehicle)`, which takes a `Vehicle` object as input and returns a `Ticket` object, and `void leaveVehicle(Ticket ticket)`, which takes a `Ticket` object as input and returns nothing (void). The arrangement shows the internal structure of the `ParkingLot` class, illustrating its composition of other classes and its interaction with vehicles and tickets through its methods. No external connections or data flows are depicted beyond the internal components of the `ParkingLot` class itself."

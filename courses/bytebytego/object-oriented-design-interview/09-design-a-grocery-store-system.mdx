@@ -131,7 +131,7 @@ The first component in our class diagram is the Item class, which represents ind
 
 Below is the representation of this class.
 
-<Frame>
+<Frame caption="Item class">
   <img
     src="./assets/09-design-a-grocery-store-system/image-9-2-I76WBLE6.svg"
     alt="Image represents a class diagram depicting a class named 'Item'. The class is represented by a rectangular box with the letter 'C' in a circle at the top-left corner, indicating it's a class. The name 'Item' is written to the right of the 'C' symbol. Inside the rectangle, four attributes are listed, each prefixed with a square checkbox: 'String name', 'String barcode', 'String category', and 'BigDecimal price'. These attributes define the data members of the 'Item' class, specifying their data types (String for name, barcode, and category; and BigDecimal for price). There are no methods or relationships shown in this diagram; it solely focuses on the attributes of the 'Item' class."
@@ -145,7 +145,7 @@ The Catalog class is responsible for maintaining a structured list of all availa
 
 The UML diagram below illustrates this structure.
 
-<Frame>
+<Frame caption="Catalog class">
   <img
     src="./assets/09-design-a-grocery-store-system/image-9-3-HNYW6M54.svg"
     alt="Image represents a class diagram depicting a `Catalog` class. The diagram is a rectangular box with the class name 'Catalog' and a 'C' symbol indicating it's a class, positioned in the upper-right corner. Inside the box, three components are listed: a private member variable `items` declared as a `Map<String, Item>`, suggesting it stores items using their string barcode as keys and `Item` objects as values. Below this, three public methods are defined: `updateltem(Item item)` (presumably updates an existing item), `removeltem(Item item)` (removes an item from the catalog), and `getItem(String barcode)` (retrieves an item based on its barcode). There are no connections or information flows depicted beyond the internal structure of the `Catalog` class itself."
@@ -159,7 +159,7 @@ Building on the Catalog class, the Inventory class is a critical component of th
 
 Here is the representation of this class.
 
-<Frame>
+<Frame caption="Inventory class">
   <img
     src="./assets/09-design-a-grocery-store-system/image-9-4-E4RVAO3P.svg"
     alt="Image represents a class diagram depicting a class named 'Inventory'. The class contains a private member variable `stock` which is a map with String keys (representing barcodes) and Integer values (representing the quantity in stock). The class also includes three public methods: `addStock`, which takes a barcode (String) and count (integer) as input and adds that quantity to the stock; `reduceStock`, which takes a barcode (String) and count (integer) and subtracts that quantity from the stock; and `getStock`, which takes a barcode (String) as input and returns an integer representing the current stock level for that barcode. The diagram visually shows the class name, member variable, and methods, clearly indicating their access modifiers (private for `stock` and public for the methods) and data types."
@@ -219,7 +219,7 @@ Now, we design the DiscountCampaign class, which models active discount campaign
 
 The UML diagram below illustrates this structure.
 
-<Frame>
+<Frame caption="DiscountCampaign class">
   <img
     src="./assets/09-design-a-grocery-store-system/image-9-7-SKQ2E4QT.svg"
     alt="Image represents a class diagram for a `DiscountCampaign` class. The diagram shows the class name `DiscountCampaign` at the top, indicated by the letter 'C' in a circle. Below this, the class contains four private member variables: `discountId` and `name` (both Strings), `criteria` (of type `DiscountCriteria`), and `calculationStrategy` (of type `DiscountCalculationStrategy`). Finally, the class includes two public methods: `isApplicable`, which takes an `Item` object as input and returns a boolean value, and `calculateDiscount`, which takes an `OrderItem` object as input and returns a `BigDecimal` value representing the calculated discount. The diagram visually depicts the internal structure of the `DiscountCampaign` class, showing its attributes and methods, and implicitly suggests a design pattern where the discount calculation logic is encapsulated within a separate `DiscountCalculationStrategy` object."
@@ -237,7 +237,7 @@ The next component is the OrderItem class, which represents a specific item in a
 
 Below is the representation of this class.
 
-<Frame>
+<Frame caption="OrderItem class">
   <img
     src="./assets/09-design-a-grocery-store-system/image-9-8-RK66CMKD.svg"
     alt="Image represents a class diagram for a `OrderItem` class. The diagram is a rectangular box with the class name 'OrderItem' and a 'C' symbol indicating it's a class, prominently displayed at the top. Below this, the diagram lists two private member variables: `Item item` (of type `Item`) and `int quantity` (an integer representing the quantity of the item). Finally, it shows two public methods: `BigDecimal calculatePrice()` which presumably calculates the price of the order item, and `BigDecimal calculatePriceWithDiscount(DiscountCampaign newDiscount)`, which calculates the price considering a discount, taking a `DiscountCampaign` object as a parameter named `newDiscount`. No connections or information flow to or from other classes is depicted; the diagram solely focuses on the internal structure and methods of the `OrderItem` class."
@@ -255,7 +255,7 @@ The Order class represents an active transaction during the checkout process. It
 
 Below is the representation of this class.
 
-<Frame>
+<Frame caption="Order class">
   <img
     src="./assets/09-design-a-grocery-store-system/image-9-9-4B4ID6DV.svg"
     alt="Image represents a class diagram for an `Order` class in an object-oriented system. The diagram shows the `Order` class, denoted by a 'C' in a circle, containing four attributes: a `String` named `orderId`, a `List<OrderItem>` named `items`, a `Map<OrderItem, DiscountCampaign>` named `appliedDiscounts`, and a `BigDecimal` named `paymentAmount`. The class also includes five methods: `addItem(OrderItem item)` which adds an item to the order; `calculateSubtotal()`, `calculateTotal()`, and `calculateChange()`, all returning a `BigDecimal` representing calculated values; and `applyDiscount(OrderItem item, DiscountCampaign discount)`, which applies a discount to a specific item in the order. The attributes describe the data held within an `Order` object, while the methods define the actions that can be performed on an `Order` object. There are no connections to other classes explicitly shown in this diagram, but the presence of `OrderItem` and `DiscountCampaign` suggests dependencies on other classes."
@@ -273,7 +273,7 @@ The Receipt class acts as the final record of a completed transaction, consolida
 
 Below is the representation of this class.
 
-<Frame>
+<Frame caption="Receipt class">
   <img
     src="./assets/09-design-a-grocery-store-system/image-9-10-DVYMNR2X.svg"
     alt="Image represents a class diagram for a 'Receipt' class in object-oriented programming. The diagram is a rectangular box with the label 'Receipt' preceded by a 'C' symbol within a circle, indicating it's a class. Inside the box, three lines define private instance variables: a String named 'receiptId', an 'Order' object named 'order', and a Date object named 'issueDate'. Below these, a line defines a public method: a function named 'printReceipt()' that returns a String. The diagram visually depicts the internal structure of the Receipt class, showing its data members (attributes) and its behavior (method) in a clear and concise manner. The use of 'String', 'Order', and 'Date' specifies the data types of the variables. The minus sign ('-') before the variables indicates private access, while the plus sign ('+') before the method indicates public access."
@@ -291,7 +291,7 @@ Moving on to the Checkout class, which encapsulates the logic for handling the c
 
 Below is the representation of this class.
 
-<Frame>
+<Frame caption="Checkout class">
   <img
     src="./assets/09-design-a-grocery-store-system/image-9-11-PL45OV3E.svg"
     alt="Image represents a class diagram depicting a `Checkout` class. The class is denoted by a rectangle divided into two sections. The top section lists two private member variables: `Order currentOrder`, representing the current order being processed, and `List<DiscountCampaign> activeDiscounts`, a list containing active discount campaigns applicable to the order. The bottom section details the class's public methods: `startNewOrder()`, initiating a new order; `addItemToOrder(Item item, int quantity)`, adding an item to the current order with its quantity; `getOrderTotal()`, returning the total amount of the current order as a `BigDecimal`; `processPayment(BigDecimal paymentAmount)`, processing a payment with a given `BigDecimal` amount; and `getReceipt()`, returning a `Receipt` object. The class is clearly identified with a 'C' symbol in a circle preceding the class name 'Checkout'. No external connections or data flows are shown; the diagram focuses solely on the internal structure and functionality of the `Checkout` class."
@@ -307,7 +307,7 @@ Below is the representation of this class.
 
 Finally, we design the GroceryStoreSystem class, which serves as a facade that simplifies interaction with the components of the system, such as the Catalog, Inventory, and Checkout. By providing a unified interface, it abstracts away the underlying complexity, making the system easier for clients to use. In an interview, this facade also allows us to validate that we have addressed the requirements by mapping them to the facade methods.
 
-<Frame>
+<Frame caption="GroceryStoreSystem class">
   <img
     src="./assets/09-design-a-grocery-store-system/image-9-12-J35DG7KF.svg"
     alt="Image represents a class diagram for a `GroceryStoreSystem`. The diagram shows a class named `GroceryStoreSystem` with a grayed-out 'C' indicating it's a class. Inside the class definition, four private member variables are listed: `Catalog catalog`, `Inventory inventory`, `List<DiscountCampaign> activeDiscounts`, and `Checkout checkout`. These represent the system's catalog of items, its inventory levels, a list of active discount campaigns, and the checkout functionality, respectively. Below the member variables, five public member functions are defined: `addOrUpdateltem(Item item)` to add or update an item; `updateInventory(String barcode, int count)` to update inventory for a given item; `addDiscountCampaign(DiscountCampaign discount)` to add a discount campaign; `removeltem(String barcode)` to remove an item; and `getItemByBarcode(String barcode)` to retrieve an item by its barcode. There are no connections or information flows depicted between the `GroceryStoreSystem` class and any other classes; it stands alone as a self-contained representation of the system's structure and functionality."

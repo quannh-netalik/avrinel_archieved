@@ -173,7 +173,7 @@ The Deck class serves as the backbone of Blackjack's card management, handling a
 
 Below is the representation of this class:
 
-<Frame>
+<Frame caption="Deck class">
   <img
     src="./assets/11-design-a-blackjack-game/image-11-5-H325QFH6.svg"
     alt="Image represents a class diagram for a `Deck` class in an object-oriented programming context. The diagram is a rectangular box with the class name 'Deck' and a 'C' symbol indicating it's a class, positioned in the upper-right corner. Inside the box, the upper section lists the class's attributes: a private integer variable `nextCardIndex` and a private `List<Card>` named `cards`, suggesting the deck holds a list of `Card` objects. The lower section details the class's methods: a `shuffle()` method (presumably to randomize the card order), a `draw()` method returning a `Card` object, a `getRemainingCardCount()` method returning an integer representing the number of cards left, an `isEmpty()` method returning a boolean indicating whether the deck is empty, and a `reset()` method (likely to restore the deck to its initial state). No connections or information flow to other classes are depicted; the diagram focuses solely on the internal structure and functionality of the `Deck` class itself."
@@ -207,7 +207,7 @@ Now that our players are set, let's look at how they'll manage their cards with 
 
 The Hand class manages the cards for a player or dealer in Blackjack, keeping track of a list of cards and calculating all possible hand values. It smartly handles Aces as either 1 or 11 to keep the hand as close to 21 as possible without going over. To support this, the class offers methods to add cards, access the card list, retrieve the possible values (stored as a sorted set to avoid duplicates), clear the hand for a new round, and determine if the hand is bust using isBust().
 
-<Frame>
+<Frame caption="Hand class">
   <img
     src="./assets/11-design-a-blackjack-game/image-11-7-B6DWCECP.svg"
     alt="Image represents a class diagram for a 'Hand' class, likely within the context of a card game. The diagram is a rectangular box with the class name 'Hand' and a 'C' symbol indicating it's a class, prominently displayed at the top. Inside the box, two private member variables are listed: `handCards`, a `List<Card>` representing a list of cards in the hand, and `possibleValues`, a `SortedSet<Integer>` representing the possible numerical values of the cards in the hand. Below the member variables, five public member functions are defined: `addCard(Card)`, which adds a card to the hand; `getCards()`, which returns the list of cards in the hand; `getPossibleValues()`, which returns the sorted set of possible values; `clear()`, which clears the hand of all cards; and `isBust()`, which returns a boolean value indicating whether the hand's value exceeds a certain limit (bust condition). The data types used, such as `List`, `SortedSet`, `Card`, and `Integer`, suggest a well-structured and type-safe design."
@@ -227,7 +227,7 @@ The BlackJackGame class is the central entity in our Blackjack game, orchestrati
 
 Here is the representation of this class.
 
-<Frame>
+<Frame caption="BlackJackGame class">
   <img
     src="./assets/11-design-a-blackjack-game/image-11-8-ZZMNPDXT.svg"
     alt="Image represents a class diagram for a BlackjackGame class in an object-oriented design. The diagram shows the `BlackJackGame` class with its internal attributes and methods. The attributes, preceded by a square, include: a `Deck` object named `deck`, a `List<Player>` named `players`, a `Player` object named `dealer`, a `Player` object named `currentPlayer`, a `Map<Player, Action>` named `playerTurnStatusMap` storing player actions, and a `GamePhase` object named `currentPhase`. The methods, preceded by a circle, include: `getNextEligiblePlayer()` which returns a `Player` object, `startNewRound()`, `dealInitialCards()`, `bet(Player, int)`, `hit(Player)`, and `stand(Player)`. There are no explicit connections or information flows depicted between the `BlackJackGame` class and other classes beyond the data types of its attributes (Deck, Player, Action, GamePhase) which imply relationships but don't show the details of those relationships."
