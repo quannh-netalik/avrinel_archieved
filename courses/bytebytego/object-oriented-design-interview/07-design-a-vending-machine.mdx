@@ -311,7 +311,6 @@ class Product {
         this.unitPrice = unitPrice;
     }
 }
-
 ```
 
 **Implementation choice:** For monetary values like the unitPrice attribute, we recommend using BigDecimal for its precision and rounding control. For an interview, it is also acceptable to use an integer to represent the smallest unit of currency (e.g., cents for US dollars) to save time. Avoid using float or double for currency, as they introduce precision/rounding errors. For identifiers like productCode, we recommend using a string rather than a numeric type in your code, even if the values are digits, you will most likely not be performing calculations, but string operations.
@@ -355,7 +354,6 @@ public class InventoryManager {
         return racks.get(name);
     }
 }
-
 ```
 
 **Rack class**
@@ -382,7 +380,6 @@ public class Rack {
         return count;
     }
 }
-
 ```
 
 ### PaymentProcessor
@@ -416,7 +413,6 @@ public class PaymentProcessor {
         return currentBalance;
     }
 }
-
 ```
 
 ### VendingMachine
@@ -524,7 +520,6 @@ class VendingMachine {
         return inventoryManager;
     }
 }
-
 ```
 
 Let's walk through the purchase process and highlight the methods' roles.
@@ -657,7 +652,6 @@ public class NoMoneyInsertedState implements VendingMachineState {
         return "No Money Inserted State - Please insert money to proceed";
     }
 }
-
 ```
 
 For brevity, the implementation of the MoneyInsertedState and DispenseState classes is omitted, but they follow the same structure.

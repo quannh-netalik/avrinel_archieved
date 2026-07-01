@@ -388,7 +388,6 @@ public class CompactSpot implements ParkingSpot {
         return VehicleSize.SMALL; // Compact spots fit small vehicles
     }
 }
-
 ```
 
 For brevity, we omit the full code of RegularSpot and OversizedSpot, but they follow a similar structure:
@@ -451,7 +450,6 @@ public class ParkingManager {
         }
     }
 }
-
 ```
 
 **findSpotForVehicle(Vehicle vehicle)**:
@@ -513,7 +511,6 @@ public class Ticket {
                         .toMinutes());
     } // getter and setter methods are omitted for brevity
 }
-
 ```
 
 ### FareStrategy and FareCalculator
@@ -557,7 +554,6 @@ public class BaseFareStrategy implements FareStrategy {
         return fare;
     }
 }
-
 ```
 
 **calculateFare(Ticket ticket, BigDecimal inputFare)**: Provides the foundational cost for the parking session, reflecting size-based pricing.
@@ -585,7 +581,6 @@ public class PeakHoursFareStrategy implements FareStrategy {
         return (hour >= 7 && hour <= 10) || (hour >= 16 && hour <= 19);
     }
 }
-
 ```
 
 **calculateFare(Ticket ticket, BigDecimal inputFare)**:
@@ -613,7 +608,6 @@ public class FareCalculator {
         return fare;
     }
 }
-
 ```
 
 **FareCalculator(`List<FareStrategy>` fareStrategies)**: Initializes with a list of strategies, setting up the rules to apply during fare calculation.
@@ -736,7 +730,6 @@ public class HandicappedSpot implements ParkingSpot {
         return VehicleSize.MEDIUM;
     }
 }
-
 ```
 
 ### Faster Parking Spot Management
@@ -802,7 +795,6 @@ public class ParkingManager {
         return spotToVehicleMap.get(spot);
     }
 }
-
 ```
 
 **Implementation Benefits:** The bidirectional mapping in ParkingManager enhances performance by adding a spotToVehicleMap alongside the vehicleToSpotMap, enabling $O(1)$ lookups from a vehicle to a parking spot and vice versa. This eliminates the need to iterate through all parked vehicles to identify the one in a given parking spot. It's especially efficient in large parking lots, where such iterations can be expensive.

@@ -355,7 +355,6 @@ public class Movie {
 
     // getter methods are omitted for brevity
 }
-
 ```
 
 The getDuration method converts the stored durationInMinutes value into a Duration object, offering a standardized and convenient way to represent and utilize the movie's length for tasks such as scheduling screenings or calculating screening durations.
@@ -381,7 +380,6 @@ public class Cinema {
     }
     // getter and setter methods are omitted for brevity
 }
-
 ```
 
 ### Room
@@ -399,7 +397,6 @@ public class Room {
     }
     // getter and setter methods are omitted for brevity
 }
-
 ```
 
 ### Layout
@@ -485,7 +482,6 @@ public class Seat {
     }
     // getter and setter methods are omitted for brevity
 }
-
 ```
 
 **Alternate Approach:** We implemented the Seat class with a PricingStrategy interface reference, delegating pricing logic to the strategy pattern. An alternative could be to store the price info directly in Seat, with an enum for seat type (e.g., NORMAL, PREMIUM). However, this would embed pricing logic in Seat, making it harder to modify and extend pricing rules without changing the class.
@@ -588,7 +584,6 @@ public class Ticket {
 
     // getter and setter methods are omitted for brevity
 }
-
 ```
 
 ### Order
@@ -616,7 +611,6 @@ public class Order {
 
     // getter and setter methods are omitted for brevity
 }
-
 ```
 
 ### ScreeningManager
@@ -831,7 +825,6 @@ public class SeatLockManager {
         }
     }
 }
-
 ```
 
 - **lockSeat(Screening, Seat, String)**: Synchronously attempts to lock a seat for a user by generating a unique lock key, cleaning up any expired locks, and checking if the seat is currently locked. If the seat is available, it creates and stores a new lock with an expiration timestamp to ensure the lock is temporary.

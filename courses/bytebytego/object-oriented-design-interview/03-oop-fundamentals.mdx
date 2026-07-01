@@ -365,7 +365,6 @@ public class Main {
         System.out.println("Concatenated string: " + result);
     }
 }
-
 ```
 
 In this example:
@@ -409,7 +408,6 @@ public class Main {
         animal2.sound(); // Cat's sound() method is called
     }
 }
-
 ```
 
 In this example:
@@ -469,7 +467,6 @@ class Employee {
         System.out.println("Payroll Report for " + name + ": $" + salary * 12);
     }
 }
-
 ```
 
 The Employee class above violates SRP because it has two responsibilities: calculating an employee's salary and generating a payroll report. This means the class could change for two unrelated reasons, i.e., updates to salary logic or changes to report formatting, making it harder to maintain.
@@ -529,7 +526,6 @@ class AreaCalculator {
         return rectangle.calculateArea();
     }
 }
-
 ```
 
 In the above example, the AreaCalculator class works only with Rectangle objects. Adding support for new shapes, like circles or triangles, would require modifying its code. This makes the system harder to maintain and prone to errors, as each new shape requires altering the core logic.
@@ -724,7 +720,6 @@ class Switch {
         bulb.turnOn();
     }
 }
-
 ```
 
 The Switch class above violates DIP because it depends directly on the low-level LightBulb class, rather than an abstraction. This tight coupling means that changing the LightBulb class, such as modifying its methods, or replacing it with another device, like a Fan, requires altering the Switch class's code. This makes the system less flexible and harder to maintain, as high-level modules should not be tied to low-level details.

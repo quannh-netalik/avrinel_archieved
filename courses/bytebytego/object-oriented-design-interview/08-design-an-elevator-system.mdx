@@ -332,7 +332,6 @@ public class ElevatorSystem {
         car.addFloorRequest(destinationFloor);
     }
 }
-
 ```
 
 The getAllElevatorStatuses method is designed to provide a consolidated view of the status of all elevators in the system. These statuses reflect real-time information about the elevator car, including its current floor and movement direction.
@@ -386,7 +385,6 @@ public class ElevatorCar {
     }
     // getters are omitted for brevity
 }
-
 ```
 
 - Once the elevator reaches the target floor, it removes that floor from the queue and checks if there are any more requests in the queue. If the queue is empty, the elevator becomes idle.
@@ -420,7 +418,6 @@ public class ElevatorDispatch {
         }
     }
 }
-
 ```
 
 **dispatchElevatorCar**: This method is used when a user on a floor presses the hallway button. It uses the DispatchingStrategy to select the most appropriate elevator. Once an elevator is selected, the floor where the request was made is added to the elevator's list of stops.
@@ -450,7 +447,6 @@ public class FirstComeFirstServeStrategy implements DispatchingStrategy {
         return elevators.get((int) (Math.random() * elevators.size()));
     }
 }
-
 ```
 
 **Shortest-Seek-Time-First Strategy**
@@ -483,7 +479,6 @@ public class ShortestSeekTimeFirstStrategy implements DispatchingStrategy {
         return bestElevator;
     }
 }
-
 ```
 
 ## Deep Dive Topics
@@ -623,7 +618,6 @@ public class ShortestSeekTimeFirstStrategy implements DispatchingStrategy {
         return bestElevator;
     }
 }
-
 ```
 
 ## Wrap Up
