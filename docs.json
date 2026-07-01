@@ -84,7 +84,8 @@
                 "group": "System Design Interview",
                 "icon": "cubes",
                 "pages": [
-                  "courses/bytebytego/system-design-interview/foreword",
+                  "courses/bytebytego/system-design-interview/00-foreword",
+                  "courses/bytebytego/system-design-interview/01-join-the-community",
                   "courses/bytebytego/system-design/scale-from-zero-to-millions-of-users"
                 ]
               }

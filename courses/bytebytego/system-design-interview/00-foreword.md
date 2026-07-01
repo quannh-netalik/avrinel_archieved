@@ -13,16 +13,3 @@ The objective of this course is to provide a reliable strategy to approach the s
 This course provides solid knowledge in building a scalable system. The more knowledge gained from reading this course, the better you are equipped in solving the system design questions.
 
 This course also provides a step by step framework on how to tackle a system design question. It provides many examples to illustrate the systematic approach with detailed steps that you can follow. With constant practice, you will be well-equipped to tackle system design interview questions.
-
-## Join the community
-
-We created a members-only Discord group. It is designed for community discussions on the following topics:
-
-- System design fundamentals.
-- Showcasing design diagrams and getting feedback.
-- Finding mock interview buddies.
-- General chat with community members.
-
-Come join us and introduce yourself to the community, today! Use the link below.
-
-Invite link: [Bytebytego - Discord](http://bit.ly/systemdiscord)
