@@ -273,7 +273,7 @@ The VendingMachine class models a vending machine's behavior, processes payments
 
 **Design pattern:** The Vending Machine uses the *Facade* pattern to provide a single interface to the clients of the Vending Machine. The term client refers to the software or hardware interfaces of the vending machine rather than any individual users.
 
-<Note>To learn more about the [Facade pattern](./04-design-a-parking-lot#facade-design-pattern) and its common use cases, refer to the **[Parking Lot](./04-design-a-parking-lot)** chapter of this chapter.</Note>
+<Note>To learn more about the [Facade Pattern](./04-design-a-parking-lot#facade-design-pattern) and its common use cases, refer to the **[Parking Lot](./04-design-a-parking-lot)** chapter of this chapter.</Note>
 
 <Card title="Design choice" type="tip" icon="clipboard-list">
   To prevent the VendingMachine class from becoming a *"god object"* (a class with too many responsibilities), facades should remain lightweight and delegate tasks to other classes that adhere to the single responsibility principle. For example, the vending machine delegates product management to the InventoryManager and payment handling to the PaymentProcessor.
