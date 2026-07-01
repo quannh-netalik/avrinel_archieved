@@ -90,7 +90,7 @@ What happened between these two versions? Five months, actually, while this pers
 
 **2. Published one of their takehome challenges as a fully-fledged project.** One of the takehome challenges was building an image search app that uses the Flickr API. They completed the challenge-though they did not get to the next interview stage, unfortunately. Still, this person took this project as an opportunity to turn it into a production-ready product, with more features, unit and UI tests, and integrated Flickr, Giphy, and Unsplash image sources.
 
-They also bought a domain to run the service on to make it stand out. The domain cost $15-a good investment for the job search. They made it look and feel professional, tested it with their friends, and submitted the finished work and code to a Reddit forum for feedback.
+They also bought a domain to run the service on to make it stand out. The domain cost \$15-a good investment for the job search. They made it look and feel professional, tested it with their friends, and submitted the finished work and code to a Reddit forum for feedback.
 
 **3. Landed a paid project on a freelancing site.** While job searching, this person responded to multiple projects on freelancing sites. They ended up getting a project with an insurance comparison small business. The project was difficult, and the client argued about the price. As this person's main goal was to get experience, they decided to not care about making a profit. Instead, they delivered high-quality work.
 

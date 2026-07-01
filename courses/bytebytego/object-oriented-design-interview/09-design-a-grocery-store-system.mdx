@@ -205,9 +205,9 @@ Below is the representation of this interface.
   />
 </Frame>
 
-**AmountBasedStrategy**: This strategy applies a fixed discount amount to the original price. For example, if the original price is $100 and the discount amount is $20, the resulting price after the discount will be $80. This approach is straightforward and is ideal for campaigns offering a constant monetary reduction.
+**AmountBasedStrategy**: This strategy applies a fixed discount amount to the original price. For example, if the original price is \$100 and the discount amount is \$20, the resulting price after the discount will be \$80. This approach is straightforward and is ideal for campaigns offering a constant monetary reduction.
 
-**PercentageBasedStrategy**: This strategy applies a percentage-based discount to the original price. For instance, if the original price is $100 and the discount percentage is 20%, the price after the discount will be $80. This strategy is particularly useful for campaigns offering proportional reductions, such as seasonal or category-based discounts.
+**PercentageBasedStrategy**: This strategy applies a percentage-based discount to the original price. For instance, if the original price is \$100 and the discount percentage is 20%, the price after the discount will be \$80. This strategy is particularly useful for campaigns offering proportional reductions, such as seasonal or category-based discounts.
 
 <Card title="Design choice" type="tip" icon="clipboard-list">
   This design is highly extensible, as new discount strategies, such as tiered discounts or "Buy X Get Y Free," can be added seamlessly without modifying the existing implementation, adhering to the Open/Closed Principle.
@@ -684,7 +684,7 @@ The current design encapsulates discount logic into two components:
 
 This design provides reusability by allowing different combinations of discount policies to be expressed without duplicating code. However, what if the interviewer asks you to implement more complex composite discounts, such as:
 
-- "If total electronics purchases exceed $100, apply a 10% discount; if they exceed $200, apply a 20% discount."
+- "If total electronics purchases exceed \$100, apply a 10% discount; if they exceed \$200, apply a 20% discount."
 - "Buy at least 3 units of the same item in the food category for a special price."
 
 These scenarios require combining multiple criteria and calculations. We can handle such complexity by enhancing the design using the Composite Pattern for criteria and the Decorator Pattern for sequential calculations.
