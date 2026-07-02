@@ -454,7 +454,7 @@ Sharding is a great technique to scale the database but it is far from a perfect
 1. A single shard could no longer hold more data due to rapid growth.
 2. Certain shards might experience shard exhaustion faster than others due to uneven data distribution.
 
-When shard exhaustion happens, it requires updating the sharding function and moving data around. [[06 Design Consistent Hashing|Consistent hashing]] is a commonly used technique to solve this problem.
+When shard exhaustion happens, it requires updating the sharding function and moving data around. [Consistent hashing](./06-design-consistent-hashing) is a commonly used technique to solve this problem.
 
 **Celebrity problem**: This is also called a hotspot key problem. Excessive access to a specific shard could cause server overload. Imagine data for Katy Perry, Justin Bieber, and Lady Gaga all end up on the same shard. For social applications, that shard will be overwhelmed with read operations. To solve this problem, we may need to allocate a shard for each celebrity. Each shard might even require further partition.
 
