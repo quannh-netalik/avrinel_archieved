@@ -66,7 +66,7 @@ Does a web crawler work truly as simple as this basic algorithm? Not exactly. De
     {
       speaker: "Interviewer",
       align: "left",
-      text: "HTML only..",
+      text: "HTML only.",
     },
     {
       speaker: "Candidate",
@@ -86,7 +86,7 @@ Does a web crawler work truly as simple as this basic algorithm? Not exactly. De
     {
       speaker: "Interviewer",
       align: "left",
-      text: "Yes, up to 5 years",
+      text: "Yes, up to 5 years.",
     },
     {
       speaker: "Candidate",
@@ -100,7 +100,6 @@ Does a web crawler work truly as simple as this basic algorithm? Not exactly. De
     },
   ]}
 />
-
 
 Above are some of the sample questions that you can ask your interviewer. It is important to understand the requirements and clarify ambiguities. Even if you are asked to design a straightforward product like a web crawler, you and your interviewer might not have the same assumptions.
 
