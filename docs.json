@@ -93,6 +93,13 @@
                   "courses/bytebytego/system-design-interview/04-a-framework-for-sd-interview",
                   "courses/bytebytego/system-design-interview/05-design-a-rate-limiter"
                 ]
+              },
+              {
+                "group": "Mobile System Design Interview",
+                "icon": "mobile-screen",
+                "pages": [
+                  "courses/bytebytego/mobile-system-design-interview/11-quick-reference-sheet"
+                ]
               }
             ]
           }
