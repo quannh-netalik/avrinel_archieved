@@ -16,7 +16,9 @@
         "tabs": [
           {
             "tab": "Home",
-            "pages": ["index"]
+            "pages": [
+              "index"
+            ]
           },
           {
             "tab": "Bytebytego",
@@ -88,7 +90,8 @@
                   "courses/bytebytego/system-design-interview/01-join-the-community",
                   "courses/bytebytego/system-design-interview/02-scale-from-zero-to-millions-of-users",
                   "courses/bytebytego/system-design-interview/03-back-of-the-envelope-estimation",
-                  "courses/bytebytego/system-design-interview/04-a-framework-for-sd-interview"
+                  "courses/bytebytego/system-design-interview/04-a-framework-for-sd-interview",
+                  "courses/bytebytego/system-design-interview/05-design-a-rate-limiter"
                 ]
               }
             ]
@@ -104,13 +107,19 @@
             "groups": [
               {
                 "group": "Getting Started",
-                "pages": ["analytics/quickstart", "analytics/setup"]
+                "pages": [
+                  "analytics/quickstart",
+                  "analytics/setup"
+                ]
               }
             ]
           },
           {
             "tab": "API",
-            "pages": ["analytics/api/events", "analytics/api/reports"]
+            "pages": [
+              "analytics/api/events",
+              "analytics/api/reports"
+            ]
           }
         ]
       }
