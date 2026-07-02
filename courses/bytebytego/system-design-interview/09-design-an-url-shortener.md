@@ -174,7 +174,7 @@ In the high-level design, everything is stored in a hash table. This is a good s
   <img
     src="./assets/09-design-an-url-shortener/figure-8-4-3R6D55TD.svg"
     alt="Image represents a simplified relational database table schema, likely for a URL shortening service. The table is named 'url' and contains three columns. The first column, labeled 'PK' (Primary Key), indicates that the 'id' column serves as the unique identifier for each row. The 'id' column itself presumably holds a unique integer representing each shortened URL entry. The second column, 'shortURL', stores the shortened URL string, and the third column, 'longURL', stores the corresponding original, longer URL string. No information flows between the columns; rather, each row represents a single mapping between a short URL and its long URL counterpart. The table structure suggests that given a shortURL, one can retrieve the corresponding longURL, and vice-versa, using the 'id' as the primary key for efficient lookups."
-    width={450}
+    width={150}
   />
 </Frame>
 
