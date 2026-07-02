@@ -509,7 +509,7 @@ First, multi-data center setup is crucial for a rate limiter because latency is 
   />
 </Frame>
 
-Second, synchronize data with an eventual consistency model. If you are unclear about the eventual consistency model, refer to the [[07 Design A Key-value Store#Consistency|Consistency]] section in the [[07 Design A Key-value Store|Design a Key-value Store]] chapter.
+Second, synchronize data with an eventual consistency model. If you are unclear about the eventual consistency model, refer to the [Consistency](./07-design-a-key-value-store#consistency) section in the [Design a Key-value Store](./07-design-a-key-value-store) chapter.
 
 ### Monitoring
 
