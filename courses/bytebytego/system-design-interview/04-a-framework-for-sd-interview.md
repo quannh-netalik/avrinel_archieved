@@ -142,7 +142,7 @@ Should we include API endpoints and database schema here? This depends on the pr
 
 #### Example
 
-Let us use "Design a news feed system" to demonstrate how to approach the high-level design. Here you are not required to understand how the system actually works. All the details will be explained in the [[12 Design A News Feed System|Design A News Feed System]] chapter.
+Let us use "Design a news feed system" to demonstrate how to approach the high-level design. Here you are not required to understand how the system actually works. All the details will be explained in the [Design A News Feed System](./12-design-a-newsfeed-system) chapter.
 
 At the high level, the design is divided into two flows: feed publishing and news feed building.
 
@@ -178,7 +178,7 @@ At this step, you and your interviewer should have already achieved the followin
 - Obtained feedback from your interviewer on the high-level design
 - Had some initial ideas about areas to focus on in deep dive based on her feedback
 
-You shall work with the interviewer to identify and prioritize components in the architecture. It is worth stressing that every interview is different. Sometimes, the interviewer may give off hints that she likes focusing on high-level design. Sometimes, for a senior candidate interview, the discussion could be on the system performance characteristics, likely focusing on the bottlenecks and resource estimations. In most cases, the interviewer may want you to dig into details of some system components. For URL shortener, it is interesting to dive into the hash function design that converts a long URL to a short one. For a chat system, how to reduce latency and how to support online/offline status are two interesting topics discussed in the [[13 Design A Chat System|Design a Chat System]] chapter.
+You shall work with the interviewer to identify and prioritize components in the architecture. It is worth stressing that every interview is different. Sometimes, the interviewer may give off hints that she likes focusing on high-level design. Sometimes, for a senior candidate interview, the discussion could be on the system performance characteristics, likely focusing on the bottlenecks and resource estimations. In most cases, the interviewer may want you to dig into details of some system components. For URL shortener, it is interesting to dive into the hash function design that converts a long URL to a short one. For a chat system, how to reduce latency and how to support online/offline status are two interesting topics discussed in the  [Design a Chat System](./13-design-a-chat-system) chapter.
 
 Time management is essential as it is easy to get carried away with minute details that do not demonstrate your abilities. You must be armed with signals to show your interviewer. Try not to get into unnecessary details. For example, talking about the EdgeRank algorithm of Facebook feed ranking in detail is not ideal during a system design interview as this takes much precious time and does not prove your ability in designing a scalable system.
 
@@ -189,7 +189,7 @@ At this point, we have discussed the high-level design for a news feed system, a
 1. Feed publishing
 2. News feed retrieval
 
-Figure 3 and Figure 4 show the detailed design for the two use cases, which will be explained in detail in the [[12 Design A News Feed System|Design A News Feed System]] chapter.
+Figure 3 and Figure 4 show the detailed design for the two use cases, which will be explained in detail in the [Design A News Feed System](./12-design-a-newsfeed-system) chapter.
 
 <Frame caption="Figure 3">
   <img
