@@ -44,7 +44,7 @@ The first set of clarification questions are to understand what the interviewer 
     {
       speaker: "Candidate",
       align: "right",
-      text: " Is the news feed sorted by reverse chronological order or any particular order such as topic scores? For instance, posts from your close friends have higher scores.",
+      text: "Is the news feed sorted by reverse chronological order or any particular order such as topic scores? For instance, posts from your close friends have higher scores.",
     },
     {
       speaker: "Interviewer",
