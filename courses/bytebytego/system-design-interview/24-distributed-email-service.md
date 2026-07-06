@@ -635,7 +635,7 @@ Congratulations on getting this far! Now give yourself a pat on the back. Good j
 
 ## Chapter Summary
 
-<Frame caption="Chapter Summary">
+<Frame>
   <img
     src="./assets/24-distributed-email-service/chapter-summary-MSPMW4ME.png"
     alt="Image represents a mind map outlining the design process for an email server system. The central node is 'Email Servers', branching into four main steps. Step 1 details functional requirements (sending/receiving, fetching, filtering, searching, anti-spam) and non-functional requirements (reliability, extensibility, scalability). Step 2 covers email knowledge, including protocols (POP, IMAP, SMTP), DNS/MX record lookup, attachment handling (MIME), and architectural choices between traditional and distributed mail servers, along with high-level design considerations for sending and receiving email flows. Step 3 focuses on database design, including metadata database choices, email deliverability strategies, search implementation (Elasticsearch or custom), and considerations for scalability, availability, and fault tolerance, addressing potential issues like node failures and network delays. Finally, step 4 addresses compliance (PII, GDPR), security (phishing protection, encryption), and optimizations (handling multiple recipients). Each branch connects to sub-branches representing specific aspects of the design, creating a hierarchical structure that visually represents the design process's progression and interconnectedness of various components."

@@ -618,7 +618,7 @@ Congratulations on getting this far! Now give yourself a pat on the back. Good j
 
 ## Chapter Summary
 
-<Frame caption="Chapter Summary">
+<Frame>
   <img
     src="./assets/27-payment-system/chapter-summary-IBDWNX6M.webp"
     alt="Image represents a hierarchical tree diagram outlining the design of a Payment Service. The root node is 'Payment Service', branching into four main steps (step 1, step 2, step 3, step 4). Step 1 focuses on requirements, splitting into 'functional req' (with sub-branches 'pay-in flow' and 'pay-out flow') and 'non-functional req' (with sub-branches 'reliability: handle failed payments' and 'reconciliation'). Step 1 also includes an 'estimation' branch connected to '10 TPS' indicating a throughput target. Step 2 details the 'pay-in flow' and 'pay-out flow' components, further breaking down 'pay-in flow' into 'payment service', 'payment executor', 'payment service provider', 'card scheme', 'ledger', and 'wallet', and 'pay-out flow' connecting to a 'third-party service' for PSP integration. Step 3 addresses aspects like 'reconciliation', 'handling payment processing delays', 'communication among internal services', and 'handle failed payments', the latter branching into 'keep payment safe' (with sub-branches 'retry queue and dead letter queue') and 'retry'. Finally, Step 3 also includes 'exactly-once delivery', 'consistency', and 'payment security'. Step 4 simply concludes with 'wrap up', suggesting finalization or deployment considerations. The entire diagram illustrates a top-down breakdown of the Payment Service design, from high-level requirements and flows to detailed implementation considerations and error handling mechanisms."

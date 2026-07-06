@@ -849,7 +849,7 @@ Congratulations on getting this far! Now give yourself a pat on the back. Good j
 
 ## Chapter Summary
 
-<Frame caption="Chapter Summary">
+<Frame>
   <img
     src="./assets/25-s3-like-object-storage/chapter-summary-CM6JBEGR.webp"
     alt="Image represents a mind map outlining the design process for an S3-like object storage system. The central node is 'S3-like Object Storage', branching into four numbered steps. Step 1 details 'functional requirements', including bucket creation, object uploading/downloading, object versioning, and listing objects within a bucket. It also lists 'non-functional requirements', specifying 100PB data capacity, 6 nines of durability, and 4 nines of availability, along with storage efficiency. Step 2 focuses on the 'high-level design' of uploading and downloading objects. Step 3 delves into the 'data store', encompassing data persistence flow, how data is organized, durability (achieved through replication and erasure coding), and correctness verification. This step also addresses the 'metadata data model', including schema design and scaling strategies for both bucket and object tables, along with object versioning, optimization for large file uploads, and garbage collection. Finally, step 4 simply notes 'wrap up'. The connections between nodes illustrate the hierarchical breakdown of the design process, from high-level requirements to low-level implementation details."

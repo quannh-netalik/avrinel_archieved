@@ -652,7 +652,7 @@ Congratulations on getting this far! Now give yourself a pat on the back. Good j
 
 ## Chapter Summary
 
-<Frame caption="Chapter Summary">
+<Frame>
   <img
     src="./assets/21-metrics-monitoring-and-alerting-system/chapter-summary-W7L5LHM3.webp"
     alt="Image represents a mind map outlining the design process for a Metric Monitoring system. The central node is 'Metric Monitoring', branching into four main steps. Step 1 focuses on requirements, splitting into 'functional req' (collect metrics, alert, visualization) and 'non-functional req' (large-scale system, reliability, flexibility). Step 2 details the system's five components (data collection, transmission, storage, alert, visualization). Step 3 delves into the system's design, including the data model (access pattern: write-heavy/read-bursty, storage system: time-series database), high-level design (metrics collection: pull vs. push, transmission pipeline with Kafka options), query service (cache layer, time-series database query), and storage layer (time-series database, space optimization). Finally, step 4 concludes with a 'wrap up', encompassing the alerting system and visualization. Connections between nodes represent hierarchical relationships and design choices, showing the flow of information and decision-making throughout the design process. Specific technologies like Kafka and time-series databases are explicitly mentioned as design considerations."

@@ -796,7 +796,7 @@ Congratulations on getting this far! Now give yourself a pat on the back. Good j
 
 ## Chapter Summary
 
-<Frame caption="Chapter Summary">
+<Frame>
   <img
     src="./assets/19-google-maps/chapter-summary-PQLESOHW.webp"
     alt="Image represents a hierarchical breakdown of the design process for Google Maps, structured as a tree diagram. The root node is 'Google Maps', branching into four main steps (Step 1, Step 2, Step 3, Step 4). Step 1 focuses on requirements gathering, splitting into 'functional req' (user location update, navigation service, map rendering) and 'non-functional req' (highly accurate, smooth navigation, data usage), along with an 'estimation' branch considering storage and server traffic, and a 'positioning system' branch. Step 2 delves into map data processing ('map 101'), encompassing geocoding, geohashing, and routing tiles. Step 3 details the high-level design, focusing on data (user location, places, precomputed images) and services (location service, navigation service, map rendering). The location service branch further explains how location data is used, while the map rendering branch details the use of precomputed tiles and vectors. Finally, Step 4 ('wrap up') involves the navigation service, encompassing geocoding, route planning, shortest-path algorithms, ETA service, and adaptive ETA and rerouting functionalities. The entire diagram illustrates a top-down approach to system design, progressing from requirements to detailed service specifications."

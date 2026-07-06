@@ -728,7 +728,7 @@ Congratulations on getting this far! Now give yourself a pat on the back. Good j
 
 ## Chapter Summary
 
-<Frame caption="Chapter Summary">
+<Frame>
   <img
     src="./assets/26-real-time-gaming-leaderboard/chapter-summary-DXV7IGUO.png"
     alt="Image represents a mind map outlining the design process for a gaming leaderboard system. The central node is 'Gaming Leaderboard', branching into four main steps (step 1, 2, 3, and 4). Step 1 focuses on requirements, splitting into 'functional req' (display top 10, show a user's rank, show four places above and below the desired user) and 'non-functional req' (real-time update, scalable). Step 1 also includes 'estimation', detailing expected daily active users (5 million DAU) and update score queries per second (2.5k). Step 2 addresses 'api design' (score point, get leaderboard, get player rank) and 'high-level design', which considers 'data model' options: a relational database solution or a Redis solution. Step 3 explores deployment ('build on the cloud or not') and scaling ('scale Redis' or use an alternative NoSQL solution). Finally, step 4 addresses performance optimization ('faster retrieval and breaking tie') and system reliability ('system failure recovery'). The entire diagram illustrates a hierarchical breakdown of the design process, from initial requirements and estimations to high-level design choices, data modeling, scaling strategies, and considerations for system robustness."
