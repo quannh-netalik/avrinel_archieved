@@ -565,7 +565,7 @@ This problem can be addressed by verifying checksums <FootnoteRef id="25" /> bet
   <img
     src="./assets/25-s3-like-object-storage/figure-18-generate-checksum-TOHMO3NC.svg"
     alt="Image represents a data flow diagram illustrating the process of checksum generation. The diagram begins with a labeled box titled 'Data' containing three lines of binary data: '011010101010110', '1010010101001', and '01000100010100'. An arrow points from this data box to a rectangular box labeled 'Checksum algorithm'. This box represents the computational process where the input binary data is processed using a checksum algorithm. Another arrow extends from the 'Checksum algorithm' box to a final box labeled 'Checksum', which contains the resulting hexadecimal checksum 'F7 33 51 1B 9D F6'. The arrows indicate the unidirectional flow of data: the binary data is input into the algorithm, and the resulting checksum is the output."
-    width={400}
+    width={550}
   />
 </Frame>
 
@@ -578,7 +578,7 @@ If we know the checksum of the original data, we can compute the checksum of the
   <img
     src="./assets/25-s3-like-object-storage/figure-19-compare-checksums-CQGRDK6J.svg"
     alt="Image represents a data integrity check using checksums. Two rectangular boxes are shown, the left one labeled 'Checksum of the original data' containing the hexadecimal value 'F7 33 51 1B 9D F6', and the right one labeled 'Checksum of the received data' containing the identical hexadecimal value 'F7 33 51 1B 9D F6'. An arrow labeled 'Compare' connects the two boxes, indicating that the checksum of the original data is compared to the checksum of the received data. The implication is that if the checksums match, as they do in this image, the data has been transmitted without error."
-    width={400}
+    width={500}
   />
 </Frame>
 
@@ -755,7 +755,7 @@ Figure 23 explains how to upload a versioned object. For this to work, we first 
   <img
     src="./assets/25-s3-like-object-storage/figure-22-object-versioning-RHMOOBIT.svg"
     alt="Image represents a system architecture diagram for object storage. A user initiates an HTTP PUT object request (①), which is first handled by a load balancer distributing the request to an API Service. The API Service then interacts with an Identity Service (②) for user authentication and authorization. After successful authentication, the API Service checks (④) if the object exists and if versioning is enabled. Next, the object is uploaded (③) to a Storage Service, which is replicated across a primary and two secondary Storage Nodes forming the Data Store. Concurrently, the API Service creates object metadata (⑤) and stores it in a Metadata Service, which persists the data in a Metadata DB. The Metadata Service is responsible for managing object metadata, while the Storage Services handle the actual object storage and replication for high availability. The entire system is designed for robust object storage with features like authentication, versioning, and data redundancy."
-    width={600}
+    width={650}
   />
 </Frame>
 
@@ -769,7 +769,7 @@ Figure 23 explains how to upload a versioned object. For this to work, we first 
   <img
     src="./assets/25-s3-like-object-storage/figure-23-versioned-metadata-RKJ5JZER.svg"
     alt="Image represents a system for versioning data, showing a 'Metadata Store' and a 'Data Store'. The Metadata Store contains three entries, each representing a version of a data object named 'script.txt'. Each entry includes an `object_version` (e.g., 'fas3', 'bn31', '1ag1') and an `object_id` (e.g., '0xM13n', '0x12Ha', '0x91b4'). Dashed arrows indicate that the `object_version` entries in the Metadata Store are linked to previous versions, with 'fas3' representing the current version and '1ag1' the oldest. Solid arrows show that each `object_version` entry points to a corresponding entry in the Data Store, which contains the actual data object identified by its `object_id`. The Data Store shows three data objects, each represented by a rectangle connected to its corresponding `object_id` in the Metadata Store. The overall structure illustrates how metadata tracks different versions of data objects, allowing retrieval of specific versions based on their version identifier."
-    width={500}
+    width={600}
   />
 </Frame>
 
@@ -781,7 +781,7 @@ When we delete an object, all versions remain in the bucket and we insert a dele
   <img
     src="./assets/25-s3-like-object-storage/figure-24-delete-object-by-inserting-a-delete-marker-NTTDXHAH.svg"
     alt="Image represents a system for managing object versions, showing a 'Metadata Store' and a 'Data Store'. The Metadata Store contains entries for each object version, including the `object_version` (e.g., `kk1h`, `fas3`, `bn31`, `1ag1`), `object_name` (always 'script.txt'), and `object_id` (e.g., `0xM13n`, `0x12Ha`, `0x91b4`). The current version (`object_version = kk1h`) is explicitly labeled, and a previous current version (`object_version = fas3`) is also indicated. A pink-filled box labeled 'Delete Marker' is associated with the current version in the Metadata Store. Dashed arrows indicate the relationship between the previous current versions and their entries in the Metadata Store. Solid arrows show the connection between the `object_version` in the left column and the corresponding entry in the Metadata Store. The Data Store contains entries linked to the `object_id` from the Metadata Store, each connected by a dashed arrow. Each `object_id` in the Data Store corresponds to a specific object version, and each entry in the Data Store is represented by a simple box, suggesting the actual object data is stored there. The overall structure illustrates how metadata tracks object versions and their corresponding data locations within the Data Store."
-    width={500}
+    width={600}
   />
 </Frame>
 
