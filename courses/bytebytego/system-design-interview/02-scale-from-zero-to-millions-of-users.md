@@ -41,16 +41,16 @@ Next, let us examine the traffic source. The traffic to your web server comes fr
 
 ```json GET /users/12 – Retrieve user object for id = 12
 {
-    "id": 12,
-    "firstName": "John",
-    "lastName": "Smith",
-    "address": {
-        "streetAddress": "21 2nd Street",
-        "city": "New York",
-        "state": "NY",
-        "postalCode": 10021
-    },
-    "phoneNumbers": ["212 555-1234", "646 555-4567"]
+  "id": 12,
+  "firstName": "John",
+  "lastName": "Smith",
+  "address": {
+    "streetAddress": "21 2nd Street",
+    "city": "New York",
+    "state": "NY",
+    "postalCode": 10021
+  },
+  "phoneNumbers": ["212 555-1234", "646 555-4567"]
 }
 ```
 
