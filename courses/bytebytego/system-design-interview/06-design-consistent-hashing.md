@@ -14,7 +14,7 @@ If you have *n* cache servers, a common way to balance the load is to use the 
 
 Let us use an example to illustrate how it works. As shown in Table 1, we have 4 servers and 8 string keys with their hashes.
 
-*Table 1: Hash Modulo N Distribution*
+*Table 1 Hash Modulo N Distribution*
 
 | **key** | **hash** | **hash % 4** |
 | :-----: | :------: | :----------: |
@@ -39,7 +39,7 @@ To fetch the server where a key is stored, we perform the modular operation *f(
 
 This approach works well when the size of the server pool is fixed, and the data distribution is even. However, problems arise when new servers are added, or existing servers are removed. For example, if server 1 goes offline, the size of the server pool becomes 3. Using the same hash function, we get the same hash value for a key. But applying modular operation gives us different server indexes because the number of servers is reduced by 1. We get the results as shown in Table 2 by applying *hash % 3*:
 
-*Table 2: Hash Modulo N After Server Removal*
+*Table 2 Hash Modulo N After Server Removal*
 
 | **key** | **hash** | **hash % 3** |
 | :-----: | :------: | :----------: |

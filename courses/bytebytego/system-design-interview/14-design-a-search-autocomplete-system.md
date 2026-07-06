@@ -156,7 +156,7 @@ Assume we have a frequency table as shown in Table 1. It has two fields.
 - **Query**: it stores the query string.
 - **Frequency**: it represents the number of times a query has been searched.
 
-*Table 1: Frequency table*
+*Table 1 Frequency table*
 
 | **Query**      | **Frequency** |
 | -------------- | ------------- |
@@ -226,7 +226,7 @@ Figure 5 shows a trie with search queries "tree", "try", "true", "toy", "wish", 
 
 Basic trie data structure stores characters in nodes. To support sorting by frequency, frequency info needs to be included in nodes. Assume we have the following frequency table.
 
-*Table 2: Frequency table example*
+*Table 2 Frequency table example*
 
 | **Query** | **Frequency** |
 | --------- | ------------- |
@@ -332,7 +332,7 @@ Figure 9 shows the redesigned data gathering service. Each component is examined
 
 **Analytics Logs.** It stores raw data about search queries. Logs are append-only and are not indexed. Table 3 shows an example of the log file.
 
-*Table 3: Log file example*
+*Table 3 Log file example*
 
 | **query** | **time**            |
 | --------- | ------------------- |
@@ -351,7 +351,7 @@ Depending on the use case, we may aggregate data differently. For real-time appl
 
 Table 4 shows an example of aggregated weekly data. "time" field represents the start time of a week. "frequency" field is the sum of the occurrences for the corresponding query in that week.
 
-*Table 4: Aggregated weekly data example*
+*Table 4 Aggregated weekly data example*
 
 | **query** | **time**   | **frequency** |
 | --------- | ---------- | ------------- |

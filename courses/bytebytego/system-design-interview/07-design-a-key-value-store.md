@@ -15,7 +15,7 @@ The value in a key-value pair can be strings, lists, objects, etc. The value is 
 
 Here is a data snippet in a key-value store:
 
-*Table 1: Sample Key-Value Records*
+*Table 1 Sample Key-Value Records*
 
 | **key** | **value** |
 | ------- | --------- |
@@ -117,14 +117,26 @@ Choosing the right CAP guarantees that fit your use case is an important step in
 
 In this section, we will discuss the following core components and techniques used to build a key-value store:
 
-- [Data Partition](#data-partition)
-- [Data Replication](#data-replication)
-- [Consistency](#consistency)
-- [Inconsistency Resolution](#inconsistency-resolution-versioning)
-- [Handling Failures](#handling-failures)
-- [System Architecture Diagram](#system-architecture-diagram)
-- [Write Path](#write-path)
-- [Read Path](#read-path)
+- [Understand the Problem and Establish Design Scope](#understand-the-problem-and-establish-design-scope)
+- [Single Server Key-value Store](#single-server-key-value-store)
+- [Distributed Key-value Store](#distributed-key-value-store)
+  - [CAP Theorem](#cap-theorem)
+  - [System Components](#system-components)
+  - [Data Partition](#data-partition)
+  - [Data Replication](#data-replication)
+  - [Consistency](#consistency)
+    - [Consistency Models](#consistency-models)
+  - [Inconsistency Resolution: Versioning](#inconsistency-resolution-versioning)
+  - [Handling Failures](#handling-failures)
+    - [Failure Detection](#failure-detection)
+    - [Handling Temporary Failures](#handling-temporary-failures)
+    - [Handling Permanent Failures](#handling-permanent-failures)
+    - [Handling Data Center Outage](#handling-data-center-outage)
+  - [System Architecture Diagram](#system-architecture-diagram)
+  - [Write Path](#write-path)
+  - [Read Path](#read-path)
+- [Summary](#summary)
+- [Reference Materials](#reference-materials)
 
 The content below is largely based on three popular key-value store systems: Dynamo <FootnoteRef id="4" />, Cassandra <FootnoteRef id="5" />, and BigTable <FootnoteRef id="6" />.
 
@@ -414,7 +426,6 @@ As the design is decentralized, each node performs many tasks as presented in Fi
   />
 </Frame>
 
-
 ### Write Path
 
 Figure 19 explains what happens after a write request is directed to a specific node. Please note the proposed designs for write/read paths are primary based on the architecture of Cassandra <FootnoteRef id="8" />.
@@ -465,12 +476,12 @@ The read path is shown in Figure 21 when data is not in memory.
 
 This chapter covers many concepts and techniques. To refresh your memory, the following table summarizes features and corresponding techniques used for a distributed key-value store.
 
-*Table 2: Goals vs. Techniques for a Distributed KV Store*
+*Table 2 Goals vs. Techniques for a Distributed KV Store*
 
 | **Goal/Problems**           | **Technique**                                         |
 | --------------------------- | ----------------------------------------------------- |
 | Ability to store big data   | Use consistent hashing to spread load across servers  |
-| High availability reads     | Data replication<br /><br />Multi-datacenter setup        |
+| High availability reads     | Data replication<br /><br />Multi-datacenter setup    |
 | Highly available writes     | Versioning and conflict resolution with vector clocks |
 | Dataset partition           | Consistent Hashing                                    |
 | Incremental scalability     | Consistent Hashing                                    |

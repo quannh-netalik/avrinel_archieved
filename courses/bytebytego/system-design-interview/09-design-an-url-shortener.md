@@ -186,7 +186,7 @@ Hash function is used to hash a long URL to a short URL, also known as *hashVal
 
 The *hashValue* consists of characters from [0-9, a-z, A-Z], containing 10 + 26 + 26 = 62 possible characters. To figure out the length of *hashValue*, find the smallest *n* such that *62^n ≥ 365 billion*. The system must support up to 365 billion URLs based on the back of the envelope estimation. Table 1 shows the length of *hashValue* and the corresponding maximal number of URLs it can support.
 
-*Table 1: Hash Value Length vs. URL Capacity*
+*Table 1 Hash Value Length vs. URL Capacity*
 
 | **n** | **Maximal number of URLs**                   |
 | ----- | -------------------------------------------- |
@@ -208,14 +208,13 @@ We will explore two types of hash functions for a URL shortener. The first one i
 To shorten a long URL, we should implement a hash function that hashes a long URL to a 7-character string. A straightforward solution is to use well-known hash functions like CRC32, MD5, or SHA-1. The following table compares the hash results after applying different hash functions on this URL:
 `https://en.wikipedia.org/wiki/Systems_design`
 
-*Table 2: Sample URL Hashed by Three Algorithms*
+*Table 2 Sample URL Hashed by Three Algorithms*
 
 | **Hash function** | **Hash value (Hexadecimal)**             |
 | ----------------- | ---------------------------------------- |
 | CRC32             | 5cb54054                                 |
 | MD5               | 5a62509a84df9ee03fe1230b9df8b84e         |
 | SHA-1             | 0eeae7916c06853901d9ccbefbfcaf4de57ed85b |
-
 
 As shown in Table 2, even the shortest hash value (from CRC32) is too long (more than 7 characters). How can we make it shorter?
 
@@ -252,7 +251,7 @@ Base conversion is another approach commonly used for URL shorteners. Base conve
 
 Table 3 shows the differences of the two approaches.
 
-*Table 3: Comparison*
+*Table 3 Comparison*
 
 | **Hash + collision resolution**                                                               | **Base 62 conversion**                                                                                                               |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -289,7 +288,7 @@ To make the flow easier to understand, let us look at a concrete example.
 - Convert the ID to shortURL using the base 62 conversion. ID (2009215674938) is converted to "zn9edcu".
 - Save ID, shortURL, and longURL to the database as shown in Table 4.
 
-*Table 4: ID-to-ShortURL Mapping Example*
+*Table 4 ID-to-ShortURL Mapping Example*
 
 | id            | shortURL | longURL                                        |
 | ------------- | -------- | ---------------------------------------------- |

@@ -12,7 +12,7 @@ You need to have a good sense of scalability basics to effectively carry out bac
 
 Although data volume can become enormous when dealing with distributed systems, calculation all boils down to the basics. To obtain correct calculations, it is critical to know the data volume unit using the power of 2. A byte is a sequence of 8 bits. An ASCII character uses one byte of memory (8 bits). Below is a table explaining the data volume unit (Table 1).
 
-*Table 1: Data Volume Units*
+*Table 1 Data Volume Units*
 
 | Power | Approximate value | Full name  | Short name |
 | ----- | ----------------- | ---------- | ---------- |
@@ -26,7 +26,7 @@ Although data volume can become enormous when dealing with distributed systems, 
 
 Dr. Dean from Google reveals the length of typical computer operations in 2010 <FootnoteRef id="1" />. Some numbers are outdated as computers become faster and more powerful. However, those numbers should still be able to give us an idea of the fastness and slowness of different computer operations.
 
-*Table 2: Operation Latencies*
+*Table 2 Operation Latencies*
 
 | Operation name                                | Time                    |
 | --------------------------------------------- | ----------------------- |
