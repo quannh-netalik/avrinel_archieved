@@ -99,7 +99,24 @@
                   "courses/bytebytego/system-design-interview/10-design-a-web-crawler",
                   "courses/bytebytego/system-design-interview/11-design-a-notification-system",
                   "courses/bytebytego/system-design-interview/12-design-a-newsfeed-system",
-                  "courses/bytebytego/system-design-interview/13-design-a-chat-system"
+                  "courses/bytebytego/system-design-interview/13-design-a-chat-system",
+                  "courses/bytebytego/system-design-interview/14-design-a-search-autocomplete-system",
+                  "courses/bytebytego/system-design-interview/15-design-youtube",
+                  "courses/bytebytego/system-design-interview/16-design-google-drive",
+                  "courses/bytebytego/system-design-interview/17-proximity-service",
+                  "courses/bytebytego/system-design-interview/18-nearby-friends",
+                  "courses/bytebytego/system-design-interview/19-google-maps",
+                  "courses/bytebytego/system-design-interview/20-distributed-message-queue",
+                  "courses/bytebytego/system-design-interview/21-metrics-monitoring-and-alerting-system",
+                  "courses/bytebytego/system-design-interview/22-ad-click-event-aggregation",
+                  "courses/bytebytego/system-design-interview/23-hotel-reservation-system",
+                  "courses/bytebytego/system-design-interview/24-distributed-email-service",
+                  "courses/bytebytego/system-design-interview/25-s3-like-object-storage",
+                  "courses/bytebytego/system-design-interview/26-real-time-gaming-leaderboard",
+                  "courses/bytebytego/system-design-interview/27-payment-system",
+                  "courses/bytebytego/system-design-interview/28-digital-wallet",
+                  "courses/bytebytego/system-design-interview/29-stock-exchange",
+                  "courses/bytebytego/system-design-interview/30-the-learning-continues"
                 ]
               },
               {
